@@ -1,6 +1,6 @@
 # PROG1Projekt
 
-Analiziral bom vse nogometne tekme v 5 najmočnejših ligah (če bo podatkov preveč, se bom osredotočil samo na najmočnejše 3 lige): Premier league, LaLiga, Serie A, Bundesliga, Ligue 1. Podatke za vse tekme bom dobil na potralu [Transfermarkt](https://www.transfermarkt.com/).
+Analiziral bom vse nogometne tekme v 5 najmočnejših ligah (če bo podatkov preveč, se bom osredotočil samo na najmočnejše 3 lige): Premier league, LaLiga, Serie A, Bundesliga, Ligue 1. Podatke za vse tekme bom dobil na portalu [Transfermarkt](https://www.transfermarkt.com/).
 
 ## Podatki
 Za vsako odigrano tekmo bom zajel:
