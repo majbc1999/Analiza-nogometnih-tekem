@@ -1,0 +1,1113 @@
+/* infos zum wettbewerb Start */
+#infos-zum-wettbewerb .table-header {
+    border: 0px;
+}
+#info-wettbewerb-liste {
+    margin: -20px 0 20px 0;
+}
+
+#info-wettbewerb-liste .info-wettbewerb {
+    height: 90px;
+    width: calc(100%/6);
+    display: inline-block;
+    margin-right: -4px;
+    text-align: center;
+    vertical-align: top;
+    position: relative;
+    cursor: pointer;
+    color: #000;
+    margin-top: 25px;
+
+}
+#info-wettbewerb-liste .info-wettbewerb a {
+    width: 100%;
+    text-align: center;
+    position: relative;
+}
+
+#info-wettbewerb-liste .info-wettbewerb p:hover {
+    text-decoration: underline !important;
+}
+
+#info-wettbewerb-liste .info-wettbewerb p {
+    font-size: 14px;
+    text-decoration: none;
+    font-size: 14px;
+    color: #1a3151;
+    font-weight: bold;
+    margin-bottom: 5px;
+    max-width: 112.88px;
+    line-height: 18px;
+}
+
+#info-wettbewerb-liste .info-wettbewerb .image {
+    text-decoration: none;
+    height: 50px;
+    margin-bottom: 6px;
+}
+
+/* #gruppen-spieltage-box Start */
+#gruppen-spieltage-box .gruppen-box .table-header {
+    border-bottom: 0px;
+}
+#gruppen-spieltage-box .gruppen-box select#selectMe {
+    min-width: 185px;
+    height: 25px;
+    color: #1d75a3;
+    font-family: Source Sans Pro;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 0 5px;
+    cursor: pointer;
+    width: auto;
+}
+#gruppen-spieltage-box .gruppen-box #right, #gruppen-spieltage-box .gruppen-box #left {
+    position: relative;
+    top: 5px;
+}
+#selectMe.abstand-links {
+    margin-left: 14px;
+}
+#selectMe.abstand-rechts {
+    margin-right: 14px;
+}
+
+/* #gruppen-spieltage-box Ende */
+
+#wettbewerb_head .box .marktwert {
+    float:right;
+    padding:15px 0 0 0;
+    width:21%;
+    font-size:20px;
+    text-align:center;
+    line-height:1.1;
+    color:#ccc;
+    border-left:1px solid #ddd;
+    font-family: OSB;
+    white-space: nowrap;
+    height:130px;
+}
+
+#wettbewerb_head .box .marktwert a:hover {
+    text-decoration:none;
+}
+
+#wettbewerb_head .box .marktwert span {
+    font-size:54px;
+    color: #333 !important;
+}
+
+#wettbewerb_head .box .marktwert a {
+    font-size:54px;
+    color: #333 !important;
+}
+
+#wettbewerb_head .box .marktwert .waehrung {
+    font-size: 30px !important;
+}
+
+#wettbewerb_head .box .marktwert .waehrung {
+    font-size: 30px !important;
+}
+
+#wettbewerb_head .box  .marktwert .aenderung {
+    font-size:13px;
+}
+
+#wettbewerb_head .box .aktueller-marktwert a:hover {
+    text-decoration:none;
+}
+
+#wettbewerb_head .box .aktueller-marktwert span {
+    font-size:54px;
+    color: #333 !important;
+    padding-left:10px;
+}
+
+#wettbewerb_head .box .aktueller-marktwert a {
+    font-size:54px;
+    color: #333 !important;
+}
+
+#wettbewerb_head .box .aktueller-marktwert .waehrung {
+    font-size: 30px !important;
+}
+
+.spieler-transfer-cell {
+    width: 140px;
+}
+
+.alter-transfer-cell {
+    width: 20px;
+}
+
+.pos-transfer-cell {
+    width: 115px;
+}
+
+.kurzpos-transfer-cell {
+    width: 25px;
+    display:none;
+}
+
+.mw-transfer-cell {
+    width: 80px;
+}
+
+.nat-transfer-cell {
+    width: 20px;
+}
+
+.verein-transfer-cell {
+    width: 130px;
+}
+
+.abloese-transfer-cell {
+    width: 80px;
+}
+
+.wappenleiste-box {
+    padding:5px 0;
+}
+
+.wappenleiste {
+    display: inline-block;
+    text-align: center;
+}
+
+.wappenleiste-box-mobil {
+    display:none;
+}
+
+.transfer-zusatzinfo-alter {
+    float: left;
+    width: 33%;
+    display: inline-block;
+    text-align:left;
+}
+
+.transfer-zusatzinfo-wert {
+    float: left;
+    width: 33%;
+    display: inline-block;
+    text-align:left;
+}
+
+.transfer-einnahmen-ausgaben {
+    float: left;
+    width: 33%;
+    display: inline-block;
+    text-align:right;
+    font-weight:bold;
+}
+
+.transfer-zusatzinfo-box {
+    padding:15px 4px;
+}
+
+.footer-border {
+    border-top:1px solid #ddd;
+}
+
+.transferbilanz {
+    padding:10px;
+}
+
+.transferbilanz .headline {
+    font-family: OSL;
+    font-size: 22px;
+    margin: 5px 0;
+    clear: both;
+}
+.transferbilanz .icon {
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+.transferbilanz .icon img {
+    width: 65px;
+    height: 65px;
+}
+
+.transferbilanz .text {
+    float: left;
+    line-height: 1.5;
+    padding-top: 7px;
+}
+
+.transferbilanz .text span {
+    font-weight: bold;
+}
+
+.em-gruppen {
+    border-right: 1px solid #ddd;
+    padding-bottom: 5px;
+}
+
+.em-gruppen .em-flagge {
+    text-align: center;
+    padding: 2px;
+}
+
+.em-gruppen .em-flagge img {
+    border: 1px solid #585859;
+    width: 19px !important;
+}
+
+.em-gruppen p {
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+.em-gruppen:last-child{
+    border-right: 0;
+}
+
+.em-gruppe {
+    padding: 3px 0 5px 0;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+@media only screen and (max-width: 1225px) and (min-width: 768px) {
+    .kurzpos-transfer-cell {
+        display: table-cell;
+    }
+    .pos-transfer-cell {
+        display: none;
+    }
+    .transfer-zusatzinfo-alter {
+        display: none;
+    }
+
+    .transfer-zusatzinfo-wert {
+        display: none;
+    }
+
+    .transfer-einnahmen-ausgaben {
+        width: 100%;
+    }
+    .transferbilanz .icon img {
+        margin-top: 12px;
+        width: 45px;
+        height: 45px;
+    }
+
+}
+
+@media only screen and (max-width: 767px) {
+
+    #info-wettbewerb-liste .info-wettbewerb {
+        height: 70px;
+        width: calc(100%/3);
+        display: inline-block;
+        text-align: center;
+        vertical-align: top;
+        cursor: pointer;
+        margin-top: 8px;
+    }
+
+    #info-wettbewerb-liste .info-wettbewerb p {
+        font-size: 12px;
+        max-width: 129.33px;
+        line-height: 14px;
+    }
+
+    #info-wettbewerb-liste .info-wettbewerb .image {
+        height: 45px;
+        margin-bottom: 1px;
+    }
+    #info-wettbewerb-liste .info-wettbewerb p {
+        line-height: 10px;
+    }
+
+    .kurzpos-transfer-cell {
+        display: table-cell;
+    }
+    .pos-transfer-cell {
+        display: none;
+    }
+    .em-gruppe {
+        float: left !important;
+        text-align: left;
+        padding: 3px 0 5px 15px;
+    }
+    .em-gruppen .em-flagge {
+        padding: 3px;
+    }
+    #em-gruppen {
+        margin-top: 5px;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .transfer-zusatzinfo-wert {
+        display: none;
+    }
+
+    .transfer-zusatzinfo-alter {
+        width: 50%;
+    }
+
+    .transfer-einnahmen-ausgaben {
+        width: 50%;
+    }
+    .mw-transfer-cell {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 495px) {
+    .nat-transfer-cell {
+        display: none;
+    }
+    .spieler-transfer-cell {
+        width: 130px;
+    }
+    .kurzpos-transfer-cell {
+        display: none;
+    }
+    .wappenleiste-box-mobil {
+        display:block;
+    }
+    .wappenleiste-box {
+        display:none;
+    }
+    .wappenleiste {
+        padding: 0 0 10px 0;
+    }
+}
+
+@media only screen and (max-width: 420px) {
+    .transfer-zusatzinfo-alter {
+        display: none;
+    }
+    .transfer-einnahmen-ausgaben {
+        width: 100%;
+    }
+    .alter-transfer-cell {
+        display: none;
+    }
+    .spieler-transfer-cell {
+        width: 90px;
+    }
+    .verein-flagge-transfer-cell img {
+        display: none;
+    }
+    .verein-transfer-cell {
+        width: 110px;
+    }
+    .abloese-transfer-cell {
+        width: 75px;
+    }
+    .transferbilanz .icon img {
+        margin-top: 12px;
+        width: 45px;
+        height: 45px;
+    }
+}
+
+.bg_liga_1 {
+    background-color: #afd179;
+}
+.bg_liga_2 {
+    background-color: #d6eab6;
+}
+.bg_liga_3 {
+    background-color: #a5cce9;
+}
+.bg_liga_4 {
+    background-color: #fee492;
+}
+.bg_liga_5 {
+    background-color: #f8cfcd;
+}
+.bg_liga_6 {
+    background-color: #ccc;
+}
+.bg_liga_7 {
+    background-color: #fff;
+}
+
+
+.elf-spielername {
+    font-size: 11px;
+    font-weight: bold;
+    min-width: 60px;
+    display:inline-block;
+    color: #1d75a3;
+    padding: 2px 2px;
+    text-align: center;
+}
+.differenz_greenblock {
+    width:25px;
+    display:inline-block;
+    height:20px;
+    color:#fff !important;
+    font-family: OSB;
+    font-size: 14px;
+    background: #749f18;
+    padding:3px 4px 0 4px;
+    cursor:help;
+    position: relative;
+    text-align: right;
+}
+
+.differenz_greyblock {
+    width:25px;
+    display:inline-block;
+    height:20px;
+    font-family: OSB;
+    font-size: 14px;
+    background: #ddd;
+    padding:3px 4px 0 4px;
+    cursor:help;
+    position: relative;
+    text-align: right;
+}
+
+.differenz_redblock {
+    width:25px;
+    display:inline-block;
+    height:20px;
+    color:#fff !important;
+    font-family: OSB;
+    font-size: 14px;
+    background: #b80718;
+    padding:3px 4px 0 4px;
+    cursor:help;
+    position: relative;
+    text-align: right;
+}
+
+.dataHeader {
+    position: relative;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    margin-top: 5px;
+}
+
+.dataMain {
+    height: 175px;
+    background-color: #f2f2f2;
+    border-bottom: 1px solid #ddd;
+    background-image: linear-gradient(to bottom, #fff 0%, #333 50%);
+}
+
+.dataTop {
+    background-color:rgba(255, 255, 255, 0.8);
+    height:100%;
+}
+
+.teaserHeader {
+    min-height: 220px !important;
+}
+
+.teaserHeader .dataMain {
+    height: 50px !important;
+}
+
+.header-anzeige-teaserbuttons #info-wettbewerb-liste {
+    margin-top: 0 !important;
+}
+
+
+.dataName {
+    padding: 10px 12px;
+    color: #1a3151;
+    font-family: OSL;
+}
+
+.dataName h1 {
+    font-size: 38px;
+    display: inline-block;
+    color: #1a3151;
+    font-family: OSL;
+    font-weight: normal;
+    margin: 0;
+}
+.dataName h1 b {
+    font-size: 38px;
+    display: inline-block;
+    color: #1a3151;
+    font-family: OSL;
+}
+
+.dataName h1 a {
+    color: #fff !important;
+}
+
+.dataRN {
+    font-weight: bold;
+}
+
+.dataCaptain {
+    -webkit-filter: drop-shadow(0px 0px 9px rgba(255, 255, 255, 1));
+}
+
+.dataErfolge {
+    padding-left: 152px;
+    padding-top: 20px;
+}
+
+.dataErfolg {
+    height: 80px;
+    position: relative;
+    display: inline-block;
+    float: left;
+    margin-left: 18px;
+    min-width: 42px;
+}
+
+.dataErfolgImage {
+    -webkit-filter: drop-shadow(0px 0px 9px rgba(255, 255, 255, 1));
+}
+
+.dataErfolgAnzahl {
+    height:30px;
+    width:30px;
+    border:2px solid #fff;
+    background-color:#00aded;
+    position: absolute;
+    bottom: -4px;
+    right:-4px;
+    border-radius: 25px;
+    line-height: 25px;
+    font-family: OSL;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+    font-size:18px;
+    z-index: 4;
+}
+
+.dataErfolgLand {
+    position: absolute;
+    bottom: -5px;
+    right: 19px;
+    z-index: 3;
+    display: none;
+}
+
+.dataErfolgLand img {
+    border: 1px solid #fff;
+}
+
+.dataErfolgMore {
+    position: absolute;
+    bottom: -2px;
+    left: -4px;
+    -webkit-filter: drop-shadow(0px 0px 9px rgba(255, 255, 255, 1));
+}
+
+.dataContent {
+    height: 80px;
+    background-color:#fff;
+}
+
+.dataBottom {
+    padding-left:150px;
+    padding-top: 12px;
+}
+
+.dataDaten {
+    float:left;
+    line-height:1.6;
+    padding-left:20px;
+}
+
+.dataDaten .dataItem {
+
+}
+
+.dataDaten .dataValue {
+    font-weight: bold;
+}
+
+.dataDaten .dataValue img {
+    margin: 0 2px;
+    vertical-align: text-bottom;
+}
+
+.dataDaten .dataValue .flaggenrahmen {
+    vertical-align: baseline;
+}
+
+.dataDaten p {
+    margin-bottom: 0;
+}
+
+.dataDaten .flaggenrahmen {
+    margin: 0 2px;
+
+}
+
+.dataBild {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    background-color: #fff;
+    border: 2px solid #fff;
+}
+
+.dataBild img {
+    -webkit-filter: drop-shadow(0px 0px 12px rgba(255,255,255,1));
+}
+
+.dataBild .bildquelle {
+    margin-top: -10px;
+}
+
+.dataZusatzbox {
+    padding:8px;
+    position: absolute;
+    top: 20px;
+    right: 10px;
+    border: 1px solid #ddd;
+    background-color:rgba(255, 255, 255, 0.8);
+    width: 320px;
+    height: 116px;
+}
+
+.dataZusatzImage {
+    float:left;
+    padding: 0 2px;
+}
+
+.dataZusatzDaten {
+    float:left;
+    line-height:1.5;
+    padding-left:15px;
+    max-width: 200px;
+}
+
+.dataZusatzDaten .hauptpunkt {
+    font-size: 17px;
+    display: inline-block;
+    font-weight: bold;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 185px;
+    height: 23px !important;
+}
+
+.dataZusatzDaten .mediumpunkt {
+    font-size: 12px;
+    font-weight:bold;
+    text-overflow: ellipsis-word;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 150px;
+    display: inline-block;
+    line-height: 1.2;
+    padding: 0;
+}
+.dataZusatzDaten .dataItem {
+
+}
+.dataZusatzDaten .dataValue {
+    font-weight: bold;
+}
+
+.dataZusatzDaten .dataValue img {
+    vertical-align: baseline;
+}
+
+.dataZusatzDaten .flaggenrahmen {
+    margin: 0 2px;
+}
+
+.dataMarktwert {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    border: 1px solid #ddd;
+    background-color: #00aded;
+    padding: 5px 25px;
+    color: #fff;
+    font-size:30px;
+    font-family: OSL;
+    box-shadow: inset 0 0 50px rgba(49,79,119,0.5);
+    min-width: 230px;
+    text-align: right;
+}
+
+.dataMarktwert a {
+    color: #fff;
+    font-size: 62px;
+}
+
+.dataMarktwert a:hover {
+    text-decoration: none;
+}
+
+.dataMarktwert span {
+    color: #fff;
+    font-size: 30px;
+}
+
+.dataMarktwert p {
+    line-height: 1.1;
+    margin-bottom: 0;
+    font-size: 11px;
+    font-family: OSL;
+}
+
+.dataZusatzDaten .mediumpunkt img {
+    vertical-align: text-bottom;
+    margin-right: 2px;
+}
+
+.linkProfile {
+    text-decoration: none;
+    display: block;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    border: 1px solid #ddd;
+    background-color: #fff;
+    padding: 4px 15px;
+    min-height: 80px;
+    font-size: 14px;
+    min-width: 250px;
+    max-width: 350px;
+}
+
+.dataProfile {
+
+    cursor: pointer;
+}
+
+.linkProfile:hover {
+    background-color: #f2f2f2;
+    text-decoration: none;
+
+}
+
+.dataProfileImage {
+    float:left;
+    padding-right:15px;
+}
+
+.dataProfileImage img {
+    height: 40px;
+}
+.dataProfileDaten {
+    float:left;
+    line-height:1.5;
+}
+
+.dataProfileDaten .hauptpunkt {
+    font-size: 18px;
+    font-weight:bold;
+}
+.dataProfile .mediumpunkt {
+    font-size: 14px;
+    font-weight: bold;
+    display: block;
+    margin: 3px 0 7px 0;
+}
+.dataProfileDaten .dataItem {
+
+}
+.dataProfileDaten .dataValue {
+    font-weight: bold;
+}
+
+.dataProfileDaten .flaggenrahmen {
+    margin: 0 2px;
+}
+.dataProfileDatenMobil {
+    display:none;
+}
+
+.erfolgFlagge {
+    width: 78px;
+    height: 78px;
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -khtml-border-radius: 50%;
+    border: 3px solid #fff;
+}
+
+@media only screen and (max-width: 1024px) {
+    .notTablet {
+        display: none;
+    }
+
+}
+@media only screen and (max-width: 767px) {
+    .dataName h1, .dataName h1 b {
+        font-size: 30px;
+        white-space: nowrap;
+    }
+    .dataHeader {
+        height: auto;
+        max-height: 290px;
+        min-height: 240px;
+        position: relative;
+        background-color: #fff;
+        border: 1px solid #ddd;
+        margin-top: 5px;
+    }
+    .forMobile {
+        display: inline-block;
+    }
+
+    .ohneMarktwert {
+        min-height: 205px !important;
+    }
+
+    .dataMain {
+        height: 100px;
+        background-color: #f2f2f2;
+        border-bottom: 1px solid #ddd;
+        background-image: linear-gradient(to bottom, #fff 0%, #333 50%);
+    }
+
+    .dataContent {
+        height: auto;
+        max-height: 200px;
+    }
+
+    .dataMarktwert {
+        top: 198px;
+        right: auto;
+        left: 3px;
+        bottom: auto;
+        padding: 2px 8px;
+        min-width: 114px;
+        width: 114px;
+        border:2px solid #fff;
+    }
+
+    .dataMarktwert a {
+        font-size: 24px;
+    }
+
+    .dataMarktwert span {
+        font-size: 16px;
+    }
+    .dataBild {
+        bottom: auto;
+        top: 53px;
+        left: 3px;
+        z-index: 4;
+    }
+    .dataBild img {
+        width: 110px;
+    }
+
+    .dataBild .bildquelle {
+        margin-top: -13px;
+    }
+
+    .dataBottom {
+        padding-left: 114px;
+        padding-top: 3px;
+    }
+
+    .dataDaten {
+        float:none;
+        line-height:1.6;
+        padding-left: 10px;
+    }
+
+    .dataZusatzbox {
+        padding: 7px 15px 1px 6px;
+        top: 50px;
+        right: auto;
+        padding-left: 122px;
+        left: 0;
+        width: auto;
+        width: 100%;
+        height: 49px;
+        z-index: 3;
+        background-color: #fff;
+        border: 0;
+        display: none;
+    }
+
+    .dataZusatzImage {
+        width: 26px;
+        margin-top: 5px;
+    }
+
+    .dataZusatzDaten {
+        padding-left: 7px;
+        line-height: 1.3;
+        max-width: 140px;
+        max-height: 40px;
+    }
+
+    .dataZusatzDaten .hauptpunkt {
+        font-size: 16px;
+    }
+    .dataZusatzDaten .mediumpunkt img {
+        display: none;
+    }
+    .dataZusatzDaten .mediumpunkt {
+        font-weight: normal;
+    }
+    .dataZusatzDaten .dataItem {
+        display: none;
+    }
+    .dataZusatzDaten .dataValue {
+        display: none;
+    }
+    .dataZusatzDaten .auchMobil {
+        display: inline-block !important;
+
+    }
+    .dataZusatzDaten .mediumpunkt img {
+        vertical-align: baseline;
+        margin-right: 2px;
+    }
+    .dataMarktwert p {
+        display: none;
+    }
+
+    .dataErfolge {
+        padding-left: 3px;
+        padding-top: 4px;
+        border: 1px solid #ddd;
+        height: 43px;
+        background-color: #fff;
+        border-top: 0;
+    }
+
+    .dataErfolg {
+        height: 32px;
+        position: relative;
+        display: inline-block;
+        float: left;
+        margin-left: 5px;
+        min-width: 15px;
+        margin-right: 20px;
+    }
+
+    .dataErfolgImage {
+        -webkit-filter: drop-shadow(0px 0px 9px rgba(255, 255, 255, 1));
+        height: 30px;
+    }
+
+    .dataErfolgAnzahl {
+        height:20px;
+        width:20px;
+        bottom: -3px;
+        right: -11px;
+        border-radius: 10px;
+        line-height: 15px;
+        font-size: 12px;
+    }
+
+    .dataErfolgLand {
+        display: none;
+    }
+
+    .dataErfolgMore {
+        position: absolute;
+        bottom: -3px;
+        right: -4px;
+        margin-left: 5px;
+        -webkit-filter: drop-shadow(0px 0px 9px rgba(255, 255, 255, 1));
+    }
+
+    .linkProfile {
+        top: 198px;
+        right: auto;
+        left: 3px;
+        bottom: auto;
+        padding: 2px 2px;
+        min-width: 114px;
+        width: 114px;
+        border:2px solid #fff;
+        background-color: #f2f2f2;
+        min-height: 38px;
+        font-size: 14px;
+    }
+    .linkProfile:hover {
+        text-decoration: none;
+    }
+
+    .dataProfileImage {
+        display: none;
+    }
+
+    .dataProfileDaten {
+        display:none;
+    }
+    .dataProfileDatenMobil {
+        display: block;
+        line-height: 1.4;
+        font-weight: bold;
+    }
+    .dataProfileDatenMobil .mediumpunkt {
+        font-size: 12px;
+
+    }
+    .dataProfile .mediumpunkt {
+        font-size: 12px;
+        margin: 2px 0;
+        font-weight: normal;
+    }
+}
+
+.dataMain-EM {
+    background: url('/images/em_header.png');
+    background-color: #fff;
+    border-bottom: 0;
+}
+.dataTop-EM {
+    background: none;
+}
+
+.color-EM {
+    color: #fff !important;
+}
+
+.dataBild-EM {
+    border: 0;
+    background-color: transparent;
+}
+
+.emSpieltag-spielfrei {
+    height: 242px;
+    background-color: #00ADEC;
+    width: 100%;
+    color: #fff;
+    font-size: 42px;
+    display: table;
+    line-height: 1.5;
+    font-weight: bold;
+    box-shadow: inset 0 0 90px rgba(49,79,119,0.6);
+    border-top:1px solid #fff;
+}
+.emSpieltag-spielfrei span {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.matchplan-import-container {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 4px;
+    justify-content: space-around;
+}
+
+.matchplan-import-accept-all-changes {
+    background: #1a3151;
+    color: #fff;
+    cursor: pointer;
+    flex: 0 0 100%;
+    height: 40px;
+    font-size: 14px;
+    margin: 10px;
+    padding-top: 10px;
+    text-align: center;
+}

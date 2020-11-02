@@ -1,0 +1,579 @@
+#header-social-icons {
+  height: 60px; }
+  #header-social-icons a {
+    width: 40px;
+    height: 40px;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    align-items: center;
+    justify-content: center; }
+    #header-social-icons a:hover {
+      text-decoration: none; }
+  #header-social-icons span {
+    background-repeat: no-repeat;
+    display: inline-block;
+    vertical-align: middle;
+    cursor: pointer; }
+
+.tooltipster-default {
+  border-radius: 5px;
+  border: 2px solid #000;
+  background: #fff;
+  color: #000;
+  -moz-box-shadow: 0 0 3px #bbb;
+  -webkit-box-shadow: 0 0 3px #bbb;
+  box-shadow: 0 0 3px #bbb; }
+  .tooltipster-default .tooltipster-content {
+    font-family: "Source Sans Pro", sans-serif !important;
+    font-size: 14px;
+    line-height: 16px;
+    padding: 8px 10px;
+    overflow: hidden;
+    background: #fff !important; }
+    .tooltipster-default .tooltipster-content .kurzprofil {
+      -moz-box-shadow: 0 0 3px #bbb;
+      -webkit-box-shadow: 0 0 3px #bbb;
+      box-shadow: 0 0 3px #bbb;
+      background-color: #fff;
+      width: 360px;
+      color: #585858 !important; }
+      .tooltipster-default .tooltipster-content .kurzprofil .kurzprofil-header {
+        width: 100%;
+        font-size: 22px;
+        font-weight: 700;
+        height: 37px;
+        border-bottom: 1px solid #ddd; }
+        .tooltipster-default .tooltipster-content .kurzprofil .kurzprofil-header .spielername-kurzprofil {
+          float: left;
+          font-weight: 700;
+          font-size: 20px;
+          padding: 12px 10px 0 5px;
+          max-width: 88%;
+          z-index: 5;
+          font-family: OSL, sans-serif; }
+        .tooltipster-default .tooltipster-content .kurzprofil .kurzprofil-header .icons-kurzprofil {
+          float: right;
+          text-align: center;
+          padding: 3px 5px 0 5px;
+          border-left: 1px solid #ddd;
+          height: 37px; }
+      .tooltipster-default .tooltipster-content .kurzprofil .kurzprofil-content {
+        width: 100%;
+        padding: 0;
+        background-color: #fff; }
+        .tooltipster-default .tooltipster-content .kurzprofil .kurzprofil-content .kurzprofil-foto {
+          float: left;
+          width: 100px;
+          padding: 5px; }
+      .tooltipster-default .tooltipster-content .kurzprofil .kurzprofil-infos {
+        float: left;
+        width: 200px;
+        border-left: 1px solid #ddd;
+        padding-top: 5px; }
+        .tooltipster-default .tooltipster-content .kurzprofil .kurzprofil-infos .kurzprofil-infos-text {
+          padding: 0 0 0 10px;
+          line-height: 1.7;
+          font-size: 12px; }
+
+.tooltipster-content iframe {
+  border: 0px; }
+
+.breadcrumb-box .breadcrumb_home_button {
+  float: left;
+  margin-right: 20px; }
+  .breadcrumb-box .breadcrumb_home_button img {
+    background-color: #e9e9e9; }
+
+.breadcrumb-box img {
+  height: 40px;
+  width: 40px;
+  display: inline-block; }
+
+.breadcrumb-box .breadcrumb-select img {
+  background: #1a3151;
+  position: absolute;
+  z-index: 2; }
+
+.teilen-desktop-link.with-rss ul {
+  width: 90px; }
+
+.teilen-desktop-link .svg-icon,
+.teilen-desktop-link img {
+  height: 20px;
+  width: 20px; }
+
+/* Navigation Start */
+#main #logobereich #header #schnellsuche {
+  width: 100%;
+  height: 100%;
+  position: relative; }
+
+#main #logobereich #header .header-suche,
+#main #logobereich #header .header-suche:focus {
+  font-family: OSL, sans-serif;
+  float: right;
+  margin: 0;
+  height: 60px;
+  padding: 3px 40px 0 15px;
+  border-radius: 0;
+  border: 1px solid #ddd;
+  background-color: #fff;
+  font-size: 20px;
+  box-shadow: none;
+  transition: initial;
+  text-overflow: ellipsis; }
+
+#main #logobereich #header .header-suche:focus {
+  color: #585858;
+  border: 1px solid #00aded; }
+
+#main #logobereich #header .header-suche-abschicken {
+  position: absolute;
+  top: 20px;
+  right: 60px;
+  height: 20px; }
+
+#main #logobereich #header .header-suche-detailsuche {
+  position: absolute;
+  top: 0;
+  right: 2px;
+  border: 1px solid #ddd;
+  background-color: #f3f3f3; }
+  #main #logobereich #header .header-suche-detailsuche > span.icon-detailsuche {
+    background-image: url("/images/lupe_detailed.svg");
+    background-position: 10px 14px;
+    background-repeat: no-repeat;
+    background-size: 57%;
+    width: 44px;
+    height: 56px; }
+
+#main .popuphalter #profilbox,
+#main .popuphalter #vereinbox {
+  width: 144px; }
+
+#main .navihalter,
+#main .page_wrapper {
+  min-height: 60px;
+  position: relative; }
+  #main .navihalter .large-12:first-child,
+  #main .page_wrapper .large-12:first-child {
+    padding: 0 5px; }
+
+#main .sticky-logo {
+  display: none; }
+
+#main #domains,
+#main #loginbox,
+#main #registerbox,
+#main #notificationsbox,
+#main #pnbox,
+#main #profilbox,
+#main #vereinbox,
+#main #passwortVergessenBox {
+  position: absolute;
+  display: none;
+  top: 0px;
+  right: 5px;
+  width: 280px;
+  background-color: #fff;
+  z-index: 9999;
+  text-align: left;
+  -moz-box-shadow: 0 0 3px #bbb;
+  -webkit-box-shadow: 0 0 3px #bbb;
+  box-shadow: 0 0 3px #bbb;
+  border: 0; }
+
+#main #registerbox,
+#main #notificationsbox,
+#main #pnbox {
+  width: 484px;
+  padding: 0; }
+
+#main #domains {
+  top: 79px;
+  left: 168px;
+  width: 185px;
+  padding: 5px;
+  font-family: OSB, sans-serif; }
+  #main #domains span {
+    font-size: 19px;
+    line-height: 24px; }
+  #main #domains a.aktiv {
+    color: #c5c5c5; }
+
+#main .megamenu_dark #userprofil-box {
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 60px;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  align-items: center; }
+  #main .megamenu_dark #userprofil-box .userbox i.fi-comment,
+  #main .megamenu_dark #userprofil-box .userbox i.fi-megaphone {
+    font-size: 22px;
+    position: absolute;
+    left: 3px;
+    bottom: 3px; }
+  #main .megamenu_dark #userprofil-box .userbox .profildaten {
+    display: inline-block;
+    text-align: left;
+    height: 40px;
+    margin-left: 4px; }
+    #main .megamenu_dark #userprofil-box .userbox .profildaten a {
+      display: inline-block;
+      height: 40px;
+      width: 40px;
+      border-radius: 100%;
+      overflow: hidden;
+      position: relative;
+      top: -3px; }
+      #main .megamenu_dark #userprofil-box .userbox .profildaten a img {
+        border-radius: 100%; }
+    #main .megamenu_dark #userprofil-box .userbox .profildaten a.profil-wappen img {
+      transform: scale(0.85);
+      border-radius: 0; }
+  #main .megamenu_dark #userprofil-box .userbox .header-profil-zahl.nt {
+    background: #c8102e; }
+  #main .megamenu_dark #userprofil-box .userbox .header-profil-zahl.pn {
+    background: #00a4e1; }
+  #main .megamenu_dark #userprofil-box .userbox .profil-pn span.header-profil-zahl,
+  #main .megamenu_dark #userprofil-box .userbox .profil-nt span.header-profil-zahl,
+  #main .megamenu_dark #userprofil-box .userbox .profil-zahl,
+  #main .megamenu_dark #userprofil-box .userbox #live-counter {
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    color: #fff;
+    text-align: center;
+    line-height: 20px; }
+  #main .megamenu_dark #userprofil-box .userbox #live-counter {
+    top: 12px !important;
+    right: -25px;
+    font-size: 12px;
+    font-family: "Source Sans Pro", sans-serif;
+    padding-right: 1px;
+    color: #c8102e;
+    background-color: #fff;
+    font-weight: 700; }
+  #main .megamenu_dark #userprofil-box .userbox.ub-abgemeldet {
+    min-width: initial;
+    font-family: OSB, sans-serif;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-size: 15px;
+    margin-right: 20px;
+    margin-top: 3px; }
+    #main .megamenu_dark #userprofil-box .userbox.ub-abgemeldet > a {
+      color: #fff;
+      line-height: 34px;
+      background-color: #00aded;
+      border-radius: 17px;
+      padding: 0 12px;
+      display: inline-block; }
+      #main .megamenu_dark #userprofil-box .userbox.ub-abgemeldet > a span {
+        margin-right: 8px; }
+  #main .megamenu_dark #userprofil-box #favorit-box a#favorit-stern.favorit-stern-blau {
+    color: #00aded; }
+  #main .megamenu_dark #userprofil-box #favorit-box .profil-pn span.header-profil-zahl {
+    background-color: #00a4e1; }
+  #main .megamenu_dark #userprofil-box #favorit-box .profil-nt span.header-profil-zahl,
+  #main .megamenu_dark #userprofil-box #favorit-box .profil-zahl-bg {
+    background-color: #c8102e; }
+  #main .megamenu_dark #userprofil-box #favorit-box a:hover {
+    text-decoration: none; }
+  #main .megamenu_dark #userprofil-box .profil-pn,
+  #main .megamenu_dark #userprofil-box .profil-nt,
+  #main .megamenu_dark #userprofil-box #favorit-stern {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    position: relative;
+    top: -3px;
+    right: 2px;
+    background-color: #fff;
+    border-radius: 50%;
+    margin: 0 2px; }
+  #main .megamenu_dark #userprofil-box .profil-pn .svg-icon,
+  #main .megamenu_dark #userprofil-box .profil-pn img {
+    transform: scale(0.7);
+    position: relative;
+    top: 1px;
+    left: 0px; }
+  #main .megamenu_dark #userprofil-box .profil-nt .svg-icon,
+  #main .megamenu_dark #userprofil-box .profil-nt img {
+    transform: scale(1.1); }
+  #main .megamenu_dark #userprofil-box #favorit-stern img {
+    vertical-align: middle; }
+
+#main .megamenu_dark #arrow-up-xy {
+  display: none; }
+
+#main #profilbox .profil-pn,
+#main #profilbox .profil-nt {
+  display: none; }
+
+#main .userbox .profil-pn,
+#main .userbox .profil-nt {
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+  position: relative;
+  right: 2px;
+  background-color: #fff;
+  border-radius: 50%;
+  margin: 0 4px; }
+  #main .userbox .profil-pn img,
+  #main .userbox .profil-nt img {
+    height: auto;
+    width: 25px;
+    display: inline-block;
+    vertical-align: middle; }
+  #main .userbox .profil-pn .header-profil-zahl,
+  #main .userbox .profil-nt .header-profil-zahl {
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    color: #fff;
+    text-align: center;
+    line-height: 20px; }
+    #main .userbox .profil-pn .header-profil-zahl.nt,
+    #main .userbox .profil-nt .header-profil-zahl.nt {
+      background: #c8102e; }
+    #main .userbox .profil-pn .header-profil-zahl.pn,
+    #main .userbox .profil-nt .header-profil-zahl.pn {
+      background: #00a4e1; }
+  #main .userbox .profil-pn .profilmenu-pn-text,
+  #main .userbox .profil-pn .profilmenu-nt-text,
+  #main .userbox .profil-nt .profilmenu-pn-text,
+  #main .userbox .profil-nt .profilmenu-nt-text {
+    display: none; }
+
+#main .userbox .profildaten {
+  display: inline-block;
+  text-align: left; }
+  #main .userbox .profildaten a {
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    overflow: hidden;
+    margin-right: -2px;
+    position: relative;
+    transform: scale(0.8);
+    border-radius: 100%; }
+
+#main #schnellsuche-sticky,
+#main .profilmenu-pn-text,
+#main .profilmenu-nt-text {
+  display: none; }
+
+#main.stickyContent {
+  padding-top: 40px; }
+  #main.stickyContent .page_wrapper {
+    min-height: 40px; }
+  #main.stickyContent .naviback {
+    position: fixed;
+    top: 0;
+    height: 40px; }
+  #main.stickyContent .navihalter {
+    position: fixed;
+    top: 0;
+    z-index: 9998;
+    height: 40px;
+    min-height: 40px; }
+  #main.stickyContent .popuphalter {
+    position: fixed !important;
+    top: -20px;
+    z-index: 9999; }
+    #main.stickyContent .popuphalter #domains,
+    #main.stickyContent .popuphalter #loginbox,
+    #main.stickyContent .popuphalter #registerbox,
+    #main.stickyContent .popuphalter #notificationsbox,
+    #main.stickyContent .popuphalter #pnbox,
+    #main.stickyContent .popuphalter #profilbox,
+    #main.stickyContent .popuphalter #vereinbox,
+    #main.stickyContent .popuphalter #passwortVergessenBox,
+    #main.stickyContent .popuphalter #favorit-container {
+      top: 60px; }
+    #main.stickyContent .popuphalter #favorit-container {
+      top: 60px; }
+    #main.stickyContent .popuphalter #profilbox .profil-pn,
+    #main.stickyContent .popuphalter #profilbox .profil-nt {
+      margin-left: 0;
+      margin-bottom: 0;
+      margin-right: 7px;
+      position: relative;
+      display: inline-block;
+      height: 28px; }
+      #main.stickyContent .popuphalter #profilbox .profil-pn span.header-sprite,
+      #main.stickyContent .popuphalter #profilbox .profil-nt span.header-sprite {
+        position: absolute;
+        left: 3px;
+        bottom: 3px; }
+  #main.stickyContent .sticky-logo {
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    float: left; }
+    #main.stickyContent .sticky-logo .tm_svg,
+    #main.stickyContent .sticky-logo img {
+      background-image: url(/images/TM-Logo_White.svg);
+      background-repeat: no-repeat;
+      background-size: 35px;
+      background-position: 7px 10px;
+      height: 40px;
+      width: 50px;
+      display: inline-block; }
+  #main.stickyContent .megamenu_dark {
+    height: 40px !important;
+    box-shadow: 0 5px 5px -5px #000; }
+    #main.stickyContent .megamenu_dark li a.navi-item {
+      margin-bottom: 0; }
+    #main.stickyContent .megamenu_dark .ub-abgemeldet {
+      margin-top: -7px; }
+      #main.stickyContent .megamenu_dark .ub-abgemeldet a {
+        padding: 0 8px !important;
+        border-radius: 100% !important;
+        height: 30px;
+        width: 30px; }
+        #main.stickyContent .megamenu_dark .ub-abgemeldet a span {
+          margin-right: 0px !important; }
+    #main.stickyContent .megamenu_dark #userprofil-box .userbox.ub-angemeldet {
+      min-width: 60px;
+      margin: 0px; }
+    #main.stickyContent .megamenu_dark > ul > li > a {
+      font-size: 17px;
+      line-height: 17px;
+      padding: 10px 0 7px; }
+    #main.stickyContent .megamenu_dark #userprofil-box {
+      height: 40px; }
+      #main.stickyContent .megamenu_dark #userprofil-box #favorit-stern {
+        top: 0px; }
+      #main.stickyContent .megamenu_dark #userprofil-box .userbox {
+        margin: 0 10px 0 0; }
+        #main.stickyContent .megamenu_dark #userprofil-box .userbox .profildaten a {
+          top: 0px; }
+      #main.stickyContent .megamenu_dark #userprofil-box .profil-pn,
+      #main.stickyContent .megamenu_dark #userprofil-box .profil-nt {
+        display: none; }
+    #main.stickyContent .megamenu_dark span.anmelden {
+      display: none; }
+    #main.stickyContent .megamenu_dark #arrow-up-xy {
+      display: inline-block;
+      position: absolute;
+      top: 10px;
+      right: 122px; }
+      #main.stickyContent .megamenu_dark #arrow-up-xy i {
+        color: #fff;
+        font-size: 20px; }
+    #main.stickyContent .megamenu_dark .sticky-suche {
+      height: 35px;
+      position: absolute;
+      right: 146px;
+      width: 80px;
+      margin-top: 3px;
+      z-index: 2; }
+      #main.stickyContent .megamenu_dark .sticky-suche .header-suche,
+      #main.stickyContent .megamenu_dark .sticky-suche .header-suche:focus {
+        font-family: OSL, sans-serif;
+        font-size: 15px;
+        float: right;
+        height: 25px;
+        margin-top: 5px;
+        padding-bottom: 0;
+        padding-left: 4px;
+        padding-right: 26px;
+        padding-top: 0;
+        background-color: #fff;
+        border-radius: 0px; }
+      #main.stickyContent .megamenu_dark .sticky-suche .header-suche:focus {
+        width: 175px; }
+      #main.stickyContent .megamenu_dark .sticky-suche .header-suche-abschicken {
+        right: 5px;
+        top: 8px;
+        position: absolute; }
+  #main.stickyContent .header-pn,
+  #main.stickyContent .header-nt,
+  #main.stickyContent #schnellsuche {
+    display: none; }
+  #main.stickyContent .profilmenu-pn-text,
+  #main.stickyContent .profilmenu-nt-text,
+  #main.stickyContent #schnellsuche-sticky {
+    display: inline-block; }
+
+#main.stickySubnavigation #subnavigation {
+  top: 40px;
+  max-width: 1024px;
+  position: fixed;
+  width: 100%;
+  margin-top: 0;
+  z-index: 9997;
+  height: 40px; }
+  #main.stickySubnavigation #subnavigation .megamenu_light_bar {
+    height: 40px; }
+    #main.stickySubnavigation #subnavigation .megamenu_light_bar #submenue > li {
+      height: 40px; }
+    #main.stickySubnavigation #subnavigation .megamenu_light_bar #submenue > li > a {
+      height: 40px;
+      line-height: 40px;
+      padding: 0 15px 0 3px; }
+    #main.stickySubnavigation #subnavigation .megamenu_light_bar #submenue > li > a.megamenu_drop {
+      background: url(https://tmssl.akamaized.net/images/dropdown.png) no-repeat scroll right 17px rgba(0, 0, 0, 0) !important; }
+
+/* Navigation Ende */
+#managerspielModal {
+  top: calc(50vh - 223px) !important; }
+
+#managerspielModal a.close-reveal.close-icon {
+  right: -4px; }
+
+.modalbutton {
+  display: none; }
+
+.sticky-nav {
+  position: fixed;
+  top: 0;
+  height: 40px;
+  transition: height 0.3s linear 0s; }
+
+.sticky-schrift-sub {
+  font-size: 17px !important;
+  line-height: 40px !important; }
+
+.subnavi-edit-sticky {
+  height: 40px !important; }
+
+li:hover a.sticky-schrift,
+li.aktiv a.sticky-schrift {
+  border-bottom: 3px solid #00aded;
+  margin-bottom: 2px; }
+
+.megamenu_container-sticky-nav #favorit-box {
+  margin-top: -4px !important; }
+
+.megamenu_container-sticky-nav .userbox {
+  margin-top: -10px !important;
+  width: 50px; }
+
+#login-form a {
+  font-size: 13px;
+  line-height: 18px; }
+
+.float-right {
+  float: right !important; }
+
+.float-left {
+  float: left !important; }

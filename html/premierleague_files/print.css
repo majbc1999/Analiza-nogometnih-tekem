@@ -1,0 +1,183 @@
+@media print {
+	* {
+		background: transparent !important;
+		color: black !important;
+		box-shadow: none !important;
+		text-shadow: none !important;
+	}
+
+	.show-for-print {
+		display: block !important;
+	}
+
+	.hide-for-print {
+		display: none !important;
+	}
+
+	table.show-for-print {
+		display: table !important;
+	}
+
+	thead.show-for-print {
+		display: table-header-group !important;
+	}
+
+	tbody.show-for-print {
+		display: table-row-group !important;
+	}
+
+	tr.show-for-print {
+		display: table-row !important;
+	}
+
+	td.show-for-print {
+		display: table-cell !important;
+	}
+
+	th.show-for-print {
+		display: table-cell !important;
+	}
+
+	a,
+	a:visited {
+		text-decoration: underline;
+	}
+
+	a[href]:after {
+		content: " (" attr(href) ")";
+	}
+
+	.ir a:after,
+	a[href^='javascript:']:after,
+	a[href^='#']:after {
+		content: '';
+	}
+
+	abbr[title]:after {
+		content: " (" attr(title) ")";
+	}
+
+	pre,
+	blockquote {
+		border: 1px solid #999;
+		page-break-inside: avoid;
+	}
+
+	thead {
+		display: table-header-group;
+	}
+
+	tr,
+	img {
+		page-break-inside: avoid;
+	}
+
+	img {
+		max-width: 100% !important;
+	}
+
+	@page {
+		margin: 0.5cm;
+	}
+
+	p,
+	h2,
+	h3 {
+		orphans: 3;
+		widows: 3;
+	}
+
+	h2,
+	h3 {
+		page-break-after: avoid;
+	}
+}
+
+@media print {
+	/*	@page {
+					size: landscape;
+			}*/
+	* {
+		background-color: transparent;
+		-webkit-print-color-adjust: exact;
+		color: initial !important;
+	}
+
+	body, html, #main {
+		background-color: transparent !important;
+	}
+
+	#tipp-form td {
+		white-space: nowrap;
+	}
+
+	table thead tr th, table tfoot tr td {
+		border: 0;
+	}
+
+	ul.megamenu,
+	.profildaten,
+	#schnellsuche,
+	#detailsuche-head,
+	#domains, #domain,
+	#breadcrumb,
+	#chatbox-footer,
+	#footer,
+	.header-social-icons,
+	.news-header-social,
+	.werbung,
+	.geruechte-print,
+	.relevante-news-auflistung,
+	.spielerprofil-slider,
+	.news-zuordnung-person,
+	.news-zuordnung-logo,
+	.for-print,
+	#werbung_superbanner,
+	#hinweisreload,
+	#tippagabe-spieltag-box,
+	#tabelle-widget,
+	#tipp-form .table-footer,
+	.alert-box,
+	#schnellsuche-platz,
+	.tipprunde_header {
+		display: none !important;
+	}
+
+	a:after {
+		content: " (" attr(href) ") ";
+		display: none;
+	}
+
+	#tipp-form tr td a {
+		white-space: nowrap !important;
+	}
+
+	table tbody tr td {
+		border: 0px !important;
+	}
+
+	.box {
+		border: 0px !important;
+	}
+
+	.tipprunde_headline1, .tipprunde_headline2 {
+		position: static !important;
+	}
+
+	h1, h2, h3, h4 {
+		page-break-after: avoid;
+	}
+
+	.vergl-sp, .tab-print {
+		page-break-before: always;
+	}
+
+	.sptg-print, .news-anzeige, .weitere-daten-spielerprofil {
+		page-break-after: always;
+	}
+
+	.tipprunde_header {
+		background-image: initial !important;
+		background-color: initial !important;
+	}
+}

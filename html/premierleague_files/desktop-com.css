@@ -1,0 +1,16 @@
+@media only screen and (min-width: 768px) {
+  body {
+    padding-right: 0px;
+  }
+  #werbung_superbanner_wrapper {
+    display: none;
+  }
+  .werbung-skyscraper {
+    position: absolute;
+    top: 147px;
+  }
+  .stickyContent .werbung-skyscraper {
+    position: fixed;
+    top: 40px;
+  }
+}

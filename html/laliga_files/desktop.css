@@ -1,0 +1,6 @@
+@media only screen and (min-width: 938px) {
+	body {
+		padding-right: 170px;
+		overflow-x: hidden;
+	}
+}
