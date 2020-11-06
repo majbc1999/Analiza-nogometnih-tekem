@@ -73,11 +73,24 @@ vzorec_tekma = (
     r'\.\)</span></td>'
 )
 
-laliga = uvozi_datoteko('.\html\laliga.html')
+laliga = uvozi_datoteko(r'.\html\laliga.html')
+seriea = uvozi_datoteko(r'.\html\seriea.html')
+premierleague = uvozi_datoteko(r'.\html\premierleague.html')
+
 
 i = 0
 
 for zadetek in re.finditer(vzorec_tekma,laliga):
+    i += 1
+    print(i)
+    print(zadetek['domaca_ekipa'] + '   '+ zadetek['zadetki_domaci']+ ':' + zadetek['zadetki_gostje'] + '   ' + zadetek['gostujoca_ekipa'])
+
+for zadetek in re.finditer(vzorec_tekma,seriea):
+    i += 1
+    print(i)
+    print(zadetek['domaca_ekipa'] + '   '+ zadetek['zadetki_domaci']+ ':' + zadetek['zadetki_gostje'] + '   ' + zadetek['gostujoca_ekipa'])
+
+for zadetek in re.finditer(vzorec_tekma,premierleague):
     i += 1
     print(i)
     print(zadetek['domaca_ekipa'] + '   '+ zadetek['zadetki_domaci']+ ':' + zadetek['zadetki_gostje'] + '   ' + zadetek['gostujoca_ekipa'])
