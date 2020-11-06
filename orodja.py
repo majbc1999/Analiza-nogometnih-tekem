@@ -33,7 +33,8 @@ vzorec_datum = (
     r'\w{3}'
 )
 
-vzorec_zadnji_datum = (
+# Poseben vzorec za zadnji datum zadnjega matchdaya (pozor, en datum v celem matchdayu tudi poveže na to)
+vzorec_zadnji_datum38 = (
     r'<td class="hide-for-small">'
     r'(?s)(\s*?)'
     r'(?P<dan>\w{3})'
@@ -44,26 +45,39 @@ vzorec_zadnji_datum = (
     r'<div class="table-footer">'
 )
 
+# Vzorec za uro
 vzorec_ura = (
-    r'<td class="show-for-small" colspan="7">'
-	r'(?s)(\s*?)'
-    r'(?P<ura>\d{1,2}:\d\d (AM|PM))?'
-    r'(?s)(\s*?)'
-    r'</td>'
-    r'(?s)(.*?)'
-    r'<tr class="bg_blau_20">?'
+    r'<td class="zentriert hide-for-small">\n\s.*?'
+    r'(?P<ura>(\d{1,2}:\d\d (AM|PM)))'
+    r'.*?((</td>([\s\S]*?)<tr class="bg_blau_20">)|(</td>([\s\S]*?)<div class="table-footer">))'
 )
 
 # Vzorec za tekmo znotraj datuma in časa
 vzorec_tekma = (
-    r''
+    r'<td class="text-right no-border-rechts hauptlink"><span class="tabellenplatz">\('
+    r'(?P<lestvica_domaci>\d{1,2})'
+    r'.\)</span>&nbsp;&nbsp;<a class="vereinprofil_tooltip tooltipstered" id="'
+    r'(?P<id_domaci>\d{1,5})'
+    r'" href="https://www.transfermarkt.com/.*?/spielplan/verein/\d{1,5}/saison_id/2019">'
+    r'(?P<domaca_ekipa>.*?)'
+    r'</a></td>\n(.*?)\n(.*?)class="ergebnis-link" id="\d{7}" href="https://www.transfermarkt.com/spielbericht/index/spielbericht/\d{7}">'
+    r'(?P<zadetki_domaci>\d{1,2})'
+    r':'
+    r'(?P<zadetki_gostje>\d{1,2})'
+    r'</a>&nbsp;</td>\n.*?\n.*?<td class="no-border-links hauptlink"><a class="vereinprofil_tooltip tooltipstered" id="'
+    r'(?P<id_gostje>\d{1,5})'
+    r'" href="https://www.transfermarkt.com/.*?/spielplan/verein/\d{1,5}/saison_id/2019">'
+    r'(?P<gostujoca_ekipa>.*?)'
+    r'</a>&nbsp;&nbsp;<span class="tabellenplatz">\('
+    r'(?P<lestvica_gostje>\d{1,2})'
+    r'\.\)</span></td>'
 )
 
 laliga = uvozi_datoteko('.\html\laliga.html')
 
 i = 0
-#for zadetek in re.finditer(vzorec_datum, laliga):
-#    print(zadetek['datum'])
-for zadetek in re.finditer(vzorec_ura,laliga):
-    print(zadetek['ura'])
-#    print(zadetek['matchday']) 
+
+for zadetek in re.finditer(vzorec_tekma,laliga):
+    i += 1
+    print(i)
+    print(zadetek['domaca_ekipa'] + '   '+ zadetek['zadetki_domaci']+ ':' + zadetek['zadetki_gostje'] + '   ' + zadetek['gostujoca_ekipa'])
