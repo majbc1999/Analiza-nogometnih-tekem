@@ -73,24 +73,52 @@ vzorec_tekma = (
     r'\.\)</span></td>'
 )
 
+# Uvozimo vse lige
 laliga = uvozi_datoteko(r'.\html\laliga.html')
 seriea = uvozi_datoteko(r'.\html\seriea.html')
 premierleague = uvozi_datoteko(r'.\html\premierleague.html')
 
 
-i = 0
+# Orodje za zapis csv datoteke (iz predavanj - najdene v profesorjevem repozitoriju)
+def zapisi_csv(slovarji, imena_polj, ime_datoteke):
+    '''Iz seznama slovarjev ustvari CSV datoteko z glavo.'''
+    pripravi_imenik(ime_datoteke)
+    with open(ime_datoteke, 'w', encoding='utf-8') as csv_datoteka:
+        writer = csv.DictWriter(csv_datoteka, fieldnames=imena_polj)
+        writer.writeheader()
+        for slovar in slovarji:
+            writer.writerow(slovar)
 
-for zadetek in re.finditer(vzorec_tekma,laliga):
-    i += 1
-    print(i)
-    print(zadetek['domaca_ekipa'] + '   '+ zadetek['zadetki_domaci']+ ':' + zadetek['zadetki_gostje'] + '   ' + zadetek['gostujoca_ekipa'])
 
-for zadetek in re.finditer(vzorec_tekma,seriea):
-    i += 1
-    print(i)
-    print(zadetek['domaca_ekipa'] + '   '+ zadetek['zadetki_domaci']+ ':' + zadetek['zadetki_gostje'] + '   ' + zadetek['gostujoca_ekipa'])
 
-for zadetek in re.finditer(vzorec_tekma,premierleague):
-    i += 1
-    print(i)
-    print(zadetek['domaca_ekipa'] + '   '+ zadetek['zadetki_domaci']+ ':' + zadetek['zadetki_gostje'] + '   ' + zadetek['gostujoca_ekipa'])
+# Najprej bomo naredili slovar s podatki o tekmah LaLige
+seznam_laliga = []
+for z1 in re.findall(vzorec_matchday, laliga):
+    matchday = z1['matchday']
+    for z2 in re.findall(vzorec_datum, z1):
+        dan = z2['dan']
+        datum = z2['datum']
+        for z3 in re.findall(vzorec_ura, z2):
+            ura = z3['ura']
+            for z4 in re.findall(vzorec_tekma, z3):
+                id_domaci = z4['id_domaci']
+                lestvica_domaci = z4['lestvica_domaci']
+                domaca_ekipa = z4['domaca_ekipa']
+                id_gostje = z4['id_gostje']
+                lestvica_gostje = z4['lestvica_gostje']
+                gostujoca_ekipa = z4['gostujoca_ekipa']
+                zadetki_domaci = z4['zadetki_domaci']
+                zadetki_gostje = z4['zadetki_gostje']
+                slovar_tekme = {"kolo": matchday, 
+                                "dan": dan, 
+                                "datum": datum, 
+                                "ura": ura, 
+                                "id_domaci": id_domaci, 
+                                "lestvica_domaci": lestvica_domaci, 
+                                "domaca_ekipa": domaca_ekipa,
+                                "id_gostje": id_gostje,
+                                "lestvica_gostje": lestvica_gostje,
+                                "gostujoca_ekipa": gostujoca_ekipa,
+                                "zadetki_domaci": zadetki_domaci,
+                                "zadetki_gostje": zadetki_gostje}
+                seznam_laliga.append(slovar_tekme)
