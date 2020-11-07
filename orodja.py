@@ -91,34 +91,67 @@ def zapisi_csv(slovarji, imena_polj, ime_datoteke):
 
 
 
-# Najprej bomo naredili slovar s podatki o tekmah LaLige
+# Prazni začetni seznami za slovarje
 seznam_laliga = []
-for z1 in re.findall(vzorec_matchday, laliga):
-    matchday = z1['matchday']
-    for z2 in re.findall(vzorec_datum, z1):
-        dan = z2['dan']
-        datum = z2['datum']
-        for z3 in re.findall(vzorec_ura, z2):
-            ura = z3['ura']
-            for z4 in re.findall(vzorec_tekma, z3):
-                id_domaci = z4['id_domaci']
-                lestvica_domaci = z4['lestvica_domaci']
-                domaca_ekipa = z4['domaca_ekipa']
-                id_gostje = z4['id_gostje']
-                lestvica_gostje = z4['lestvica_gostje']
-                gostujoca_ekipa = z4['gostujoca_ekipa']
-                zadetki_domaci = z4['zadetki_domaci']
-                zadetki_gostje = z4['zadetki_gostje']
-                slovar_tekme = {"kolo": matchday, 
-                                "dan": dan, 
-                                "datum": datum, 
-                                "ura": ura, 
-                                "id_domaci": id_domaci, 
-                                "lestvica_domaci": lestvica_domaci, 
-                                "domaca_ekipa": domaca_ekipa,
-                                "id_gostje": id_gostje,
-                                "lestvica_gostje": lestvica_gostje,
-                                "gostujoca_ekipa": gostujoca_ekipa,
-                                "zadetki_domaci": zadetki_domaci,
-                                "zadetki_gostje": zadetki_gostje}
-                seznam_laliga.append(slovar_tekme)
+seznam_premier_league = []
+seznam_seriea = []
+
+# Pomožne funkcije za obdelavo podatkov:
+def stevilka_matchdaya(niz):
+    stevila = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"]
+    nov_niz = ""
+    for crka in niz:
+        if crka in stevila:
+            nov_niz += crka
+    return int(nov_niz)
+
+slovarprevoda = {"Mon": "ponedeljek", "Tue": "torek", "Wed" : "sreda", "Thu": "četrtek", "Fri": "petek", "Sat": "sobota", "Sun": "nedelja"}
+def datum_prevedi(niz):
+    return slovarprevoda[niz]
+
+
+
+
+
+# Tukaj je funkcija za izluščitev v slovarje, ki se shranijo v sezname
+def izlusci_podatke_v_slovar(seznam, podatki):
+    for z1 in re.finditer(vzorec_matchday, podatki):
+        matchday = z1['matchday']
+        x1 = z1.group()
+        for z2 in re.finditer(vzorec_datum, x1):
+            dan = z2['dan']
+            datum = z2['datum']
+            x2 = z2.group()
+            for z3 in re.finditer(vzorec_ura, x2):
+                ura = z3['ura'] 
+                x3 = z2.group()
+                for z4 in re.finditer(vzorec_tekma, x3):
+                    id_domaci = int(z4['id_domaci'])
+                    lestvica_domaci = int(z4['lestvica_domaci'])
+                    domaca_ekipa = z4['domaca_ekipa']
+                    id_gostje = int(z4['id_gostje'])
+                    lestvica_gostje = int(z4['lestvica_gostje'])
+                    gostujoca_ekipa = z4['gostujoca_ekipa']
+                    zadetki_domaci = int(z4['zadetki_domaci'])
+                    zadetki_gostje = int(z4['zadetki_gostje'])
+                    slovar_tekme = {"kolo": stevilka_matchdaya(matchday), 
+                                    "dan": datum_prevedi(dan), 
+                                    "datum": datum, 
+                                    "ura": ura, 
+                                    "id_domaci": id_domaci, 
+                                    "lestvica_domaci": lestvica_domaci, 
+                                    "domaca_ekipa": domaca_ekipa,
+                                    "id_gostje": id_gostje,
+                                    "lestvica_gostje": lestvica_gostje,
+                                    "gostujoca_ekipa": gostujoca_ekipa,
+                                    "zadetki_domaci": zadetki_domaci,
+                                    "zadetki_gostje": zadetki_gostje}
+                    seznam.append(slovar_tekme)                                          
+
+
+izlusci_podatke_v_slovar(seznam_laliga, laliga)
+
+# Poskusni print1
+for slovar in novi_seznam:
+    if slovar['kolo'] == 1:
+        print(slovar)
