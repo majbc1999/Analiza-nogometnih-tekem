@@ -1,6 +1,6 @@
 # Analiza nogometnih tekem 2019/2020
 
-Analiziral bom vse nogometne tekme v 5 najmočnejših ligah (če bo podatkov preveč, se bom osredotočil samo na najmočnejše 3 lige): Premier league, LaLiga, Serie A, Bundesliga, Ligue 1. Podatke za vse tekme bom dobil na portalu [Transfermarkt](https://www.transfermarkt.com/).
+Analiziral bom vse nogometne tekme v 3 najmočnejših ligah: Premier league, LaLiga, Serie A. Podatke za vse tekme bom dobil na portalu [Transfermarkt](https://www.transfermarkt.com/).
 
 ## Podatki
 Za vsako odigrano tekmo bom zajel:
@@ -9,6 +9,20 @@ Za vsako odigrano tekmo bom zajel:
 * položaj domače in gostujoče ekipe na lestvici pred odigrano tekmo
 * položaj na lestvici po odigrani tekmi
 * čas tekme
+
+Obdelani podatki so v mapi *obdelani-podatki* na repozitoriju. V mapi so tri csv datoteke (za vsako ligo svoja). Vsaka tekma, odigrana v teh ligah, ima svojo vrstico. Razlaga imen stolpcev:
+* *kolo*: Krog lige, v katerem je bila tekma odigrana
+* *dan*: Dan v tednu, na kateri je bila odigrana
+* *datum*: Datum tekme
+* *ura*: Ura tekme
+* *id_domaci*: Poseben transfermarkt id (uporaba bo samo za lažje citiranje ekipe)
+* *lestvica_domaci*: Mesto domače ekipe na lestvici lige, po odigrani tekmi
+* *domaca_ekipa*: Ime domače ekipe
+* *id_gostje*: Poseben transfermarkt id (uporaba bo samo za lažje citiranje ekipe)
+* *lestvica_gostje*: Mesto gostujoče ekipe na lestvici lige, po odigrani tekmi
+* *gostujoca_ekipa*: Ime gostujoče ekipe
+* *zadetki_domaci*: Število zadetkov za domačo ekipo
+* *zadetki_gostje*: Število zadetkov za goste
 
 ## Hipoteze
 Ogledal si bom naslednje **hipoteze**:
