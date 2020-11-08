@@ -10,19 +10,19 @@ Za vsako odigrano tekmo bom zajel:
 * položaj na lestvici po odigrani tekmi
 * čas tekme
 
-Obdelani podatki so v mapi *obdelani-podatki* na repozitoriju. V mapi so tri csv datoteke (za vsako ligo svoja). Vsaka tekma, odigrana v teh ligah, ima svojo vrstico. Razlaga imen stolpcev:
-* *kolo*: Krog lige, v katerem je bila tekma odigrana
-* *dan*: Dan v tednu, na kateri je bila odigrana
-* *datum*: Datum tekme
-* *ura*: Ura tekme
-* *id_domaci*: Poseben transfermarkt id (uporaba bo samo za lažje citiranje ekipe)
-* *lestvica_domaci*: Mesto domače ekipe na lestvici lige, po odigrani tekmi
-* *domaca_ekipa*: Ime domače ekipe
-* *id_gostje*: Poseben transfermarkt id (uporaba bo samo za lažje citiranje ekipe)
-* *lestvica_gostje*: Mesto gostujoče ekipe na lestvici lige, po odigrani tekmi
-* *gostujoca_ekipa*: Ime gostujoče ekipe
-* *zadetki_domaci*: Število zadetkov za domačo ekipo
-* *zadetki_gostje*: Število zadetkov za goste
+Obdelani podatki so v mapi `obdelani-podatki` na repozitoriju. V mapi so tri csv datoteke (za vsako ligo svoja). Vsaka tekma, odigrana v teh ligah, ima svojo vrstico. Razlaga imen stolpcev:
+* `kolo`: Krog lige, v katerem je bila tekma odigrana
+* `dan`: Dan v tednu, na kateri je bila odigrana
+* `datum`: Datum tekme
+* `ura`: Ura tekme
+* `id_domaci`: Poseben transfermarkt id (uporaba bo samo za lažje citiranje ekipe)
+* `lestvica_domaci`: Mesto domače ekipe na lestvici lige, po odigrani tekmi
+* `domaca_ekipa`: Ime domače ekipe
+* `id_gostje`: Poseben transfermarkt id (uporaba bo samo za lažje citiranje ekipe)
+* `lestvica_gostje`: Mesto gostujoče ekipe na lestvici lige, po odigrani tekmi
+* `gostujoca_ekipa`: Ime gostujoče ekipe
+* `zadetki_domaci`: Število zadetkov za domačo ekipo
+* `zadetki_gostje`: Število zadetkov za goste
 
 ## Hipoteze
 Ogledal si bom naslednje **hipoteze**:
