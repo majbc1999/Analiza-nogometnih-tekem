@@ -161,5 +161,3 @@ zapisi_csv(seznam_premier_league,
 zapisi_csv(seznam_seriea, 
     ['kolo', 'dan', 'datum', 'ura', 'id_domaci', 'lestvica_domaci', 'domaca_ekipa', 'id_gostje', 'lestvica_gostje', 'gostujoca_ekipa', 'zadetki_domaci', 'tocke_domaci', 'zadetki_gostje', 'tocke_gostje'],
     'obdelani-podatki/seriea.csv')
-
-
