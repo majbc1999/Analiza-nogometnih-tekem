@@ -99,6 +99,11 @@ slovarprevoda = {"Mon": "ponedeljek", "Tue": "torek", "Wed" : "sreda", "Thu": "�
 def datum_prevedi(niz):
     return slovarprevoda[niz]
 
+# Pomožna funkcija, ki pove ali je rezulat remi ali ne
+def remi(n): 
+    if n == 1.5: return 0
+    else: return 1
+
 # Tukaj je funkcija za izluščitev v slovarje, ki se shranijo v sezname
 def izlusci_podatke_v_slovar(seznam, podatki):
     for z1 in re.finditer(vzorec_matchday, podatki):
@@ -143,6 +148,10 @@ def izlusci_podatke_v_slovar(seznam, podatki):
                                     "tocke_domaci": tocke_domaci,
                                     "zadetki_gostje": zadetki_gostje,
                                     "tocke_gostje": tocke_gostje,
+                                    "razlika_ekip": max(lestvica_domaci - lestvica_gostje, lestvica_gostje - lestvica_domaci),
+                                    "visja_na_lestvici": min(lestvica_domaci, lestvica_gostje),
+                                    "nizja_na_lestvici": max(lestvica_domaci, lestvica_gostje),
+                                    "remi": remi((1/2 * (tocke_domaci + tocke_gostje)))
                                     }
                     seznam.append(slovar_tekme)                                          
 
@@ -153,11 +162,11 @@ izlusci_podatke_v_slovar(seznam_seriea, seriea)
 
 # Jih še izvozimo v csv obliko
 zapisi_csv(seznam_laliga, 
-    ['kolo', 'dan', 'datum', 'ura', 'id_domaci', 'lestvica_domaci', 'domaca_ekipa', 'id_gostje', 'lestvica_gostje', 'gostujoca_ekipa', 'zadetki_domaci', 'tocke_domaci', 'zadetki_gostje', 'tocke_gostje'],
+    ['kolo', 'dan', 'datum', 'ura', 'id_domaci', 'lestvica_domaci', 'domaca_ekipa', 'id_gostje', 'lestvica_gostje', 'gostujoca_ekipa', 'zadetki_domaci', 'tocke_domaci', 'zadetki_gostje', 'tocke_gostje', 'razlika_ekip', 'visja_na_lestvici', 'nizja_na_lestvici', 'remi'],
     'obdelani-podatki/laliga.csv')
 zapisi_csv(seznam_premier_league, 
-    ['kolo', 'dan', 'datum', 'ura', 'id_domaci', 'lestvica_domaci', 'domaca_ekipa', 'id_gostje', 'lestvica_gostje', 'gostujoca_ekipa', 'zadetki_domaci', 'tocke_domaci', 'zadetki_gostje', 'tocke_gostje'],
+    ['kolo', 'dan', 'datum', 'ura', 'id_domaci', 'lestvica_domaci', 'domaca_ekipa', 'id_gostje', 'lestvica_gostje', 'gostujoca_ekipa', 'zadetki_domaci', 'tocke_domaci', 'zadetki_gostje', 'tocke_gostje', 'razlika_ekip', 'visja_na_lestvici', 'nizja_na_lestvici', 'remi'],
     'obdelani-podatki/premier_league.csv')
 zapisi_csv(seznam_seriea, 
-    ['kolo', 'dan', 'datum', 'ura', 'id_domaci', 'lestvica_domaci', 'domaca_ekipa', 'id_gostje', 'lestvica_gostje', 'gostujoca_ekipa', 'zadetki_domaci', 'tocke_domaci', 'zadetki_gostje', 'tocke_gostje'],
+    ['kolo', 'dan', 'datum', 'ura', 'id_domaci', 'lestvica_domaci', 'domaca_ekipa', 'id_gostje', 'lestvica_gostje', 'gostujoca_ekipa', 'zadetki_domaci', 'tocke_domaci', 'zadetki_gostje', 'tocke_gostje', 'razlika_ekip', 'visja_na_lestvici', 'nizja_na_lestvici', 'remi'],
     'obdelani-podatki/seriea.csv')
