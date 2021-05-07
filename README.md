@@ -7,7 +7,6 @@ Za vsako odigrano tekmo bom zajel:
 * domačo in gostujočo ekipo
 * končni rezultat tekme
 * položaj domače in gostujoče ekipe na lestvici pred odigrano tekmo
-* položaj na lestvici po odigrani tekmi
 * čas tekme
 
 Obdelani podatki so v mapi `obdelani-podatki` na repozitoriju. V mapi so tri csv datoteke (za vsako ligo svoja). Vsaka tekma, odigrana v teh ligah, ima svojo vrstico. Razlaga imen stolpcev:
