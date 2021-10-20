@@ -1,0 +1,381 @@
+kolo,dan,datum,ura,lestvica_domaci,domaca_ekipa,lestvica_gostje,gostujoca_ekipa,zadetki_domaci,zadetki_gostje,drzava,sezona
+1,sobota,9/19/20,6:00 PM,9,Fiorentina,12,Torino,1,0,Italy,20
+1,sobota,9/19/20,8:45 PM,4,Hellas Verona,19,AS Roma,3,0,Italy,20
+1,nedelja,9/20/20,12:30 PM,14,Parma,7,SSC Napoli,0,2,Italy,20
+1,nedelja,9/20/20,3:00 PM,3,Genoa,17,Crotone,4,1,Italy,20
+1,nedelja,9/20/20,6:00 PM,11,Sassuolo,10,Cagliari Calcio,1,1,Italy,20
+1,nedelja,9/20/20,8:45 PM,5,Juventus,20,Sampdoria,3,0,Italy,20
+1,ponedeljek,9/21/20,8:45 PM,6,AC Milan,13,Bologna,2,0,Italy,20
+1,sreda,9/30/20,6:00 PM,16,Benevento,1,Inter,2,5,Italy,20
+1,sreda,9/30/20,6:00 PM,15,Udinese Calcio,8,Spezia Calcio,0,2,Italy,20
+1,sreda,9/30/20,8:45 PM,18,Lazio,2,Atalanta BC,1,4,Italy,20
+2,sobota,9/26/20,3:00 PM,12,Torino,2,Atalanta BC,2,4,Italy,20
+2,sobota,9/26/20,6:00 PM,10,Cagliari Calcio,18,Lazio,0,2,Italy,20
+2,sobota,9/26/20,6:00 PM,20,Sampdoria,16,Benevento,2,3,Italy,20
+2,sobota,9/26/20,8:45 PM,1,Inter,9,Fiorentina,4,3,Italy,20
+2,nedelja,9/27/20,12:30 PM,8,Spezia Calcio,11,Sassuolo,1,4,Italy,20
+2,nedelja,9/27/20,3:00 PM,4,Hellas Verona,15,Udinese Calcio,1,0,Italy,20
+2,nedelja,9/27/20,6:00 PM,17,Crotone,6,AC Milan,0,2,Italy,20
+2,nedelja,9/27/20,6:00 PM,7,SSC Napoli,3,Genoa,6,0,Italy,20
+2,nedelja,9/27/20,8:45 PM,19,AS Roma,5,Juventus,2,2,Italy,20
+2,ponedeljek,9/28/20,8:45 PM,13,Bologna,14,Parma,4,1,Italy,20
+3,petek,10/2/20,8:45 PM,9,Fiorentina,18,Sampdoria,1,2,Italy,20
+3,sobota,10/3/20,3:00 PM,7,Sassuolo,19,Crotone,4,1,Italy,20
+3,sobota,10/3/20,8:45 PM,17,Udinese Calcio,15,AS Roma,0,1,Italy,20
+3,nedelja,10/4/20,12:30 PM,2,Atalanta BC,14,Cagliari Calcio,5,2,Italy,20
+3,nedelja,10/4/20,3:00 PM,12,Benevento,8,Bologna,1,0,Italy,20
+3,nedelja,10/4/20,3:00 PM,10,Lazio,3,Inter,1,1,Italy,20
+3,nedelja,10/4/20,3:00 PM,20,Parma,4,Hellas Verona,1,0,Italy,20
+3,nedelja,10/4/20,6:00 PM,5,AC Milan,11,Spezia Calcio,3,0,Italy,20
+3,sreda,11/4/20,5:00 PM,13,Genoa,16,Torino,1,2,Italy,20
+3,sreda,4/7/21,6:45 PM,6,Juventus,1,SSC Napoli,2,1,Italy,20
+4,sobota,10/17/20,3:00 PM,6,SSC Napoli,1,Atalanta BC,4,1,Italy,20
+4,sobota,10/17/20,6:00 PM,4,Inter,2,AC Milan,1,2,Italy,20
+4,sobota,10/17/20,6:00 PM,13,Sampdoria,9,Lazio,3,0,Italy,20
+4,sobota,10/17/20,8:45 PM,20,Crotone,5,Juventus,1,1,Italy,20
+4,nedelja,10/18/20,12:30 PM,12,Bologna,3,Sassuolo,3,4,Italy,20
+4,nedelja,10/18/20,3:00 PM,11,Spezia Calcio,15,Fiorentina,2,2,Italy,20
+4,nedelja,10/18/20,3:00 PM,14,Torino,18,Cagliari Calcio,2,3,Italy,20
+4,nedelja,10/18/20,6:00 PM,19,Udinese Calcio,17,Parma,3,2,Italy,20
+4,nedelja,10/18/20,8:45 PM,10,AS Roma,8,Benevento,5,2,Italy,20
+4,ponedeljek,10/19/20,8:45 PM,7,Hellas Verona,16,Genoa,0,0,Italy,20
+5,petek,10/23/20,8:45 PM,2,Sassuolo,16,Torino,3,3,Italy,20
+5,sobota,10/24/20,3:00 PM,4,Atalanta BC,10,Sampdoria,1,3,Italy,20
+5,sobota,10/24/20,6:00 PM,11,Genoa,6,Inter,0,2,Italy,20
+5,sobota,10/24/20,8:45 PM,12,Lazio,17,Bologna,2,1,Italy,20
+5,nedelja,10/25/20,12:30 PM,15,Cagliari Calcio,20,Crotone,4,2,Italy,20
+5,nedelja,10/25/20,3:00 PM,9,Benevento,3,SSC Napoli,1,2,Italy,20
+5,nedelja,10/25/20,3:00 PM,19,Parma,14,Spezia Calcio,2,2,Italy,20
+5,nedelja,10/25/20,6:00 PM,13,Fiorentina,18,Udinese Calcio,3,2,Italy,20
+5,nedelja,10/25/20,8:45 PM,5,Juventus,7,Hellas Verona,1,1,Italy,20
+5,ponedeljek,10/26/20,8:45 PM,1,AC Milan,8,AS Roma,3,3,Italy,20
+6,sobota,10/31/20,3:00 PM,20,Crotone,7,Atalanta BC,1,2,Italy,20
+6,sobota,10/31/20,6:00 PM,4,Inter,15,Parma,2,2,Italy,20
+6,sobota,10/31/20,8:45 PM,18,Bologna,12,Cagliari Calcio,3,2,Italy,20
+6,nedelja,11/1/20,12:30 PM,19,Udinese Calcio,1,AC Milan,1,2,Italy,20
+6,nedelja,11/1/20,3:00 PM,14,Spezia Calcio,5,Juventus,1,4,Italy,20
+6,nedelja,11/1/20,3:00 PM,16,Torino,11,Lazio,3,4,Italy,20
+6,nedelja,11/1/20,6:00 PM,2,SSC Napoli,3,Sassuolo,0,2,Italy,20
+6,nedelja,11/1/20,6:00 PM,9,AS Roma,10,Fiorentina,2,0,Italy,20
+6,nedelja,11/1/20,8:45 PM,6,Sampdoria,17,Genoa,1,1,Italy,20
+6,ponedeljek,11/2/20,8:45 PM,8,Hellas Verona,13,Benevento,3,1,Italy,20
+7,petek,11/6/20,8:45 PM,2,Sassuolo,19,Udinese Calcio,0,0,Italy,20
+7,sobota,11/7/20,3:00 PM,12,Cagliari Calcio,9,Sampdoria,2,0,Italy,20
+7,sobota,11/7/20,6:00 PM,13,Benevento,16,Spezia Calcio,0,3,Italy,20
+7,sobota,11/7/20,8:45 PM,17,Parma,11,Fiorentina,0,0,Italy,20
+7,nedelja,11/8/20,12:30 PM,10,Lazio,4,Juventus,1,1,Italy,20
+7,nedelja,11/8/20,3:00 PM,5,Atalanta BC,6,Inter,1,1,Italy,20
+7,nedelja,11/8/20,3:00 PM,15,Genoa,8,AS Roma,1,3,Italy,20
+7,nedelja,11/8/20,3:00 PM,18,Torino,20,Crotone,0,0,Italy,20
+7,nedelja,11/8/20,6:00 PM,14,Bologna,3,SSC Napoli,0,1,Italy,20
+7,nedelja,11/8/20,8:45 PM,1,AC Milan,7,Hellas Verona,2,2,Italy,20
+8,sobota,11/21/20,3:00 PM,20,Crotone,9,Lazio,0,2,Italy,20
+8,sobota,11/21/20,6:00 PM,13,Spezia Calcio,6,Atalanta BC,0,0,Italy,20
+8,sobota,11/21/20,8:45 PM,5,Juventus,10,Cagliari Calcio,2,0,Italy,20
+8,nedelja,11/22/20,12:30 PM,12,Fiorentina,15,Benevento,0,1,Italy,20
+8,nedelja,11/22/20,3:00 PM,7,Inter,17,Torino,4,2,Italy,20
+8,nedelja,11/22/20,3:00 PM,4,AS Roma,16,Parma,3,0,Italy,20
+8,nedelja,11/22/20,3:00 PM,11,Sampdoria,14,Bologna,1,2,Italy,20
+8,nedelja,11/22/20,3:00 PM,8,Hellas Verona,2,Sassuolo,0,2,Italy,20
+8,nedelja,11/22/20,6:00 PM,19,Udinese Calcio,18,Genoa,1,0,Italy,20
+8,nedelja,11/22/20,8:45 PM,3,SSC Napoli,1,AC Milan,1,3,Italy,20
+9,sobota,11/28/20,3:00 PM,2,Sassuolo,6,Inter,0,3,Italy,20
+9,sobota,11/28/20,6:00 PM,13,Benevento,4,Juventus,1,1,Italy,20
+9,sobota,11/28/20,8:45 PM,7,Atalanta BC,9,Hellas Verona,0,2,Italy,20
+9,nedelja,11/29/20,12:30 PM,8,Lazio,16,Udinese Calcio,1,3,Italy,20
+9,nedelja,11/29/20,3:00 PM,14,Bologna,20,Crotone,1,0,Italy,20
+9,nedelja,11/29/20,3:00 PM,1,AC Milan,15,Fiorentina,2,0,Italy,20
+9,nedelja,11/29/20,6:00 PM,10,Cagliari Calcio,12,Spezia Calcio,2,2,Italy,20
+9,nedelja,11/29/20,8:45 PM,5,SSC Napoli,3,AS Roma,4,0,Italy,20
+9,ponedeljek,11/30/20,6:30 PM,18,Torino,11,Sampdoria,2,2,Italy,20
+9,ponedeljek,11/30/20,8:45 PM,19,Genoa,17,Parma,1,2,Italy,20
+10,sobota,12/5/20,3:00 PM,13,Spezia Calcio,9,Lazio,1,2,Italy,20
+10,sobota,12/5/20,6:00 PM,5,Juventus,18,Torino,2,1,Italy,20
+10,sobota,12/5/20,8:45 PM,2,Inter,10,Bologna,3,1,Italy,20
+10,nedelja,12/6/20,12:30 PM,7,Hellas Verona,11,Cagliari Calcio,1,1,Italy,20
+10,nedelja,12/6/20,3:00 PM,16,Parma,15,Benevento,0,0,Italy,20
+10,nedelja,12/6/20,3:00 PM,6,AS Roma,3,Sassuolo,0,0,Italy,20
+10,nedelja,12/6/20,6:00 PM,20,Crotone,4,SSC Napoli,0,4,Italy,20
+10,nedelja,12/6/20,8:45 PM,12,Sampdoria,1,AC Milan,1,2,Italy,20
+10,ponedeljek,12/7/20,8:45 PM,17,Fiorentina,19,Genoa,1,1,Italy,20
+10,sreda,1/20/21,3:00 PM,14,Udinese Calcio,8,Atalanta BC,1,1,Italy,20
+11,petek,12/11/20,8:45 PM,5,Sassuolo,13,Benevento,1,0,Italy,20
+11,sobota,12/12/20,3:00 PM,20,Crotone,15,Spezia Calcio,4,1,Italy,20
+11,sobota,12/12/20,6:00 PM,18,Torino,12,Udinese Calcio,2,3,Italy,20
+11,sobota,12/12/20,8:45 PM,7,Lazio,8,Hellas Verona,1,2,Italy,20
+11,nedelja,12/13/20,12:30 PM,11,Cagliari Calcio,3,Inter,1,3,Italy,20
+11,nedelja,12/13/20,3:00 PM,9,Atalanta BC,17,Fiorentina,3,0,Italy,20
+11,nedelja,12/13/20,3:00 PM,10,Bologna,6,AS Roma,1,5,Italy,20
+11,nedelja,12/13/20,3:00 PM,2,SSC Napoli,14,Sampdoria,2,1,Italy,20
+11,nedelja,12/13/20,6:00 PM,19,Genoa,4,Juventus,1,3,Italy,20
+11,nedelja,12/13/20,8:45 PM,1,AC Milan,16,Parma,2,2,Italy,20
+12,torek,12/15/20,6:30 PM,10,Udinese Calcio,20,Crotone,0,0,Italy,20
+12,torek,12/15/20,8:45 PM,13,Benevento,9,Lazio,1,1,Italy,20
+12,sreda,12/16/20,6:30 PM,4,Juventus,8,Atalanta BC,1,1,Italy,20
+12,sreda,12/16/20,8:45 PM,17,Fiorentina,5,Sassuolo,1,1,Italy,20
+12,sreda,12/16/20,8:45 PM,19,Genoa,1,AC Milan,2,2,Italy,20
+12,sreda,12/16/20,8:45 PM,3,Inter,2,SSC Napoli,1,0,Italy,20
+12,sreda,12/16/20,8:45 PM,14,Parma,12,Cagliari Calcio,0,0,Italy,20
+12,sreda,12/16/20,8:45 PM,16,Spezia Calcio,11,Bologna,2,2,Italy,20
+12,sreda,12/16/20,8:45 PM,7,Hellas Verona,15,Sampdoria,1,2,Italy,20
+12,četrtek,12/17/20,8:45 PM,6,AS Roma,18,Torino,3,1,Italy,20
+13,sobota,12/19/20,3:00 PM,17,Fiorentina,7,Hellas Verona,1,1,Italy,20
+13,sobota,12/19/20,6:00 PM,11,Sampdoria,20,Crotone,3,1,Italy,20
+13,sobota,12/19/20,8:45 PM,14,Parma,3,Juventus,0,4,Italy,20
+13,nedelja,12/20/20,12:30 PM,19,Torino,12,Bologna,1,1,Italy,20
+13,nedelja,12/20/20,3:00 PM,15,Benevento,18,Genoa,2,0,Italy,20
+13,nedelja,12/20/20,3:00 PM,13,Cagliari Calcio,10,Udinese Calcio,1,1,Italy,20
+13,nedelja,12/20/20,3:00 PM,2,Inter,16,Spezia Calcio,2,1,Italy,20
+13,nedelja,12/20/20,3:00 PM,6,Sassuolo,1,AC Milan,1,2,Italy,20
+13,nedelja,12/20/20,6:00 PM,8,Atalanta BC,5,AS Roma,4,1,Italy,20
+13,nedelja,12/20/20,8:45 PM,9,Lazio,4,SSC Napoli,2,0,Italy,20
+14,torek,12/22/20,6:30 PM,20,Crotone,15,Parma,2,1,Italy,20
+14,torek,12/22/20,8:45 PM,3,Juventus,16,Fiorentina,0,3,Italy,20
+14,sreda,12/23/20,6:30 PM,9,Hellas Verona,2,Inter,1,2,Italy,20
+14,sreda,12/23/20,8:45 PM,13,Bologna,7,Atalanta BC,2,2,Italy,20
+14,sreda,12/23/20,8:45 PM,1,AC Milan,8,Lazio,3,2,Italy,20
+14,sreda,12/23/20,8:45 PM,4,SSC Napoli,18,Torino,1,1,Italy,20
+14,sreda,12/23/20,8:45 PM,5,AS Roma,14,Cagliari Calcio,3,2,Italy,20
+14,sreda,12/23/20,8:45 PM,10,Sampdoria,6,Sassuolo,2,3,Italy,20
+14,sreda,12/23/20,8:45 PM,17,Spezia Calcio,19,Genoa,1,2,Italy,20
+14,sreda,12/23/20,8:45 PM,11,Udinese Calcio,12,Benevento,0,2,Italy,20
+15,nedelja,1/3/21,12:30 PM,2,Inter,19,Crotone,6,2,Italy,20
+15,nedelja,1/3/21,3:00 PM,7,Atalanta BC,5,Sassuolo,5,1,Italy,20
+15,nedelja,1/3/21,3:00 PM,15,Cagliari Calcio,6,SSC Napoli,1,4,Italy,20
+15,nedelja,1/3/21,3:00 PM,14,Fiorentina,13,Bologna,0,0,Italy,20
+15,nedelja,1/3/21,3:00 PM,18,Genoa,8,Lazio,1,1,Italy,20
+15,nedelja,1/3/21,3:00 PM,16,Parma,20,Torino,0,3,Italy,20
+15,nedelja,1/3/21,3:00 PM,4,AS Roma,11,Sampdoria,1,0,Italy,20
+15,nedelja,1/3/21,3:00 PM,17,Spezia Calcio,9,Hellas Verona,0,1,Italy,20
+15,nedelja,1/3/21,6:00 PM,10,Benevento,1,AC Milan,0,2,Italy,20
+15,nedelja,1/3/21,8:45 PM,3,Juventus,12,Udinese Calcio,4,1,Italy,20
+16,sreda,1/6/21,12:30 PM,15,Cagliari Calcio,10,Benevento,1,2,Italy,20
+16,sreda,1/6/21,3:00 PM,6,Atalanta BC,16,Parma,3,0,Italy,20
+16,sreda,1/6/21,3:00 PM,12,Bologna,13,Udinese Calcio,2,2,Italy,20
+16,sreda,1/6/21,3:00 PM,20,Crotone,4,AS Roma,1,3,Italy,20
+16,sreda,1/6/21,3:00 PM,9,Lazio,14,Fiorentina,2,1,Italy,20
+16,sreda,1/6/21,3:00 PM,11,Sampdoria,2,Inter,2,1,Italy,20
+16,sreda,1/6/21,3:00 PM,7,Sassuolo,18,Genoa,2,1,Italy,20
+16,sreda,1/6/21,3:00 PM,17,Torino,8,Hellas Verona,1,1,Italy,20
+16,sreda,1/6/21,6:00 PM,5,SSC Napoli,19,Spezia Calcio,1,2,Italy,20
+16,sreda,1/6/21,8:45 PM,1,AC Milan,3,Juventus,1,3,Italy,20
+17,sobota,1/9/21,3:00 PM,10,Benevento,5,Atalanta BC,1,4,Italy,20
+17,sobota,1/9/21,6:00 PM,19,Genoa,13,Bologna,2,0,Italy,20
+17,sobota,1/9/21,8:45 PM,1,AC Milan,17,Torino,2,0,Italy,20
+17,nedelja,1/10/21,12:30 PM,4,AS Roma,2,Inter,2,2,Italy,20
+17,nedelja,1/10/21,3:00 PM,18,Parma,8,Lazio,0,2,Italy,20
+17,nedelja,1/10/21,3:00 PM,12,Udinese Calcio,7,SSC Napoli,1,2,Italy,20
+17,nedelja,1/10/21,3:00 PM,9,Hellas Verona,20,Crotone,2,1,Italy,20
+17,nedelja,1/10/21,6:00 PM,14,Fiorentina,16,Cagliari Calcio,1,0,Italy,20
+17,nedelja,1/10/21,8:45 PM,3,Juventus,6,Sassuolo,3,1,Italy,20
+17,ponedeljek,1/11/21,8:45 PM,15,Spezia Calcio,11,Sampdoria,2,1,Italy,20
+18,petek,1/15/21,8:45 PM,8,Lazio,4,AS Roma,3,0,Italy,20
+18,sobota,1/16/21,3:00 PM,14,Bologna,9,Hellas Verona,1,0,Italy,20
+18,sobota,1/16/21,6:00 PM,18,Torino,13,Spezia Calcio,0,0,Italy,20
+18,sobota,1/16/21,8:45 PM,11,Sampdoria,15,Udinese Calcio,2,1,Italy,20
+18,nedelja,1/17/21,12:30 PM,6,SSC Napoli,12,Fiorentina,6,0,Italy,20
+18,nedelja,1/17/21,3:00 PM,20,Crotone,10,Benevento,4,1,Italy,20
+18,nedelja,1/17/21,3:00 PM,7,Sassuolo,19,Parma,1,1,Italy,20
+18,nedelja,1/17/21,6:00 PM,5,Atalanta BC,17,Genoa,0,0,Italy,20
+18,nedelja,1/17/21,8:45 PM,2,Inter,3,Juventus,2,0,Italy,20
+18,ponedeljek,1/18/21,8:45 PM,16,Cagliari Calcio,1,AC Milan,0,2,Italy,20
+19,petek,1/22/21,8:45 PM,11,Benevento,18,Torino,2,2,Italy,20
+19,sobota,1/23/21,3:00 PM,5,AS Roma,14,Spezia Calcio,4,3,Italy,20
+19,sobota,1/23/21,6:00 PM,1,AC Milan,6,Atalanta BC,0,3,Italy,20
+19,sobota,1/23/21,6:00 PM,15,Udinese Calcio,2,Inter,0,0,Italy,20
+19,sobota,1/23/21,8:45 PM,13,Fiorentina,20,Crotone,2,1,Italy,20
+19,nedelja,1/24/21,12:30 PM,3,Juventus,12,Bologna,2,0,Italy,20
+19,nedelja,1/24/21,3:00 PM,16,Genoa,17,Cagliari Calcio,1,0,Italy,20
+19,nedelja,1/24/21,3:00 PM,9,Hellas Verona,4,SSC Napoli,3,1,Italy,20
+19,nedelja,1/24/21,6:00 PM,7,Lazio,8,Sassuolo,2,1,Italy,20
+19,nedelja,1/24/21,8:45 PM,19,Parma,10,Sampdoria,0,2,Italy,20
+20,petek,1/29/21,8:45 PM,18,Torino,12,Fiorentina,1,1,Italy,20
+20,sobota,1/30/21,3:00 PM,13,Bologna,1,AC Milan,1,2,Italy,20
+20,sobota,1/30/21,6:00 PM,10,Sampdoria,3,Juventus,0,2,Italy,20
+20,sobota,1/30/21,8:45 PM,2,Inter,11,Benevento,4,0,Italy,20
+20,nedelja,1/31/21,12:30 PM,14,Spezia Calcio,16,Udinese Calcio,0,1,Italy,20
+20,nedelja,1/31/21,3:00 PM,20,Crotone,15,Genoa,0,3,Italy,20
+20,nedelja,1/31/21,3:00 PM,5,Atalanta BC,6,Lazio,1,3,Italy,20
+20,nedelja,1/31/21,3:00 PM,17,Cagliari Calcio,8,Sassuolo,1,1,Italy,20
+20,nedelja,1/31/21,6:00 PM,7,SSC Napoli,19,Parma,2,0,Italy,20
+20,nedelja,1/31/21,8:45 PM,4,AS Roma,9,Hellas Verona,3,1,Italy,20
+21,petek,2/5/21,8:45 PM,12,Fiorentina,2,Inter,0,2,Italy,20
+21,sobota,2/6/21,3:00 PM,8,Sassuolo,16,Spezia Calcio,1,2,Italy,20
+21,sobota,2/6/21,3:00 PM,7,Atalanta BC,18,Torino,3,3,Italy,20
+21,sobota,2/6/21,6:00 PM,3,Juventus,4,AS Roma,2,0,Italy,20
+21,sobota,2/6/21,8:45 PM,14,Genoa,6,SSC Napoli,2,1,Italy,20
+21,nedelja,2/7/21,12:30 PM,11,Benevento,10,Sampdoria,1,1,Italy,20
+21,nedelja,2/7/21,3:00 PM,1,AC Milan,20,Crotone,4,0,Italy,20
+21,nedelja,2/7/21,3:00 PM,13,Udinese Calcio,9,Hellas Verona,2,0,Italy,20
+21,nedelja,2/7/21,6:00 PM,19,Parma,15,Bologna,0,3,Italy,20
+21,nedelja,2/7/21,8:45 PM,5,Lazio,17,Cagliari Calcio,1,0,Italy,20
+22,petek,2/12/21,8:45 PM,14,Bologna,13,Benevento,1,1,Italy,20
+22,sobota,2/13/21,3:00 PM,17,Torino,12,Genoa,0,0,Italy,20
+22,sobota,2/13/21,6:00 PM,6,SSC Napoli,3,Juventus,1,0,Italy,20
+22,sobota,2/13/21,8:45 PM,16,Spezia Calcio,1,AC Milan,2,0,Italy,20
+22,nedelja,2/14/21,12:30 PM,5,AS Roma,11,Udinese Calcio,3,0,Italy,20
+22,nedelja,2/14/21,3:00 PM,18,Cagliari Calcio,7,Atalanta BC,0,1,Italy,20
+22,nedelja,2/14/21,3:00 PM,10,Sampdoria,15,Fiorentina,2,1,Italy,20
+22,nedelja,2/14/21,6:00 PM,20,Crotone,8,Sassuolo,1,2,Italy,20
+22,nedelja,2/14/21,8:45 PM,2,Inter,4,Lazio,3,1,Italy,20
+22,ponedeljek,2/15/21,8:45 PM,9,Hellas Verona,19,Parma,2,1,Italy,20
+23,petek,2/19/21,6:30 PM,16,Fiorentina,12,Spezia Calcio,3,0,Italy,20
+23,petek,2/19/21,8:45 PM,18,Cagliari Calcio,17,Torino,0,1,Italy,20
+23,sobota,2/20/21,3:00 PM,5,Lazio,10,Sampdoria,1,0,Italy,20
+23,sobota,2/20/21,6:00 PM,11,Genoa,9,Hellas Verona,2,2,Italy,20
+23,sobota,2/20/21,8:45 PM,8,Sassuolo,15,Bologna,1,1,Italy,20
+23,nedelja,2/21/21,12:30 PM,19,Parma,14,Udinese Calcio,2,2,Italy,20
+23,nedelja,2/21/21,3:00 PM,2,AC Milan,1,Inter,0,3,Italy,20
+23,nedelja,2/21/21,6:00 PM,7,Atalanta BC,6,SSC Napoli,4,2,Italy,20
+23,nedelja,2/21/21,8:45 PM,13,Benevento,4,AS Roma,0,0,Italy,20
+23,ponedeljek,2/22/21,8:45 PM,3,Juventus,20,Crotone,3,0,Italy,20
+24,sobota,2/27/21,3:00 PM,16,Spezia Calcio,19,Parma,2,2,Italy,20
+24,sobota,2/27/21,6:00 PM,14,Bologna,6,Lazio,2,0,Italy,20
+24,sobota,2/27/21,8:45 PM,9,Hellas Verona,3,Juventus,1,1,Italy,20
+24,nedelja,2/28/21,12:30 PM,10,Sampdoria,5,Atalanta BC,0,2,Italy,20
+24,nedelja,2/28/21,3:00 PM,20,Crotone,18,Cagliari Calcio,0,2,Italy,20
+24,nedelja,2/28/21,3:00 PM,15,Udinese Calcio,13,Fiorentina,1,0,Italy,20
+24,nedelja,2/28/21,3:00 PM,1,Inter,11,Genoa,3,0,Italy,20
+24,nedelja,2/28/21,6:00 PM,7,SSC Napoli,12,Benevento,2,0,Italy,20
+24,nedelja,2/28/21,8:45 PM,4,AS Roma,2,AC Milan,1,2,Italy,20
+24,sreda,3/17/21,3:00 PM,17,Torino,8,Sassuolo,3,2,Italy,20
+25,torek,3/2/21,8:45 PM,3,Juventus,15,Spezia Calcio,3,0,Italy,20
+25,sreda,3/3/21,6:30 PM,8,Sassuolo,7,SSC Napoli,3,3,Italy,20
+25,sreda,3/3/21,8:45 PM,18,Cagliari Calcio,12,Bologna,1,0,Italy,20
+25,sreda,3/3/21,8:45 PM,4,Atalanta BC,20,Crotone,5,1,Italy,20
+25,sreda,3/3/21,8:45 PM,14,Fiorentina,5,AS Roma,1,2,Italy,20
+25,sreda,3/3/21,8:45 PM,13,Genoa,10,Sampdoria,1,1,Italy,20
+25,sreda,3/3/21,8:45 PM,2,AC Milan,11,Udinese Calcio,1,1,Italy,20
+25,sreda,3/3/21,8:45 PM,16,Benevento,9,Hellas Verona,0,3,Italy,20
+25,četrtek,3/4/21,8:45 PM,19,Parma,1,Inter,1,2,Italy,20
+25,torek,5/18/21,8:30 PM,6,Lazio,17,Torino,0,0,Italy,20
+26,sobota,3/6/21,3:00 PM,15,Spezia Calcio,16,Benevento,1,1,Italy,20
+26,sobota,3/6/21,6:00 PM,11,Udinese Calcio,9,Sassuolo,2,0,Italy,20
+26,sobota,3/6/21,8:45 PM,3,Juventus,6,Lazio,3,1,Italy,20
+26,nedelja,3/7/21,12:30 PM,5,AS Roma,13,Genoa,1,0,Italy,20
+26,nedelja,3/7/21,3:00 PM,8,Hellas Verona,2,AC Milan,0,2,Italy,20
+26,nedelja,3/7/21,3:00 PM,14,Fiorentina,19,Parma,3,3,Italy,20
+26,nedelja,3/7/21,3:00 PM,20,Crotone,17,Torino,4,2,Italy,20
+26,nedelja,3/7/21,6:00 PM,10,Sampdoria,18,Cagliari Calcio,2,2,Italy,20
+26,nedelja,3/7/21,8:45 PM,7,SSC Napoli,12,Bologna,3,1,Italy,20
+26,ponedeljek,3/8/21,8:45 PM,1,Inter,4,Atalanta BC,1,0,Italy,20
+27,petek,3/12/21,3:00 PM,7,Lazio,20,Crotone,3,2,Italy,20
+27,petek,3/12/21,8:45 PM,5,Atalanta BC,14,Spezia Calcio,3,1,Italy,20
+27,sobota,3/13/21,3:00 PM,9,Sassuolo,8,Hellas Verona,3,2,Italy,20
+27,sobota,3/13/21,6:00 PM,16,Benevento,15,Fiorentina,1,4,Italy,20
+27,sobota,3/13/21,8:45 PM,13,Genoa,11,Udinese Calcio,1,1,Italy,20
+27,nedelja,3/14/21,12:30 PM,12,Bologna,10,Sampdoria,3,1,Italy,20
+27,nedelja,3/14/21,3:00 PM,17,Torino,1,Inter,1,2,Italy,20
+27,nedelja,3/14/21,3:00 PM,19,Parma,4,AS Roma,2,0,Italy,20
+27,nedelja,3/14/21,6:00 PM,18,Cagliari Calcio,3,Juventus,1,3,Italy,20
+27,nedelja,3/14/21,8:45 PM,2,AC Milan,6,SSC Napoli,0,1,Italy,20
+28,petek,3/19/21,8:45 PM,19,Parma,14,Genoa,1,2,Italy,20
+28,sobota,3/20/21,3:00 PM,20,Crotone,12,Bologna,2,3,Italy,20
+28,sobota,3/20/21,6:00 PM,15,Spezia Calcio,18,Cagliari Calcio,2,1,Italy,20
+28,nedelja,3/21/21,12:30 PM,9,Hellas Verona,4,Atalanta BC,0,2,Italy,20
+28,nedelja,3/21/21,3:00 PM,2,Juventus,16,Benevento,0,1,Italy,20
+28,nedelja,3/21/21,3:00 PM,10,Udinese Calcio,7,Lazio,0,1,Italy,20
+28,nedelja,3/21/21,3:00 PM,11,Sampdoria,17,Torino,1,0,Italy,20
+28,nedelja,3/21/21,6:00 PM,13,Fiorentina,3,AC Milan,2,3,Italy,20
+28,nedelja,3/21/21,8:45 PM,6,AS Roma,5,SSC Napoli,0,2,Italy,20
+28,sreda,4/7/21,6:45 PM,1,Inter,8,Sassuolo,2,1,Italy,20
+29,sobota,4/3/21,12:30 PM,2,AC Milan,10,Sampdoria,1,1,Italy,20
+29,sobota,4/3/21,3:00 PM,6,Lazio,15,Spezia Calcio,2,1,Italy,20
+29,sobota,4/3/21,3:00 PM,4,Atalanta BC,12,Udinese Calcio,3,2,Italy,20
+29,sobota,4/3/21,3:00 PM,18,Cagliari Calcio,9,Hellas Verona,0,2,Italy,20
+29,sobota,4/3/21,3:00 PM,5,SSC Napoli,20,Crotone,4,3,Italy,20
+29,sobota,4/3/21,3:00 PM,13,Genoa,14,Fiorentina,1,1,Italy,20
+29,sobota,4/3/21,3:00 PM,16,Benevento,19,Parma,2,2,Italy,20
+29,sobota,4/3/21,3:00 PM,8,Sassuolo,7,AS Roma,2,2,Italy,20
+29,sobota,4/3/21,6:00 PM,17,Torino,3,Juventus,2,2,Italy,20
+29,sobota,4/3/21,8:45 PM,11,Bologna,1,Inter,0,1,Italy,20
+30,sobota,4/10/21,3:00 PM,16,Spezia Calcio,20,Crotone,3,2,Italy,20
+30,sobota,4/10/21,6:00 PM,19,Parma,2,AC Milan,1,3,Italy,20
+30,sobota,4/10/21,8:45 PM,12,Udinese Calcio,17,Torino,0,1,Italy,20
+30,nedelja,4/11/21,12:30 PM,1,Inter,18,Cagliari Calcio,1,0,Italy,20
+30,nedelja,4/11/21,3:00 PM,3,Juventus,13,Genoa,3,1,Italy,20
+30,nedelja,4/11/21,3:00 PM,8,Hellas Verona,6,Lazio,0,1,Italy,20
+30,nedelja,4/11/21,3:00 PM,10,Sampdoria,5,SSC Napoli,0,2,Italy,20
+30,nedelja,4/11/21,6:00 PM,7,AS Roma,11,Bologna,1,0,Italy,20
+30,nedelja,4/11/21,8:45 PM,14,Fiorentina,4,Atalanta BC,2,3,Italy,20
+30,ponedeljek,4/12/21,8:45 PM,15,Benevento,9,Sassuolo,0,1,Italy,20
+31,sobota,4/17/21,3:00 PM,20,Crotone,12,Udinese Calcio,1,2,Italy,20
+31,sobota,4/17/21,3:00 PM,10,Sampdoria,9,Hellas Verona,3,1,Italy,20
+31,sobota,4/17/21,6:00 PM,8,Sassuolo,15,Fiorentina,3,1,Italy,20
+31,sobota,4/17/21,8:45 PM,18,Cagliari Calcio,19,Parma,4,3,Italy,20
+31,nedelja,4/18/21,12:30 PM,2,AC Milan,13,Genoa,2,1,Italy,20
+31,nedelja,4/18/21,3:00 PM,6,Lazio,16,Benevento,5,3,Italy,20
+31,nedelja,4/18/21,3:00 PM,4,Atalanta BC,3,Juventus,1,0,Italy,20
+31,nedelja,4/18/21,3:00 PM,11,Bologna,14,Spezia Calcio,4,1,Italy,20
+31,nedelja,4/18/21,6:00 PM,17,Torino,7,AS Roma,3,1,Italy,20
+31,nedelja,4/18/21,8:45 PM,5,SSC Napoli,1,Inter,1,1,Italy,20
+32,torek,4/20/21,8:45 PM,9,Hellas Verona,16,Fiorentina,1,2,Italy,20
+32,sreda,4/21/21,6:30 PM,2,AC Milan,8,Sassuolo,1,2,Italy,20
+32,sreda,4/21/21,8:45 PM,13,Genoa,17,Benevento,2,2,Italy,20
+32,sreda,4/21/21,8:45 PM,12,Udinese Calcio,18,Cagliari Calcio,0,1,Italy,20
+32,sreda,4/21/21,8:45 PM,14,Spezia Calcio,1,Inter,1,1,Italy,20
+32,sreda,4/21/21,8:45 PM,4,Juventus,19,Parma,3,1,Italy,20
+32,sreda,4/21/21,8:45 PM,20,Crotone,10,Sampdoria,0,1,Italy,20
+32,sreda,4/21/21,8:45 PM,11,Bologna,15,Torino,1,1,Italy,20
+32,četrtek,4/22/21,6:30 PM,7,AS Roma,3,Atalanta BC,1,1,Italy,20
+32,četrtek,4/22/21,8:45 PM,5,SSC Napoli,6,Lazio,5,2,Italy,20
+33,sobota,4/24/21,3:00 PM,14,Genoa,15,Spezia Calcio,2,0,Italy,20
+33,sobota,4/24/21,6:00 PM,19,Parma,20,Crotone,3,4,Italy,20
+33,sobota,4/24/21,8:45 PM,8,Sassuolo,9,Sampdoria,1,0,Italy,20
+33,nedelja,4/25/21,12:30 PM,17,Benevento,12,Udinese Calcio,2,4,Italy,20
+33,nedelja,4/25/21,3:00 PM,13,Fiorentina,4,Juventus,1,1,Italy,20
+33,nedelja,4/25/21,3:00 PM,1,Inter,10,Hellas Verona,1,0,Italy,20
+33,nedelja,4/25/21,6:00 PM,18,Cagliari Calcio,7,AS Roma,3,2,Italy,20
+33,nedelja,4/25/21,8:45 PM,3,Atalanta BC,11,Bologna,5,0,Italy,20
+33,ponedeljek,4/26/21,6:30 PM,16,Torino,5,SSC Napoli,0,2,Italy,20
+33,ponedeljek,4/26/21,8:45 PM,6,Lazio,2,AC Milan,3,0,Italy,20
+34,sobota,5/1/21,3:00 PM,10,Hellas Verona,15,Spezia Calcio,1,1,Italy,20
+34,sobota,5/1/21,6:00 PM,20,Crotone,1,Inter,0,2,Italy,20
+34,sobota,5/1/21,8:45 PM,5,AC Milan,17,Benevento,2,0,Italy,20
+34,nedelja,5/2/21,12:30 PM,6,Lazio,13,Genoa,4,3,Italy,20
+34,nedelja,5/2/21,3:00 PM,8,Sassuolo,2,Atalanta BC,1,1,Italy,20
+34,nedelja,5/2/21,3:00 PM,4,SSC Napoli,18,Cagliari Calcio,1,1,Italy,20
+34,nedelja,5/2/21,3:00 PM,12,Bologna,14,Fiorentina,3,3,Italy,20
+34,nedelja,5/2/21,6:00 PM,11,Udinese Calcio,3,Juventus,1,2,Italy,20
+34,nedelja,5/2/21,8:45 PM,9,Sampdoria,7,AS Roma,2,0,Italy,20
+34,ponedeljek,5/3/21,8:45 PM,16,Torino,19,Parma,1,0,Italy,20
+35,sobota,5/8/21,3:00 PM,11,Udinese Calcio,12,Bologna,1,1,Italy,20
+35,sobota,5/8/21,3:00 PM,16,Spezia Calcio,5,SSC Napoli,1,4,Italy,20
+35,sobota,5/8/21,6:00 PM,1,Inter,9,Sampdoria,5,1,Italy,20
+35,sobota,5/8/21,8:45 PM,14,Fiorentina,6,Lazio,2,0,Italy,20
+35,nedelja,5/9/21,12:30 PM,13,Genoa,8,Sassuolo,1,2,Italy,20
+35,nedelja,5/9/21,3:00 PM,19,Parma,2,Atalanta BC,2,5,Italy,20
+35,nedelja,5/9/21,3:00 PM,18,Benevento,17,Cagliari Calcio,1,3,Italy,20
+35,nedelja,5/9/21,3:00 PM,10,Hellas Verona,15,Torino,1,1,Italy,20
+35,nedelja,5/9/21,6:00 PM,7,AS Roma,20,Crotone,5,0,Italy,20
+35,nedelja,5/9/21,8:45 PM,3,Juventus,4,AC Milan,0,3,Italy,20
+36,torek,5/11/21,8:45 PM,4,SSC Napoli,11,Udinese Calcio,5,1,Italy,20
+36,sreda,5/12/21,6:30 PM,16,Cagliari Calcio,13,Fiorentina,0,0,Italy,20
+36,sreda,5/12/21,8:45 PM,2,Atalanta BC,18,Benevento,2,0,Italy,20
+36,sreda,5/12/21,8:45 PM,12,Bologna,15,Genoa,0,2,Italy,20
+36,sreda,5/12/21,8:45 PM,8,Sassuolo,5,Juventus,1,3,Italy,20
+36,sreda,5/12/21,8:45 PM,14,Torino,3,AC Milan,0,7,Italy,20
+36,sreda,5/12/21,8:45 PM,6,Lazio,19,Parma,1,0,Italy,20
+36,sreda,5/12/21,8:45 PM,1,Inter,7,AS Roma,3,1,Italy,20
+36,sreda,5/12/21,8:45 PM,9,Sampdoria,17,Spezia Calcio,2,2,Italy,20
+36,četrtek,5/13/21,8:45 PM,20,Crotone,10,Hellas Verona,2,1,Italy,20
+37,sobota,5/15/21,3:00 PM,14,Genoa,2,Atalanta BC,3,4,Italy,20
+37,sobota,5/15/21,3:00 PM,17,Spezia Calcio,16,Torino,4,1,Italy,20
+37,sobota,5/15/21,6:00 PM,5,Juventus,1,Inter,3,2,Italy,20
+37,sobota,5/15/21,8:45 PM,7,AS Roma,6,Lazio,2,0,Italy,20
+37,nedelja,5/16/21,12:30 PM,13,Fiorentina,4,SSC Napoli,0,2,Italy,20
+37,nedelja,5/16/21,3:00 PM,18,Benevento,19,Crotone,1,1,Italy,20
+37,nedelja,5/16/21,3:00 PM,11,Udinese Calcio,9,Sampdoria,0,1,Italy,20
+37,nedelja,5/16/21,6:00 PM,20,Parma,8,Sassuolo,1,3,Italy,20
+37,nedelja,5/16/21,8:45 PM,3,AC Milan,15,Cagliari Calcio,0,0,Italy,20
+37,ponedeljek,5/17/21,8:45 PM,10,Hellas Verona,12,Bologna,2,2,Italy,20
+38,sobota,5/22/21,8:45 PM,19,Crotone,13,Fiorentina,0,0,Italy,20
+38,sobota,5/22/21,8:45 PM,16,Cagliari Calcio,14,Genoa,0,1,Italy,20
+38,sobota,5/22/21,8:45 PM,9,Sampdoria,20,Parma,3,0,Italy,20
+38,nedelja,5/23/21,3:00 PM,1,Inter,12,Udinese Calcio,5,1,Italy,20
+38,nedelja,5/23/21,8:45 PM,17,Torino,18,Benevento,1,1,Italy,20
+38,nedelja,5/23/21,8:45 PM,11,Bologna,5,Juventus,1,4,Italy,20
+38,nedelja,5/23/21,8:45 PM,8,Sassuolo,6,Lazio,2,0,Italy,20
+38,nedelja,5/23/21,8:45 PM,2,Atalanta BC,3,AC Milan,0,2,Italy,20
+38,nedelja,5/23/21,8:45 PM,15,Spezia Calcio,7,AS Roma,2,2,Italy,20
+38,nedelja,5/23/21,8:45 PM,4,SSC Napoli,10,Hellas Verona,1,1,Italy,20

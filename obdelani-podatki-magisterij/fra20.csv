@@ -1,0 +1,381 @@
+kolo,dan,datum,ura,lestvica_domaci,domaca_ekipa,lestvica_gostje,gostujoca_ekipa,zadetki_domaci,zadetki_gostje,drzava,sezona
+1,petek,8/21/20,7:00 PM,12,G. Bordeaux,13,FC Nantes,0,0,France,20
+1,sobota,8/22/20,5:00 PM,17,Dijon,7,SCO Angers,0,1,France,20
+1,sobota,8/22/20,9:00 PM,11,LOSC Lille,10,Stade Rennais,1,1,France,20
+1,nedelja,8/23/20,1:00 PM,9,Monaco,8,Stade Reims,2,2,France,20
+1,nedelja,8/23/20,3:00 PM,2,FC Lorient,18,R. Strasbourg,3,1,France,20
+1,nedelja,8/23/20,3:00 PM,1,Nîmes Olympique,20,Stade Brestois,4,0,France,20
+1,nedelja,8/23/20,5:00 PM,4,OGC Nice,15,Lens,2,1,France,20
+1,torek,9/15/20,9:00 PM,5,Montpellier,14,Olympique Lyon,2,1,France,20
+1,sreda,9/16/20,9:00 PM,6,Paris SG,16,FC Metz,1,0,France,20
+1,četrtek,9/17/20,9:00 PM,19,Marseille,3,Saint-Étienne,0,2,France,20
+2,petek,8/28/20,9:00 PM,14,Olympique Lyon,17,Dijon,4,1,France,20
+2,sobota,8/29/20,5:00 PM,10,Stade Rennais,5,Montpellier,2,1,France,20
+2,sobota,8/29/20,9:00 PM,18,R. Strasbourg,4,OGC Nice,0,2,France,20
+2,nedelja,8/30/20,1:00 PM,8,Stade Reims,11,LOSC Lille,0,1,France,20
+2,nedelja,8/30/20,3:00 PM,16,FC Metz,9,Monaco,0,1,France,20
+2,nedelja,8/30/20,3:00 PM,13,FC Nantes,1,Nîmes Olympique,2,1,France,20
+2,nedelja,8/30/20,3:00 PM,7,SCO Angers,12,G. Bordeaux,0,2,France,20
+2,nedelja,8/30/20,3:00 PM,3,Saint-Étienne,2,FC Lorient,2,0,France,20
+2,nedelja,8/30/20,9:00 PM,20,Stade Brestois,19,Marseille,2,3,France,20
+2,četrtek,9/10/20,9:00 PM,15,Lens,6,Paris SG,1,0,France,20
+3,petek,9/11/20,9:00 PM,3,G. Bordeaux,9,Olympique Lyon,0,0,France,20
+3,sobota,9/12/20,5:00 PM,10,Montpellier,2,OGC Nice,3,1,France,20
+3,sobota,9/12/20,9:00 PM,1,Saint-Étienne,18,R. Strasbourg,2,0,France,20
+3,nedelja,9/13/20,1:00 PM,6,LOSC Lille,17,FC Metz,1,0,France,20
+3,nedelja,9/13/20,3:00 PM,11,FC Lorient,12,Lens,2,3,France,20
+3,nedelja,9/13/20,3:00 PM,15,SCO Angers,16,Stade Reims,1,0,France,20
+3,nedelja,9/13/20,3:00 PM,8,Nîmes Olympique,4,Stade Rennais,2,4,France,20
+3,nedelja,9/13/20,3:00 PM,19,Dijon,20,Stade Brestois,0,2,France,20
+3,nedelja,9/13/20,5:00 PM,5,Monaco,7,FC Nantes,2,1,France,20
+3,nedelja,9/13/20,9:00 PM,13,Paris SG,14,Marseille,0,1,France,20
+4,petek,9/18/20,9:00 PM,11,Olympique Lyon,13,Nîmes Olympique,0,0,France,20
+4,sobota,9/19/20,5:00 PM,7,Lens,10,G. Bordeaux,2,1,France,20
+4,sobota,9/19/20,9:00 PM,2,Stade Rennais,3,Monaco,2,1,France,20
+4,nedelja,9/20/20,1:00 PM,6,OGC Nice,15,Paris SG,0,3,France,20
+4,nedelja,9/20/20,3:00 PM,18,FC Metz,17,Stade Reims,2,1,France,20
+4,nedelja,9/20/20,3:00 PM,19,R. Strasbourg,20,Dijon,1,0,France,20
+4,nedelja,9/20/20,3:00 PM,5,Montpellier,9,SCO Angers,4,1,France,20
+4,nedelja,9/20/20,3:00 PM,16,Stade Brestois,14,FC Lorient,3,2,France,20
+4,nedelja,9/20/20,5:00 PM,12,FC Nantes,1,Saint-Étienne,2,2,France,20
+4,nedelja,9/20/20,9:00 PM,8,Marseille,4,LOSC Lille,1,1,France,20
+5,petek,9/25/20,9:00 PM,5,LOSC Lille,14,FC Nantes,2,0,France,20
+5,sobota,9/26/20,5:00 PM,1,Saint-Étienne,2,Stade Rennais,0,3,France,20
+5,sobota,9/26/20,9:00 PM,7,Marseille,17,FC Metz,1,1,France,20
+5,nedelja,9/27/20,1:00 PM,13,G. Bordeaux,10,OGC Nice,0,0,France,20
+5,nedelja,9/27/20,3:00 PM,6,Monaco,18,R. Strasbourg,3,2,France,20
+5,nedelja,9/27/20,3:00 PM,11,SCO Angers,9,Stade Brestois,3,2,France,20
+5,nedelja,9/27/20,3:00 PM,20,Dijon,3,Montpellier,2,2,France,20
+5,nedelja,9/27/20,3:00 PM,15,Nîmes Olympique,4,Lens,1,1,France,20
+5,nedelja,9/27/20,5:00 PM,16,FC Lorient,12,Olympique Lyon,1,1,France,20
+5,nedelja,9/27/20,9:00 PM,19,Stade Reims,8,Paris SG,0,2,France,20
+6,petek,10/2/20,9:00 PM,7,Paris SG,8,SCO Angers,6,1,France,20
+6,sobota,10/3/20,5:00 PM,6,Lens,4,Saint-Étienne,2,0,France,20
+6,sobota,10/3/20,9:00 PM,10,OGC Nice,15,FC Nantes,2,1,France,20
+6,nedelja,10/4/20,1:00 PM,3,Montpellier,14,Nîmes Olympique,0,1,France,20
+6,nedelja,10/4/20,3:00 PM,17,FC Metz,16,FC Lorient,3,1,France,20
+6,nedelja,10/4/20,3:00 PM,13,Stade Brestois,5,Monaco,1,0,France,20
+6,nedelja,10/4/20,3:00 PM,12,G. Bordeaux,20,Dijon,3,0,France,20
+6,nedelja,10/4/20,3:00 PM,18,R. Strasbourg,2,LOSC Lille,0,3,France,20
+6,nedelja,10/4/20,5:00 PM,1,Stade Rennais,19,Stade Reims,2,2,France,20
+6,nedelja,10/4/20,9:00 PM,11,Olympique Lyon,9,Marseille,1,1,France,20
+7,petek,10/16/20,7:00 PM,20,Dijon,1,Stade Rennais,1,1,France,20
+7,petek,10/16/20,9:00 PM,13,Nîmes Olympique,4,Paris SG,0,4,France,20
+7,sobota,10/17/20,5:00 PM,19,Stade Reims,17,FC Lorient,1,3,France,20
+7,sobota,10/17/20,9:00 PM,10,Marseille,9,G. Bordeaux,3,1,France,20
+7,nedelja,10/18/20,1:00 PM,18,R. Strasbourg,14,Olympique Lyon,2,3,France,20
+7,nedelja,10/18/20,3:00 PM,12,SCO Angers,15,FC Metz,1,1,France,20
+7,nedelja,10/18/20,3:00 PM,6,Monaco,5,Montpellier,1,1,France,20
+7,nedelja,10/18/20,3:00 PM,16,FC Nantes,11,Stade Brestois,3,1,France,20
+7,nedelja,10/18/20,5:00 PM,7,Saint-Étienne,8,OGC Nice,1,3,France,20
+7,nedelja,10/18/20,9:00 PM,2,LOSC Lille,3,Lens,4,0,France,20
+8,petek,10/23/20,9:00 PM,3,Stade Rennais,11,SCO Angers,1,2,France,20
+8,sobota,10/24/20,5:00 PM,17,FC Lorient,6,Marseille,0,1,France,20
+8,sobota,10/24/20,9:00 PM,2,Paris SG,20,Dijon,4,0,France,20
+8,nedelja,10/25/20,3:00 PM,14,FC Metz,10,Saint-Étienne,2,0,France,20
+8,nedelja,10/25/20,3:00 PM,13,Stade Brestois,18,R. Strasbourg,0,3,France,20
+8,nedelja,10/25/20,3:00 PM,7,Montpellier,19,Stade Reims,0,4,France,20
+8,nedelja,10/25/20,3:00 PM,12,G. Bordeaux,16,Nîmes Olympique,2,0,France,20
+8,nedelja,10/25/20,5:00 PM,4,OGC Nice,1,LOSC Lille,1,1,France,20
+8,nedelja,10/25/20,9:00 PM,9,Olympique Lyon,8,Monaco,4,1,France,20
+8,sreda,11/25/20,7:00 PM,5,Lens,15,FC Nantes,1,1,France,20
+9,sobota,10/31/20,5:00 PM,3,Stade Rennais,15,Stade Brestois,2,1,France,20
+9,sobota,10/31/20,9:00 PM,14,FC Nantes,1,Paris SG,0,3,France,20
+9,nedelja,11/1/20,1:00 PM,13,Saint-Étienne,11,Montpellier,0,1,France,20
+9,nedelja,11/1/20,3:00 PM,20,Dijon,17,FC Lorient,0,0,France,20
+9,nedelja,11/1/20,3:00 PM,19,Stade Reims,18,R. Strasbourg,2,1,France,20
+9,nedelja,11/1/20,3:00 PM,8,SCO Angers,5,OGC Nice,0,3,France,20
+9,nedelja,11/1/20,3:00 PM,16,Nîmes Olympique,10,FC Metz,0,1,France,20
+9,nedelja,11/1/20,5:00 PM,12,Monaco,9,G. Bordeaux,4,0,France,20
+9,nedelja,11/1/20,9:00 PM,2,LOSC Lille,7,Olympique Lyon,1,1,France,20
+9,sreda,1/20/21,9:00 PM,4,Marseille,6,Lens,0,1,France,20
+10,petek,11/6/20,9:00 PM,19,R. Strasbourg,6,Marseille,0,1,France,20
+10,sobota,11/7/20,5:00 PM,12,G. Bordeaux,10,Montpellier,0,2,France,20
+10,sobota,11/7/20,9:00 PM,1,Paris SG,3,Stade Rennais,3,0,France,20
+10,nedelja,11/8/20,1:00 PM,15,Stade Brestois,2,LOSC Lille,3,2,France,20
+10,nedelja,11/8/20,3:00 PM,18,Nîmes Olympique,11,SCO Angers,1,5,France,20
+10,nedelja,11/8/20,3:00 PM,17,FC Lorient,14,FC Nantes,0,2,France,20
+10,nedelja,11/8/20,3:00 PM,5,Lens,16,Stade Reims,4,4,France,20
+10,nedelja,11/8/20,3:00 PM,8,FC Metz,20,Dijon,1,1,France,20
+10,nedelja,11/8/20,5:00 PM,4,OGC Nice,9,Monaco,1,2,France,20
+10,nedelja,11/8/20,9:00 PM,7,Olympique Lyon,13,Saint-Étienne,2,1,France,20
+11,petek,11/20/20,7:00 PM,3,Stade Rennais,13,G. Bordeaux,0,1,France,20
+11,petek,11/20/20,9:00 PM,7,Monaco,1,Paris SG,3,2,France,20
+11,sobota,11/21/20,5:00 PM,14,Stade Brestois,15,Saint-Étienne,4,1,France,20
+11,nedelja,11/22/20,1:00 PM,12,FC Nantes,11,FC Metz,1,1,France,20
+11,nedelja,11/22/20,3:00 PM,16,Stade Reims,18,Nîmes Olympique,0,1,France,20
+11,nedelja,11/22/20,3:00 PM,8,Montpellier,19,R. Strasbourg,4,3,France,20
+11,nedelja,11/22/20,3:00 PM,20,Dijon,5,Lens,0,1,France,20
+11,nedelja,11/22/20,5:00 PM,10,SCO Angers,6,Olympique Lyon,0,1,France,20
+11,nedelja,11/22/20,9:00 PM,2,LOSC Lille,17,FC Lorient,4,0,France,20
+11,sreda,2/17/21,9:00 PM,4,Marseille,9,OGC Nice,3,2,France,20
+12,petek,11/27/20,9:00 PM,19,R. Strasbourg,8,Stade Rennais,1,1,France,20
+12,sobota,11/28/20,5:00 PM,3,Marseille,14,FC Nantes,3,1,France,20
+12,sobota,11/28/20,9:00 PM,1,Paris SG,12,G. Bordeaux,2,2,France,20
+12,nedelja,11/29/20,1:00 PM,5,Olympique Lyon,17,Stade Reims,3,0,France,20
+12,nedelja,11/29/20,3:00 PM,4,Lens,11,SCO Angers,1,3,France,20
+12,nedelja,11/29/20,3:00 PM,10,FC Metz,13,Stade Brestois,0,2,France,20
+12,nedelja,11/29/20,3:00 PM,18,FC Lorient,6,Montpellier,0,1,France,20
+12,nedelja,11/29/20,3:00 PM,7,Monaco,15,Nîmes Olympique,3,0,France,20
+12,nedelja,11/29/20,5:00 PM,9,OGC Nice,20,Dijon,1,3,France,20
+12,nedelja,11/29/20,9:00 PM,16,Saint-Étienne,2,LOSC Lille,1,1,France,20
+13,petek,12/4/20,9:00 PM,16,Nîmes Olympique,2,Marseille,0,2,France,20
+13,sobota,12/5/20,5:00 PM,8,Stade Rennais,7,Lens,0,2,France,20
+13,sobota,12/5/20,9:00 PM,6,Montpellier,1,Paris SG,1,3,France,20
+13,nedelja,12/6/20,1:00 PM,3,LOSC Lille,5,Monaco,2,1,France,20
+13,nedelja,12/6/20,3:00 PM,13,G. Bordeaux,10,Stade Brestois,1,0,France,20
+13,nedelja,12/6/20,3:00 PM,20,Dijon,15,Saint-Étienne,0,0,France,20
+13,nedelja,12/6/20,3:00 PM,9,SCO Angers,18,FC Lorient,2,0,France,20
+13,nedelja,12/6/20,3:00 PM,14,FC Nantes,19,R. Strasbourg,0,4,France,20
+13,nedelja,12/6/20,5:00 PM,17,Stade Reims,11,OGC Nice,0,0,France,20
+13,nedelja,12/6/20,9:00 PM,12,FC Metz,4,Olympique Lyon,1,3,France,20
+14,petek,12/11/20,9:00 PM,15,Saint-Étienne,8,SCO Angers,0,0,France,20
+14,sobota,12/12/20,5:00 PM,2,Marseille,6,Monaco,2,1,France,20
+14,sobota,12/12/20,9:00 PM,5,Lens,7,Montpellier,2,3,France,20
+14,nedelja,12/13/20,1:00 PM,11,OGC Nice,9,Stade Rennais,0,1,France,20
+14,nedelja,12/13/20,3:00 PM,17,R. Strasbourg,13,FC Metz,2,2,France,20
+14,nedelja,12/13/20,3:00 PM,19,FC Lorient,16,Nîmes Olympique,3,0,France,20
+14,nedelja,12/13/20,3:00 PM,14,FC Nantes,20,Dijon,1,1,France,20
+14,nedelja,12/13/20,3:00 PM,12,Stade Brestois,18,Stade Reims,2,1,France,20
+14,nedelja,12/13/20,5:00 PM,3,LOSC Lille,10,G. Bordeaux,2,1,France,20
+14,nedelja,12/13/20,9:00 PM,1,Paris SG,4,Olympique Lyon,0,1,France,20
+15,sreda,12/16/20,7:00 PM,18,Nîmes Olympique,12,OGC Nice,0,2,France,20
+15,sreda,12/16/20,7:00 PM,19,Stade Reims,14,FC Nantes,3,2,France,20
+15,sreda,12/16/20,7:00 PM,8,SCO Angers,16,R. Strasbourg,0,2,France,20
+15,sreda,12/16/20,7:00 PM,20,Dijon,2,LOSC Lille,0,2,France,20
+15,sreda,12/16/20,7:00 PM,5,Montpellier,13,FC Metz,0,2,France,20
+15,sreda,12/16/20,9:00 PM,11,G. Bordeaux,15,Saint-Étienne,1,2,France,20
+15,sreda,12/16/20,9:00 PM,4,Paris SG,17,FC Lorient,2,0,France,20
+15,sreda,12/16/20,9:00 PM,9,Stade Rennais,1,Marseille,2,1,France,20
+15,sreda,12/16/20,9:00 PM,3,Olympique Lyon,10,Stade Brestois,2,2,France,20
+15,sreda,12/16/20,9:00 PM,7,Monaco,6,Lens,0,3,France,20
+16,sobota,12/19/20,5:00 PM,12,FC Metz,5,Lens,2,0,France,20
+16,sobota,12/19/20,7:00 PM,4,Marseille,17,Stade Reims,1,1,France,20
+16,sobota,12/19/20,9:00 PM,11,OGC Nice,3,Olympique Lyon,1,4,France,20
+16,nedelja,12/20/20,1:00 PM,10,Stade Brestois,6,Montpellier,2,2,France,20
+16,nedelja,12/20/20,3:00 PM,20,Dijon,8,Monaco,0,1,France,20
+16,nedelja,12/20/20,3:00 PM,14,Saint-Étienne,19,Nîmes Olympique,2,2,France,20
+16,nedelja,12/20/20,3:00 PM,16,FC Nantes,9,SCO Angers,1,1,France,20
+16,nedelja,12/20/20,3:00 PM,15,R. Strasbourg,13,G. Bordeaux,0,2,France,20
+16,nedelja,12/20/20,5:00 PM,18,FC Lorient,7,Stade Rennais,0,3,France,20
+16,nedelja,12/20/20,9:00 PM,1,LOSC Lille,2,Paris SG,0,0,France,20
+17,sreda,12/23/20,7:00 PM,7,Lens,11,Stade Brestois,2,1,France,20
+17,sreda,12/23/20,7:00 PM,13,OGC Nice,19,FC Lorient,2,2,France,20
+17,sreda,12/23/20,7:00 PM,12,G. Bordeaux,17,Stade Reims,1,3,France,20
+17,sreda,12/23/20,7:00 PM,18,Nîmes Olympique,20,Dijon,1,3,France,20
+17,sreda,12/23/20,7:00 PM,5,Stade Rennais,10,FC Metz,1,0,France,20
+17,sreda,12/23/20,9:00 PM,2,Olympique Lyon,15,FC Nantes,3,0,France,20
+17,sreda,12/23/20,9:00 PM,8,Monaco,14,Saint-Étienne,2,2,France,20
+17,sreda,12/23/20,9:00 PM,3,Paris SG,16,R. Strasbourg,4,0,France,20
+17,sreda,12/23/20,9:00 PM,9,SCO Angers,4,Marseille,2,1,France,20
+17,sreda,12/23/20,9:00 PM,6,Montpellier,1,LOSC Lille,2,3,France,20
+18,sreda,1/6/21,7:00 PM,18,FC Lorient,7,Monaco,2,5,France,20
+18,sreda,1/6/21,7:00 PM,16,FC Nantes,4,Stade Rennais,0,0,France,20
+18,sreda,1/6/21,7:00 PM,11,Stade Brestois,12,OGC Nice,2,0,France,20
+18,sreda,1/6/21,7:00 PM,17,R. Strasbourg,20,Nîmes Olympique,5,0,France,20
+18,sreda,1/6/21,7:00 PM,10,FC Metz,13,G. Bordeaux,0,0,France,20
+18,sreda,1/6/21,9:00 PM,14,Saint-Étienne,3,Paris SG,1,1,France,20
+18,sreda,1/6/21,9:00 PM,2,LOSC Lille,9,SCO Angers,1,2,France,20
+18,sreda,1/6/21,9:00 PM,5,Marseille,8,Montpellier,3,1,France,20
+18,sreda,1/6/21,9:00 PM,1,Olympique Lyon,6,Lens,3,2,France,20
+18,sreda,1/6/21,9:00 PM,15,Stade Reims,19,Dijon,0,0,France,20
+19,sobota,1/9/21,9:00 PM,15,Stade Reims,14,Saint-Étienne,3,1,France,20
+19,sobota,1/9/21,9:00 PM,20,Nîmes Olympique,3,LOSC Lille,0,1,France,20
+19,sobota,1/9/21,9:00 PM,11,FC Metz,13,OGC Nice,1,1,France,20
+19,sobota,1/9/21,9:00 PM,2,Paris SG,10,Stade Brestois,3,0,France,20
+19,sobota,1/9/21,9:00 PM,5,Stade Rennais,1,Olympique Lyon,2,2,France,20
+19,sobota,1/9/21,9:00 PM,12,G. Bordeaux,19,FC Lorient,2,1,France,20
+19,sobota,1/9/21,9:00 PM,9,Montpellier,17,FC Nantes,1,1,France,20
+19,sobota,1/9/21,9:00 PM,7,Lens,16,R. Strasbourg,0,1,France,20
+19,sobota,1/9/21,9:00 PM,6,Monaco,8,SCO Angers,3,0,France,20
+19,sobota,1/9/21,9:00 PM,18,Dijon,4,Marseille,0,0,France,20
+20,petek,1/15/21,9:00 PM,9,Montpellier,5,Monaco,2,3,France,20
+20,sobota,1/16/21,5:00 PM,4,Marseille,20,Nîmes Olympique,1,2,France,20
+20,sobota,1/16/21,9:00 PM,8,SCO Angers,2,Paris SG,0,1,France,20
+20,nedelja,1/17/21,1:00 PM,11,Stade Brestois,6,Stade Rennais,1,2,France,20
+20,nedelja,1/17/21,3:00 PM,13,OGC Nice,10,G. Bordeaux,0,3,France,20
+20,nedelja,1/17/21,3:00 PM,17,FC Nantes,7,Lens,1,1,France,20
+20,nedelja,1/17/21,3:00 PM,15,R. Strasbourg,16,Saint-Étienne,1,0,France,20
+20,nedelja,1/17/21,5:00 PM,3,LOSC Lille,14,Stade Reims,2,1,France,20
+20,nedelja,1/17/21,9:00 PM,1,Olympique Lyon,12,FC Metz,0,1,France,20
+20,sreda,1/27/21,9:00 PM,19,FC Lorient,18,Dijon,3,2,France,20
+21,petek,1/22/21,9:00 PM,1,Paris SG,11,Montpellier,4,0,France,20
+21,sobota,1/23/21,5:00 PM,7,Lens,14,OGC Nice,0,1,France,20
+21,sobota,1/23/21,9:00 PM,4,Monaco,6,Marseille,3,1,France,20
+21,nedelja,1/24/21,1:00 PM,9,G. Bordeaux,8,SCO Angers,2,1,France,20
+21,nedelja,1/24/21,3:00 PM,10,FC Metz,17,FC Nantes,2,0,France,20
+21,nedelja,1/24/21,3:00 PM,15,Stade Reims,12,Stade Brestois,1,0,France,20
+21,nedelja,1/24/21,3:00 PM,20,Dijon,13,R. Strasbourg,1,1,France,20
+21,nedelja,1/24/21,5:00 PM,5,Stade Rennais,2,LOSC Lille,0,1,France,20
+21,nedelja,1/24/21,9:00 PM,16,Saint-Étienne,3,Olympique Lyon,0,5,France,20
+21,sreda,2/24/21,7:00 PM,19,Nîmes Olympique,18,FC Lorient,1,0,France,20
+22,petek,1/29/21,9:00 PM,3,Olympique Lyon,7,G. Bordeaux,2,1,France,20
+22,sobota,1/30/21,5:00 PM,11,Montpellier,9,Lens,1,2,France,20
+22,nedelja,1/31/21,1:00 PM,13,OGC Nice,16,Saint-Étienne,0,1,France,20
+22,nedelja,1/31/21,3:00 PM,20,FC Lorient,1,Paris SG,3,2,France,20
+22,nedelja,1/31/21,3:00 PM,12,Stade Brestois,8,FC Metz,2,4,France,20
+22,nedelja,1/31/21,3:00 PM,10,SCO Angers,18,Nîmes Olympique,3,1,France,20
+22,nedelja,1/31/21,3:00 PM,15,R. Strasbourg,14,Stade Reims,0,1,France,20
+22,nedelja,1/31/21,5:00 PM,2,LOSC Lille,19,Dijon,1,0,France,20
+22,nedelja,1/31/21,9:00 PM,17,FC Nantes,4,Monaco,1,2,France,20
+22,sreda,3/10/21,7:00 PM,6,Marseille,5,Stade Rennais,1,0,France,20
+23,sreda,2/3/21,7:00 PM,7,FC Metz,11,Montpellier,1,1,France,20
+23,sreda,2/3/21,7:00 PM,12,Stade Reims,9,SCO Angers,0,0,France,20
+23,sreda,2/3/21,7:00 PM,6,Stade Rennais,18,FC Lorient,1,1,France,20
+23,sreda,2/3/21,7:00 PM,15,R. Strasbourg,14,Stade Brestois,2,2,France,20
+23,sreda,2/3/21,7:00 PM,10,G. Bordeaux,1,LOSC Lille,0,3,France,20
+23,sreda,2/3/21,9:00 PM,8,Lens,5,Marseille,2,2,France,20
+23,sreda,2/3/21,9:00 PM,3,Paris SG,19,Nîmes Olympique,3,0,France,20
+23,sreda,2/3/21,9:00 PM,16,Saint-Étienne,17,FC Nantes,1,1,France,20
+23,sreda,2/3/21,9:00 PM,20,Dijon,2,Olympique Lyon,0,1,France,20
+23,sreda,2/3/21,9:00 PM,4,Monaco,13,OGC Nice,2,1,France,20
+24,sobota,2/6/21,5:00 PM,18,FC Lorient,12,Stade Reims,1,0,France,20
+24,sobota,2/6/21,7:00 PM,2,Olympique Lyon,15,R. Strasbourg,3,0,France,20
+24,sobota,2/6/21,9:00 PM,8,Lens,6,Stade Rennais,0,0,France,20
+24,nedelja,2/7/21,1:00 PM,13,Stade Brestois,10,G. Bordeaux,2,1,France,20
+24,nedelja,2/7/21,3:00 PM,16,Saint-Étienne,7,FC Metz,1,0,France,20
+24,nedelja,2/7/21,3:00 PM,11,Montpellier,20,Dijon,4,2,France,20
+24,nedelja,2/7/21,3:00 PM,14,OGC Nice,9,SCO Angers,3,0,France,20
+24,nedelja,2/7/21,3:00 PM,19,Nîmes Olympique,4,Monaco,3,4,France,20
+24,nedelja,2/7/21,5:00 PM,17,FC Nantes,1,LOSC Lille,0,2,France,20
+24,nedelja,2/7/21,9:00 PM,5,Marseille,3,Paris SG,0,2,France,20
+25,sobota,2/13/21,5:00 PM,3,Paris SG,13,OGC Nice,2,1,France,20
+25,sobota,2/13/21,7:00 PM,14,Stade Reims,7,Lens,1,1,France,20
+25,sobota,2/13/21,9:00 PM,2,Olympique Lyon,11,Montpellier,1,2,France,20
+25,nedelja,2/14/21,1:00 PM,4,Monaco,17,FC Lorient,2,2,France,20
+25,nedelja,2/14/21,3:00 PM,9,SCO Angers,18,FC Nantes,1,3,France,20
+25,nedelja,2/14/21,3:00 PM,8,FC Metz,16,R. Strasbourg,1,2,France,20
+25,nedelja,2/14/21,3:00 PM,20,Dijon,19,Nîmes Olympique,0,2,France,20
+25,nedelja,2/14/21,3:00 PM,6,Stade Rennais,15,Saint-Étienne,0,2,France,20
+25,nedelja,2/14/21,5:00 PM,1,LOSC Lille,12,Stade Brestois,0,0,France,20
+25,nedelja,2/14/21,9:00 PM,10,G. Bordeaux,5,Marseille,0,0,France,20
+26,petek,2/19/21,9:00 PM,12,Stade Brestois,3,Olympique Lyon,2,3,France,20
+26,sobota,2/20/21,1:00 PM,15,Saint-Étienne,13,Stade Reims,1,1,France,20
+26,sobota,2/20/21,5:00 PM,18,FC Nantes,5,Marseille,1,1,France,20
+26,nedelja,2/21/21,1:00 PM,9,Montpellier,6,Stade Rennais,2,1,France,20
+26,nedelja,2/21/21,3:00 PM,19,Nîmes Olympique,11,G. Bordeaux,2,0,France,20
+26,nedelja,2/21/21,3:00 PM,16,R. Strasbourg,10,SCO Angers,0,0,France,20
+26,nedelja,2/21/21,3:00 PM,14,OGC Nice,8,FC Metz,1,2,France,20
+26,nedelja,2/21/21,3:00 PM,7,Lens,20,Dijon,2,1,France,20
+26,nedelja,2/21/21,5:05 PM,17,FC Lorient,1,LOSC Lille,1,4,France,20
+26,nedelja,2/21/21,9:00 PM,2,Paris SG,4,Monaco,0,2,France,20
+27,petek,2/26/21,9:00 PM,8,Stade Rennais,16,OGC Nice,1,2,France,20
+27,sobota,2/27/21,1:00 PM,11,G. Bordeaux,7,FC Metz,1,2,France,20
+27,sobota,2/27/21,5:00 PM,20,Dijon,3,Paris SG,0,4,France,20
+27,nedelja,2/28/21,1:00 PM,4,Monaco,12,Stade Brestois,2,0,France,20
+27,nedelja,2/28/21,3:00 PM,13,Stade Reims,9,Montpellier,0,0,France,20
+27,nedelja,2/28/21,3:00 PM,19,FC Lorient,14,Saint-Étienne,2,1,France,20
+27,nedelja,2/28/21,3:00 PM,17,Nîmes Olympique,18,FC Nantes,1,1,France,20
+27,nedelja,2/28/21,3:00 PM,10,SCO Angers,6,Lens,2,2,France,20
+27,nedelja,2/28/21,5:05 PM,1,LOSC Lille,15,R. Strasbourg,1,1,France,20
+27,nedelja,2/28/21,9:00 PM,5,Marseille,2,Olympique Lyon,1,1,France,20
+28,sreda,3/3/21,7:00 PM,3,Olympique Lyon,9,Stade Rennais,1,0,France,20
+28,sreda,3/3/21,7:00 PM,16,Saint-Étienne,7,Lens,2,3,France,20
+28,sreda,3/3/21,7:00 PM,14,Stade Brestois,20,Dijon,3,1,France,20
+28,sreda,3/3/21,7:00 PM,12,OGC Nice,18,Nîmes Olympique,2,1,France,20
+28,sreda,3/3/21,7:00 PM,6,FC Metz,10,SCO Angers,0,1,France,20
+28,sreda,3/3/21,9:00 PM,11,G. Bordeaux,2,Paris SG,0,1,France,20
+28,sreda,3/3/21,9:00 PM,8,Montpellier,17,FC Lorient,1,1,France,20
+28,sreda,3/3/21,9:00 PM,19,FC Nantes,13,Stade Reims,1,2,France,20
+28,sreda,3/3/21,9:00 PM,15,R. Strasbourg,4,Monaco,1,0,France,20
+28,sreda,3/3/21,9:00 PM,1,LOSC Lille,5,Marseille,2,0,France,20
+29,petek,3/12/21,9:00 PM,12,Stade Reims,3,Olympique Lyon,1,1,France,20
+29,sobota,3/13/21,1:00 PM,9,SCO Angers,16,Saint-Étienne,0,1,France,20
+29,sobota,3/13/21,5:00 PM,6,Marseille,13,Stade Brestois,3,1,France,20
+29,nedelja,3/14/21,1:00 PM,18,Nîmes Olympique,8,Montpellier,1,1,France,20
+29,nedelja,3/14/21,3:00 PM,17,FC Lorient,11,OGC Nice,1,1,France,20
+29,nedelja,3/14/21,3:00 PM,10,Stade Rennais,14,R. Strasbourg,1,0,France,20
+29,nedelja,3/14/21,3:00 PM,20,Dijon,15,G. Bordeaux,1,3,France,20
+29,nedelja,3/14/21,3:00 PM,5,Lens,7,FC Metz,2,2,France,20
+29,nedelja,3/14/21,5:05 PM,4,Monaco,1,LOSC Lille,0,0,France,20
+29,nedelja,3/14/21,9:00 PM,2,Paris SG,19,FC Nantes,1,2,France,20
+30,petek,3/19/21,9:00 PM,16,Saint-Étienne,4,Monaco,0,4,France,20
+30,sobota,3/20/21,1:00 PM,7,FC Metz,8,Stade Rennais,1,3,France,20
+30,sobota,3/20/21,5:00 PM,12,OGC Nice,5,Marseille,3,0,France,20
+30,nedelja,3/21/21,1:00 PM,15,R. Strasbourg,6,Lens,1,2,France,20
+30,nedelja,3/21/21,3:00 PM,18,FC Nantes,17,FC Lorient,1,1,France,20
+30,nedelja,3/21/21,3:00 PM,14,Stade Brestois,10,SCO Angers,0,0,France,20
+30,nedelja,3/21/21,3:00 PM,9,Montpellier,11,G. Bordeaux,3,1,France,20
+30,nedelja,3/21/21,3:00 PM,20,Dijon,13,Stade Reims,0,1,France,20
+30,nedelja,3/21/21,5:05 PM,1,LOSC Lille,19,Nîmes Olympique,1,2,France,20
+30,nedelja,3/21/21,9:00 PM,3,Olympique Lyon,2,Paris SG,2,4,France,20
+31,sobota,4/3/21,1:00 PM,4,Monaco,9,FC Metz,4,0,France,20
+31,sobota,4/3/21,5:00 PM,1,Paris SG,2,LOSC Lille,0,1,France,20
+31,sobota,4/3/21,9:00 PM,5,Lens,3,Olympique Lyon,1,1,France,20
+31,nedelja,4/4/21,1:00 PM,10,SCO Angers,8,Montpellier,1,1,France,20
+31,nedelja,4/4/21,3:00 PM,17,FC Lorient,14,Stade Brestois,1,0,France,20
+31,nedelja,4/4/21,3:00 PM,19,FC Nantes,11,OGC Nice,1,2,France,20
+31,nedelja,4/4/21,3:00 PM,12,Stade Reims,7,Stade Rennais,2,2,France,20
+31,nedelja,4/4/21,3:00 PM,13,G. Bordeaux,15,R. Strasbourg,2,3,France,20
+31,nedelja,4/4/21,5:05 PM,18,Nîmes Olympique,16,Saint-Étienne,0,2,France,20
+31,nedelja,4/4/21,9:00 PM,6,Marseille,20,Dijon,2,0,France,20
+32,petek,4/9/21,9:00 PM,9,FC Metz,1,LOSC Lille,0,2,France,20
+32,sobota,4/10/21,5:00 PM,13,R. Strasbourg,2,Paris SG,1,4,France,20
+32,sobota,4/10/21,9:00 PM,8,Montpellier,6,Marseille,3,3,France,20
+32,nedelja,4/11/21,1:00 PM,7,Stade Rennais,19,FC Nantes,1,0,France,20
+32,nedelja,4/11/21,3:00 PM,15,Saint-Étienne,14,G. Bordeaux,4,1,France,20
+32,nedelja,4/11/21,3:00 PM,5,Lens,17,FC Lorient,4,1,France,20
+32,nedelja,4/11/21,3:00 PM,16,Stade Brestois,18,Nîmes Olympique,1,1,France,20
+32,nedelja,4/11/21,3:00 PM,10,OGC Nice,12,Stade Reims,0,0,France,20
+32,nedelja,4/11/21,5:05 PM,3,Monaco,20,Dijon,3,0,France,20
+32,nedelja,4/11/21,9:00 PM,4,Olympique Lyon,11,SCO Angers,3,0,France,20
+33,petek,4/16/21,9:00 PM,1,LOSC Lille,8,Montpellier,1,1,France,20
+33,sobota,4/17/21,12:45 PM,11,SCO Angers,7,Stade Rennais,0,3,France,20
+33,sobota,4/17/21,5:00 PM,6,Marseille,17,FC Lorient,3,2,France,20
+33,nedelja,4/18/21,1:00 PM,2,Paris SG,13,Saint-Étienne,3,2,France,20
+33,nedelja,4/18/21,3:00 PM,18,Nîmes Olympique,14,R. Strasbourg,1,1,France,20
+33,nedelja,4/18/21,3:00 PM,12,Stade Reims,10,FC Metz,0,0,France,20
+33,nedelja,4/18/21,3:00 PM,20,Dijon,9,OGC Nice,2,0,France,20
+33,nedelja,4/18/21,3:00 PM,16,Stade Brestois,5,Lens,1,1,France,20
+33,nedelja,4/18/21,5:05 PM,15,G. Bordeaux,3,Monaco,0,3,France,20
+33,nedelja,4/18/21,9:00 PM,19,FC Nantes,4,Olympique Lyon,1,2,France,20
+34,petek,4/23/21,9:00 PM,11,Stade Reims,6,Marseille,1,3,France,20
+34,sobota,4/24/21,1:00 PM,13,Saint-Étienne,15,Stade Brestois,1,2,France,20
+34,sobota,4/24/21,5:00 PM,9,FC Metz,2,Paris SG,1,3,France,20
+34,nedelja,4/25/21,1:00 PM,10,OGC Nice,8,Montpellier,3,1,France,20
+34,nedelja,4/25/21,3:00 PM,17,FC Lorient,16,G. Bordeaux,4,1,France,20
+34,nedelja,4/25/21,3:00 PM,5,Lens,18,Nîmes Olympique,2,1,France,20
+34,nedelja,4/25/21,3:00 PM,7,Stade Rennais,20,Dijon,5,1,France,20
+34,nedelja,4/25/21,3:00 PM,14,R. Strasbourg,19,FC Nantes,1,2,France,20
+34,nedelja,4/25/21,5:05 PM,12,SCO Angers,3,Monaco,0,1,France,20
+34,nedelja,4/25/21,9:00 PM,4,Olympique Lyon,1,LOSC Lille,2,3,France,20
+35,petek,4/30/21,9:00 PM,6,Marseille,15,R. Strasbourg,1,1,France,20
+35,sobota,5/1/21,5:00 PM,2,Paris SG,5,Lens,2,1,France,20
+35,sobota,5/1/21,9:00 PM,1,LOSC Lille,9,OGC Nice,2,0,France,20
+35,nedelja,5/2/21,1:00 PM,16,G. Bordeaux,7,Stade Rennais,1,0,France,20
+35,nedelja,5/2/21,3:00 PM,20,Dijon,10,FC Metz,1,5,France,20
+35,nedelja,5/2/21,3:00 PM,17,FC Lorient,12,SCO Angers,2,0,France,20
+35,nedelja,5/2/21,3:00 PM,13,Stade Brestois,18,FC Nantes,1,4,France,20
+35,nedelja,5/2/21,3:00 PM,19,Nîmes Olympique,11,Stade Reims,2,2,France,20
+35,nedelja,5/2/21,5:05 PM,8,Montpellier,14,Saint-Étienne,1,2,France,20
+35,nedelja,5/2/21,9:00 PM,3,Monaco,4,Olympique Lyon,2,3,France,20
+36,petek,5/7/21,9:00 PM,5,Lens,1,LOSC Lille,0,3,France,20
+36,sobota,5/8/21,1:00 PM,18,FC Nantes,15,G. Bordeaux,3,0,France,20
+36,sobota,5/8/21,5:00 PM,4,Olympique Lyon,17,FC Lorient,4,1,France,20
+36,nedelja,5/9/21,1:00 PM,12,Saint-Étienne,6,Marseille,1,0,France,20
+36,nedelja,5/9/21,3:00 PM,10,OGC Nice,14,Stade Brestois,3,2,France,20
+36,nedelja,5/9/21,3:00 PM,9,FC Metz,19,Nîmes Olympique,0,3,France,20
+36,nedelja,5/9/21,3:00 PM,13,SCO Angers,20,Dijon,3,0,France,20
+36,nedelja,5/9/21,3:00 PM,16,R. Strasbourg,8,Montpellier,2,3,France,20
+36,nedelja,5/9/21,5:05 PM,11,Stade Reims,3,Monaco,0,1,France,20
+36,nedelja,5/9/21,9:00 PM,7,Stade Rennais,2,Paris SG,1,1,France,20
+37,nedelja,5/16/21,9:00 PM,1,LOSC Lille,11,Saint-Étienne,0,0,France,20
+37,nedelja,5/16/21,9:00 PM,15,G. Bordeaux,6,Lens,3,0,France,20
+37,nedelja,5/16/21,9:00 PM,20,Dijon,18,FC Nantes,0,4,France,20
+37,nedelja,5/16/21,9:00 PM,5,Marseille,12,SCO Angers,3,2,France,20
+37,nedelja,5/16/21,9:00 PM,9,OGC Nice,16,R. Strasbourg,0,2,France,20
+37,nedelja,5/16/21,9:00 PM,3,Monaco,7,Stade Rennais,2,1,France,20
+37,nedelja,5/16/21,9:00 PM,8,Montpellier,14,Stade Brestois,0,0,France,20
+37,nedelja,5/16/21,9:00 PM,17,FC Lorient,10,FC Metz,2,1,France,20
+37,nedelja,5/16/21,9:00 PM,19,Nîmes Olympique,4,Olympique Lyon,2,5,France,20
+37,nedelja,5/16/21,9:00 PM,2,Paris SG,13,Stade Reims,4,0,France,20
+38,nedelja,5/23/21,9:00 PM,4,Olympique Lyon,9,OGC Nice,2,3,France,20
+38,nedelja,5/23/21,9:00 PM,16,Stade Brestois,2,Paris SG,0,2,France,20
+38,nedelja,5/23/21,9:00 PM,15,R. Strasbourg,17,FC Lorient,1,1,France,20
+38,nedelja,5/23/21,9:00 PM,10,FC Metz,5,Marseille,1,1,France,20
+38,nedelja,5/23/21,9:00 PM,7,Stade Rennais,19,Nîmes Olympique,2,0,France,20
+38,nedelja,5/23/21,9:00 PM,13,Stade Reims,14,G. Bordeaux,1,2,France,20
+38,nedelja,5/23/21,9:00 PM,12,SCO Angers,1,LOSC Lille,1,2,France,20
+38,nedelja,5/23/21,9:00 PM,11,Saint-Étienne,20,Dijon,0,1,France,20
+38,nedelja,5/23/21,9:00 PM,18,FC Nantes,8,Montpellier,1,2,France,20
+38,nedelja,5/23/21,9:00 PM,6,Lens,3,Monaco,0,0,France,20

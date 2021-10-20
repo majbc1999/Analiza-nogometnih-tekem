@@ -1,0 +1,307 @@
+kolo,dan,datum,ura,lestvica_domaci,domaca_ekipa,lestvica_gostje,gostujoca_ekipa,zadetki_domaci,zadetki_gostje,drzava,sezona
+1,petek,9/18/20,8:30 PM,1,FC Bayern ,18,FC Schalke 04,8,0,Germany,20
+1,sobota,9/19/20,3:30 PM,8,E. Frankfurt,9,Arm. Bielefeld,1,1,Germany,20
+1,sobota,9/19/20,3:30 PM,14,Union Berlin,5,FC Augsburg,1,3,Germany,20
+1,sobota,9/19/20,3:30 PM,12,1. FC Köln,6,TSG Hoffenheim,2,3,Germany,20
+1,sobota,9/19/20,3:30 PM,16,Werder Bremen,2,Hertha BSC,1,4,Germany,20
+1,sobota,9/19/20,3:30 PM,13,VfB Stuttgart,7,SC Freiburg,2,3,Germany,20
+1,sobota,9/19/20,6:30 PM,3,Bor. Dortmund,17,Bor. M'gladbach,3,0,Germany,20
+1,nedelja,9/20/20,3:30 PM,4,RB Leipzig,15,1.FSV Mainz 05,3,1,Germany,20
+1,nedelja,9/20/20,6:00 PM,11,VfL Wolfsburg,10,Bay. Leverkusen,0,0,Germany,20
+2,petek,9/25/20,8:30 PM,2,Hertha BSC,8,E. Frankfurt,1,3,Germany,20
+2,sobota,9/26/20,3:30 PM,17,Bor. M'gladbach,14,Union Berlin,1,1,Germany,20
+2,sobota,9/26/20,3:30 PM,10,Bay. Leverkusen,4,RB Leipzig,1,1,Germany,20
+2,sobota,9/26/20,3:30 PM,15,1.FSV Mainz 05,13,VfB Stuttgart,1,4,Germany,20
+2,sobota,9/26/20,3:30 PM,5,FC Augsburg,3,Bor. Dortmund,2,0,Germany,20
+2,sobota,9/26/20,3:30 PM,9,Arm. Bielefeld,12,1. FC Köln,1,0,Germany,20
+2,sobota,9/26/20,6:30 PM,18,FC Schalke 04,16,Werder Bremen,1,3,Germany,20
+2,nedelja,9/27/20,3:30 PM,6,TSG Hoffenheim,1,FC Bayern ,4,1,Germany,20
+2,nedelja,9/27/20,6:00 PM,7,SC Freiburg,11,VfL Wolfsburg,1,1,Germany,20
+3,petek,10/2/20,8:30 PM,14,Union Berlin,17,1.FSV Mainz 05,4,0,Germany,20
+3,sobota,10/3/20,3:30 PM,10,Bor. Dortmund,5,SC Freiburg,4,0,Germany,20
+3,sobota,10/3/20,3:30 PM,4,E. Frankfurt,1,TSG Hoffenheim,2,1,Germany,20
+3,sobota,10/3/20,3:30 PM,16,1. FC Köln,15,Bor. M'gladbach,1,3,Germany,20
+3,sobota,10/3/20,3:30 PM,11,Werder Bremen,6,Arm. Bielefeld,1,0,Germany,20
+3,sobota,10/3/20,3:30 PM,8,VfB Stuttgart,12,Bay. Leverkusen,1,1,Germany,20
+3,sobota,10/3/20,6:30 PM,3,RB Leipzig,18,FC Schalke 04,4,0,Germany,20
+3,nedelja,10/4/20,3:30 PM,13,VfL Wolfsburg,2,FC Augsburg,0,0,Germany,20
+3,nedelja,10/4/20,6:00 PM,7,FC Bayern ,9,Hertha BSC,4,3,Germany,20
+4,sobota,10/17/20,3:30 PM,6,TSG Hoffenheim,5,Bor. Dortmund,0,1,Germany,20
+4,sobota,10/17/20,3:30 PM,12,SC Freiburg,7,Werder Bremen,1,1,Germany,20
+4,sobota,10/17/20,3:30 PM,13,Hertha BSC,8,VfB Stuttgart,0,2,Germany,20
+4,sobota,10/17/20,3:30 PM,17,1.FSV Mainz 05,14,Bay. Leverkusen,0,1,Germany,20
+4,sobota,10/17/20,3:30 PM,2,FC Augsburg,1,RB Leipzig,0,2,Germany,20
+4,sobota,10/17/20,6:30 PM,10,Arm. Bielefeld,4,FC Bayern ,1,4,Germany,20
+4,sobota,10/17/20,8:30 PM,11,Bor. M'gladbach,15,VfL Wolfsburg,1,1,Germany,20
+4,nedelja,10/18/20,3:30 PM,16,1. FC Köln,3,E. Frankfurt,1,1,Germany,20
+4,nedelja,10/18/20,6:00 PM,18,FC Schalke 04,9,Union Berlin,1,1,Germany,20
+5,petek,10/23/20,8:30 PM,5,VfB Stuttgart,16,1. FC Köln,1,1,Germany,20
+5,sobota,10/24/20,3:30 PM,2,FC Bayern ,4,E. Frankfurt,5,0,Germany,20
+5,sobota,10/24/20,3:30 PM,1,RB Leipzig,15,Hertha BSC,2,1,Germany,20
+5,sobota,10/24/20,3:30 PM,10,Union Berlin,12,SC Freiburg,1,1,Germany,20
+5,sobota,10/24/20,3:30 PM,18,1.FSV Mainz 05,11,Bor. M'gladbach,2,3,Germany,20
+5,sobota,10/24/20,6:30 PM,3,Bor. Dortmund,17,FC Schalke 04,3,0,Germany,20
+5,nedelja,10/25/20,3:30 PM,13,VfL Wolfsburg,14,Arm. Bielefeld,2,1,Germany,20
+5,nedelja,10/25/20,6:00 PM,7,Werder Bremen,8,TSG Hoffenheim,1,1,Germany,20
+5,ponedeljek,10/26/20,8:30 PM,9,Bay. Leverkusen,6,FC Augsburg,3,1,Germany,20
+6,petek,10/30/20,8:30 PM,17,FC Schalke 04,5,VfB Stuttgart,1,1,Germany,20
+6,sobota,10/31/20,3:30 PM,8,E. Frankfurt,7,Werder Bremen,1,1,Germany,20
+6,sobota,10/31/20,3:30 PM,16,1. FC Köln,2,FC Bayern ,1,2,Germany,20
+6,sobota,10/31/20,3:30 PM,11,FC Augsburg,18,1.FSV Mainz 05,3,1,Germany,20
+6,sobota,10/31/20,3:30 PM,14,Arm. Bielefeld,3,Bor. Dortmund,0,2,Germany,20
+6,sobota,10/31/20,6:30 PM,6,Bor. M'gladbach,1,RB Leipzig,1,0,Germany,20
+6,nedelja,11/1/20,3:30 PM,13,SC Freiburg,4,Bay. Leverkusen,2,4,Germany,20
+6,nedelja,11/1/20,6:00 PM,15,Hertha BSC,10,VfL Wolfsburg,1,1,Germany,20
+6,ponedeljek,11/2/20,8:30 PM,9,TSG Hoffenheim,12,Union Berlin,1,3,Germany,20
+7,petek,11/6/20,8:30 PM,9,Werder Bremen,16,1. FC Köln,1,1,Germany,20
+7,sobota,11/7/20,3:30 PM,3,RB Leipzig,13,SC Freiburg,3,0,Germany,20
+7,sobota,11/7/20,3:30 PM,7,Union Berlin,15,Arm. Bielefeld,5,0,Germany,20
+7,sobota,11/7/20,3:30 PM,18,1.FSV Mainz 05,17,FC Schalke 04,2,2,Germany,20
+7,sobota,11/7/20,3:30 PM,6,FC Augsburg,14,Hertha BSC,0,3,Germany,20
+7,sobota,11/7/20,3:30 PM,8,VfB Stuttgart,10,E. Frankfurt,2,2,Germany,20
+7,sobota,11/7/20,6:30 PM,2,Bor. Dortmund,1,FC Bayern ,2,3,Germany,20
+7,nedelja,11/8/20,3:30 PM,11,VfL Wolfsburg,12,TSG Hoffenheim,2,1,Germany,20
+7,nedelja,11/8/20,6:00 PM,4,Bay. Leverkusen,5,Bor. M'gladbach,4,3,Germany,20
+8,sobota,11/21/20,3:30 PM,1,FC Bayern ,9,Werder Bremen,1,1,Germany,20
+8,sobota,11/21/20,3:30 PM,7,Bor. M'gladbach,10,FC Augsburg,1,1,Germany,20
+8,sobota,11/21/20,3:30 PM,13,TSG Hoffenheim,8,VfB Stuttgart,3,3,Germany,20
+8,sobota,11/21/20,3:30 PM,17,FC Schalke 04,6,VfL Wolfsburg,0,2,Germany,20
+8,sobota,11/21/20,3:30 PM,15,Arm. Bielefeld,4,Bay. Leverkusen,1,2,Germany,20
+8,sobota,11/21/20,6:30 PM,11,E. Frankfurt,2,RB Leipzig,1,1,Germany,20
+8,sobota,11/21/20,8:30 PM,12,Hertha BSC,3,Bor. Dortmund,2,5,Germany,20
+8,nedelja,11/22/20,3:30 PM,14,SC Freiburg,18,1.FSV Mainz 05,1,3,Germany,20
+8,nedelja,11/22/20,6:00 PM,16,1. FC Köln,5,Union Berlin,1,2,Germany,20
+9,petek,11/27/20,8:30 PM,6,VfL Wolfsburg,9,Werder Bremen,5,3,Germany,20
+9,sobota,11/28/20,3:30 PM,2,Bor. Dortmund,17,1. FC Köln,1,2,Germany,20
+9,sobota,11/28/20,3:30 PM,4,RB Leipzig,16,Arm. Bielefeld,2,1,Germany,20
+9,sobota,11/28/20,3:30 PM,5,Union Berlin,11,E. Frankfurt,3,3,Germany,20
+9,sobota,11/28/20,3:30 PM,10,FC Augsburg,14,SC Freiburg,1,1,Germany,20
+9,sobota,11/28/20,3:30 PM,8,VfB Stuttgart,1,FC Bayern ,1,3,Germany,20
+9,sobota,11/28/20,6:30 PM,7,Bor. M'gladbach,18,FC Schalke 04,4,1,Germany,20
+9,nedelja,11/29/20,3:30 PM,3,Bay. Leverkusen,13,Hertha BSC,0,0,Germany,20
+9,nedelja,11/29/20,6:00 PM,15,1.FSV Mainz 05,12,TSG Hoffenheim,1,1,Germany,20
+10,petek,12/4/20,8:30 PM,13,Hertha BSC,6,Union Berlin,3,1,Germany,20
+10,sobota,12/5/20,3:30 PM,14,SC Freiburg,7,Bor. M'gladbach,2,2,Germany,20
+10,sobota,12/5/20,3:30 PM,9,E. Frankfurt,4,Bor. Dortmund,1,1,Germany,20
+10,sobota,12/5/20,3:30 PM,15,1. FC Köln,5,VfL Wolfsburg,2,2,Germany,20
+10,sobota,12/5/20,3:30 PM,17,Arm. Bielefeld,16,1.FSV Mainz 05,2,1,Germany,20
+10,sobota,12/5/20,6:30 PM,1,FC Bayern ,2,RB Leipzig,3,3,Germany,20
+10,nedelja,12/6/20,3:30 PM,11,Werder Bremen,10,VfB Stuttgart,1,2,Germany,20
+10,nedelja,12/6/20,6:00 PM,18,FC Schalke 04,3,Bay. Leverkusen,0,3,Germany,20
+10,ponedeljek,12/7/20,8:30 PM,12,TSG Hoffenheim,8,FC Augsburg,3,1,Germany,20
+11,petek,12/11/20,8:30 PM,5,VfL Wolfsburg,9,E. Frankfurt,2,1,Germany,20
+11,sobota,12/12/20,3:30 PM,4,Bor. Dortmund,8,VfB Stuttgart,1,5,Germany,20
+11,sobota,12/12/20,3:30 PM,3,RB Leipzig,13,Werder Bremen,2,0,Germany,20
+11,sobota,12/12/20,3:30 PM,7,Bor. M'gladbach,12,Hertha BSC,1,1,Germany,20
+11,sobota,12/12/20,3:30 PM,14,SC Freiburg,16,Arm. Bielefeld,2,0,Germany,20
+11,sobota,12/12/20,3:30 PM,17,1.FSV Mainz 05,15,1. FC Köln,0,1,Germany,20
+11,sobota,12/12/20,6:30 PM,6,Union Berlin,1,FC Bayern ,1,1,Germany,20
+11,nedelja,12/13/20,3:30 PM,11,FC Augsburg,18,FC Schalke 04,2,2,Germany,20
+11,nedelja,12/13/20,6:00 PM,2,Bay. Leverkusen,10,TSG Hoffenheim,4,1,Germany,20
+12,torek,12/15/20,6:30 PM,9,E. Frankfurt,8,Bor. M'gladbach,3,3,Germany,20
+12,torek,12/15/20,8:30 PM,11,Hertha BSC,17,1.FSV Mainz 05,0,0,Germany,20
+12,torek,12/15/20,8:30 PM,13,Werder Bremen,5,Bor. Dortmund,1,2,Germany,20
+12,torek,12/15/20,8:30 PM,7,VfB Stuttgart,6,Union Berlin,2,2,Germany,20
+12,sreda,12/16/20,6:30 PM,18,FC Schalke 04,14,SC Freiburg,0,2,Germany,20
+12,sreda,12/16/20,8:30 PM,2,FC Bayern ,4,VfL Wolfsburg,2,1,Germany,20
+12,sreda,12/16/20,8:30 PM,12,TSG Hoffenheim,3,RB Leipzig,0,1,Germany,20
+12,sreda,12/16/20,8:30 PM,15,1. FC Köln,1,Bay. Leverkusen,0,4,Germany,20
+12,sreda,12/16/20,8:30 PM,16,Arm. Bielefeld,10,FC Augsburg,0,1,Germany,20
+13,petek,12/18/20,8:30 PM,6,Union Berlin,4,Bor. Dortmund,2,1,Germany,20
+13,sobota,12/19/20,3:30 PM,3,RB Leipzig,15,1. FC Köln,0,0,Germany,20
+13,sobota,12/19/20,3:30 PM,8,Bor. M'gladbach,13,TSG Hoffenheim,1,2,Germany,20
+13,sobota,12/19/20,3:30 PM,18,FC Schalke 04,16,Arm. Bielefeld,0,1,Germany,20
+13,sobota,12/19/20,3:30 PM,17,1.FSV Mainz 05,14,Werder Bremen,0,1,Germany,20
+13,sobota,12/19/20,3:30 PM,9,FC Augsburg,10,E. Frankfurt,0,2,Germany,20
+13,sobota,12/19/20,6:30 PM,1,Bay. Leverkusen,2,FC Bayern ,1,2,Germany,20
+13,nedelja,12/20/20,3:30 PM,11,SC Freiburg,12,Hertha BSC,4,1,Germany,20
+13,nedelja,12/20/20,6:00 PM,5,VfL Wolfsburg,7,VfB Stuttgart,1,0,Germany,20
+14,sobota,1/2/21,3:30 PM,12,TSG Hoffenheim,10,SC Freiburg,1,3,Germany,20
+14,sobota,1/2/21,3:30 PM,9,E. Frankfurt,2,Bay. Leverkusen,2,1,Germany,20
+14,sobota,1/2/21,3:30 PM,15,1. FC Köln,11,FC Augsburg,0,1,Germany,20
+14,sobota,1/2/21,3:30 PM,13,Werder Bremen,6,Union Berlin,0,2,Germany,20
+14,sobota,1/2/21,3:30 PM,16,Arm. Bielefeld,8,Bor. M'gladbach,0,1,Germany,20
+14,sobota,1/2/21,6:30 PM,14,Hertha BSC,18,FC Schalke 04,3,0,Germany,20
+14,sobota,1/2/21,8:30 PM,7,VfB Stuttgart,3,RB Leipzig,0,1,Germany,20
+14,nedelja,1/3/21,3:30 PM,5,Bor. Dortmund,4,VfL Wolfsburg,2,0,Germany,20
+14,nedelja,1/3/21,6:00 PM,1,FC Bayern ,17,1.FSV Mainz 05,5,2,Germany,20
+15,petek,1/8/21,8:30 PM,7,Bor. M'gladbach,1,FC Bayern ,3,2,Germany,20
+15,sobota,1/9/21,3:30 PM,3,Bay. Leverkusen,14,Werder Bremen,1,1,Germany,20
+15,sobota,1/9/21,3:30 PM,9,SC Freiburg,15,1. FC Köln,5,0,Germany,20
+15,sobota,1/9/21,3:30 PM,5,Union Berlin,6,VfL Wolfsburg,2,2,Germany,20
+15,sobota,1/9/21,3:30 PM,18,FC Schalke 04,13,TSG Hoffenheim,4,0,Germany,20
+15,sobota,1/9/21,3:30 PM,17,1.FSV Mainz 05,8,E. Frankfurt,0,2,Germany,20
+15,sobota,1/9/21,6:30 PM,2,RB Leipzig,4,Bor. Dortmund,1,3,Germany,20
+15,nedelja,1/10/21,3:30 PM,10,FC Augsburg,11,VfB Stuttgart,1,4,Germany,20
+15,nedelja,1/10/21,6:00 PM,16,Arm. Bielefeld,12,Hertha BSC,1,0,Germany,20
+16,petek,1/15/21,8:30 PM,5,Union Berlin,3,Bay. Leverkusen,1,0,Germany,20
+16,sobota,1/16/21,3:30 PM,4,Bor. Dortmund,18,1.FSV Mainz 05,1,1,Germany,20
+16,sobota,1/16/21,3:30 PM,14,TSG Hoffenheim,15,Arm. Bielefeld,0,0,Germany,20
+16,sobota,1/16/21,3:30 PM,6,VfL Wolfsburg,2,RB Leipzig,2,2,Germany,20
+16,sobota,1/16/21,3:30 PM,16,1. FC Köln,12,Hertha BSC,0,0,Germany,20
+16,sobota,1/16/21,3:30 PM,13,Werder Bremen,11,FC Augsburg,2,0,Germany,20
+16,sobota,1/16/21,6:30 PM,10,VfB Stuttgart,7,Bor. M'gladbach,2,2,Germany,20
+16,nedelja,1/17/21,3:30 PM,1,FC Bayern ,8,SC Freiburg,2,1,Germany,20
+16,nedelja,1/17/21,6:00 PM,9,E. Frankfurt,17,FC Schalke 04,3,1,Germany,20
+17,torek,1/19/21,6:30 PM,8,Bor. M'gladbach,12,Werder Bremen,1,0,Germany,20
+17,torek,1/19/21,8:30 PM,3,Bay. Leverkusen,4,Bor. Dortmund,2,1,Germany,20
+17,torek,1/19/21,8:30 PM,13,Hertha BSC,14,TSG Hoffenheim,0,3,Germany,20
+17,torek,1/19/21,8:30 PM,17,1.FSV Mainz 05,6,VfL Wolfsburg,0,2,Germany,20
+17,sreda,1/20/21,6:30 PM,18,FC Schalke 04,16,1. FC Köln,1,2,Germany,20
+17,sreda,1/20/21,8:30 PM,2,RB Leipzig,5,Union Berlin,1,0,Germany,20
+17,sreda,1/20/21,8:30 PM,9,SC Freiburg,7,E. Frankfurt,2,2,Germany,20
+17,sreda,1/20/21,8:30 PM,11,FC Augsburg,1,FC Bayern ,0,1,Germany,20
+17,sreda,1/20/21,8:30 PM,15,Arm. Bielefeld,10,VfB Stuttgart,3,0,Germany,20
+18,petek,1/22/21,8:30 PM,7,Bor. M'gladbach,4,Bor. Dortmund,4,2,Germany,20
+18,sobota,1/23/21,3:30 PM,3,Bay. Leverkusen,5,VfL Wolfsburg,0,1,Germany,20
+18,sobota,1/23/21,3:30 PM,9,SC Freiburg,10,VfB Stuttgart,2,1,Germany,20
+18,sobota,1/23/21,3:30 PM,17,1.FSV Mainz 05,2,RB Leipzig,3,2,Germany,20
+18,sobota,1/23/21,3:30 PM,12,FC Augsburg,6,Union Berlin,2,1,Germany,20
+18,sobota,1/23/21,3:30 PM,15,Arm. Bielefeld,8,E. Frankfurt,1,5,Germany,20
+18,sobota,1/23/21,6:30 PM,14,Hertha BSC,13,Werder Bremen,1,4,Germany,20
+18,nedelja,1/24/21,3:30 PM,18,FC Schalke 04,1,FC Bayern ,0,4,Germany,20
+18,nedelja,1/24/21,6:00 PM,11,TSG Hoffenheim,16,1. FC Köln,3,0,Germany,20
+19,petek,1/29/21,8:30 PM,10,VfB Stuttgart,17,1.FSV Mainz 05,2,0,Germany,20
+19,sobota,1/30/21,3:30 PM,1,FC Bayern ,11,TSG Hoffenheim,4,1,Germany,20
+19,sobota,1/30/21,3:30 PM,7,Bor. Dortmund,12,FC Augsburg,3,1,Germany,20
+19,sobota,1/30/21,3:30 PM,6,E. Frankfurt,14,Hertha BSC,3,1,Germany,20
+19,sobota,1/30/21,3:30 PM,8,Union Berlin,5,Bor. M'gladbach,1,1,Germany,20
+19,sobota,1/30/21,3:30 PM,13,Werder Bremen,18,FC Schalke 04,1,1,Germany,20
+19,sobota,1/30/21,6:30 PM,2,RB Leipzig,3,Bay. Leverkusen,1,0,Germany,20
+19,nedelja,1/31/21,3:30 PM,16,1. FC Köln,15,Arm. Bielefeld,3,1,Germany,20
+19,nedelja,1/31/21,6:00 PM,4,VfL Wolfsburg,9,SC Freiburg,3,0,Germany,20
+20,petek,2/5/21,8:00 PM,15,Hertha BSC,1,FC Bayern ,0,1,Germany,20
+20,sobota,2/6/21,3:30 PM,5,Bay. Leverkusen,10,VfB Stuttgart,5,2,Germany,20
+20,sobota,2/6/21,3:30 PM,9,SC Freiburg,6,Bor. Dortmund,2,1,Germany,20
+20,sobota,2/6/21,3:30 PM,18,FC Schalke 04,2,RB Leipzig,0,3,Germany,20
+20,sobota,2/6/21,3:30 PM,17,1.FSV Mainz 05,8,Union Berlin,1,0,Germany,20
+20,sobota,2/6/21,3:30 PM,13,FC Augsburg,3,VfL Wolfsburg,0,2,Germany,20
+20,sobota,2/6/21,6:30 PM,7,Bor. M'gladbach,14,1. FC Köln,1,2,Germany,20
+20,nedelja,2/7/21,3:30 PM,12,TSG Hoffenheim,4,E. Frankfurt,1,3,Germany,20
+20,sreda,3/10/21,6:30 PM,16,Arm. Bielefeld,11,Werder Bremen,0,2,Germany,20
+21,petek,2/12/21,8:30 PM,2,RB Leipzig,13,FC Augsburg,2,1,Germany,20
+21,sobota,2/13/21,3:30 PM,6,Bor. Dortmund,12,TSG Hoffenheim,2,2,Germany,20
+21,sobota,2/13/21,3:30 PM,5,Bay. Leverkusen,17,1.FSV Mainz 05,2,2,Germany,20
+21,sobota,2/13/21,3:30 PM,11,Werder Bremen,8,SC Freiburg,0,0,Germany,20
+21,sobota,2/13/21,3:30 PM,10,VfB Stuttgart,15,Hertha BSC,1,1,Germany,20
+21,sobota,2/13/21,6:30 PM,9,Union Berlin,18,FC Schalke 04,0,0,Germany,20
+21,nedelja,2/14/21,3:30 PM,4,E. Frankfurt,14,1. FC Köln,2,0,Germany,20
+21,nedelja,2/14/21,6:00 PM,3,VfL Wolfsburg,7,Bor. M'gladbach,0,0,Germany,20
+21,ponedeljek,2/15/21,8:30 PM,1,FC Bayern ,16,Arm. Bielefeld,3,3,Germany,20
+22,petek,2/19/21,8:30 PM,16,Arm. Bielefeld,4,VfL Wolfsburg,0,3,Germany,20
+22,sobota,2/20/21,3:30 PM,7,Bor. M'gladbach,17,1.FSV Mainz 05,1,2,Germany,20
+22,sobota,2/20/21,3:30 PM,8,SC Freiburg,9,Union Berlin,0,1,Germany,20
+22,sobota,2/20/21,3:30 PM,3,E. Frankfurt,1,FC Bayern ,2,1,Germany,20
+22,sobota,2/20/21,3:30 PM,14,1. FC Köln,10,VfB Stuttgart,0,1,Germany,20
+22,sobota,2/20/21,6:30 PM,18,FC Schalke 04,6,Bor. Dortmund,0,4,Germany,20
+22,nedelja,2/21/21,1:30 PM,13,FC Augsburg,5,Bay. Leverkusen,1,1,Germany,20
+22,nedelja,2/21/21,3:30 PM,15,Hertha BSC,2,RB Leipzig,0,3,Germany,20
+22,nedelja,2/21/21,6:00 PM,12,TSG Hoffenheim,11,Werder Bremen,4,0,Germany,20
+23,petek,2/26/21,8:30 PM,12,Werder Bremen,4,E. Frankfurt,2,1,Germany,20
+23,sobota,2/27/21,3:30 PM,1,FC Bayern ,14,1. FC Köln,5,1,Germany,20
+23,sobota,2/27/21,3:30 PM,6,Bor. Dortmund,16,Arm. Bielefeld,3,0,Germany,20
+23,sobota,2/27/21,3:30 PM,3,VfL Wolfsburg,15,Hertha BSC,2,0,Germany,20
+23,sobota,2/27/21,3:30 PM,10,VfB Stuttgart,18,FC Schalke 04,5,1,Germany,20
+23,sobota,2/27/21,6:30 PM,2,RB Leipzig,8,Bor. M'gladbach,3,2,Germany,20
+23,nedelja,2/28/21,1:30 PM,7,Union Berlin,11,TSG Hoffenheim,1,1,Germany,20
+23,nedelja,2/28/21,3:30 PM,17,1.FSV Mainz 05,13,FC Augsburg,0,1,Germany,20
+23,nedelja,2/28/21,6:00 PM,5,Bay. Leverkusen,9,SC Freiburg,1,2,Germany,20
+24,petek,3/5/21,8:30 PM,18,FC Schalke 04,17,1.FSV Mainz 05,0,0,Germany,20
+24,sobota,3/6/21,3:30 PM,9,Bor. M'gladbach,6,Bay. Leverkusen,0,1,Germany,20
+24,sobota,3/6/21,3:30 PM,12,TSG Hoffenheim,3,VfL Wolfsburg,2,1,Germany,20
+24,sobota,3/6/21,3:30 PM,8,SC Freiburg,2,RB Leipzig,0,3,Germany,20
+24,sobota,3/6/21,3:30 PM,4,E. Frankfurt,10,VfB Stuttgart,1,1,Germany,20
+24,sobota,3/6/21,3:30 PM,15,Hertha BSC,13,FC Augsburg,2,1,Germany,20
+24,sobota,3/6/21,6:30 PM,1,FC Bayern ,5,Bor. Dortmund,4,2,Germany,20
+24,nedelja,3/7/21,3:30 PM,14,1. FC Köln,11,Werder Bremen,1,1,Germany,20
+24,nedelja,3/7/21,6:00 PM,16,Arm. Bielefeld,7,Union Berlin,0,0,Germany,20
+25,petek,3/12/21,8:30 PM,13,FC Augsburg,10,Bor. M'gladbach,3,1,Germany,20
+25,sobota,3/13/21,3:30 PM,3,VfL Wolfsburg,18,FC Schalke 04,5,0,Germany,20
+25,sobota,3/13/21,3:30 PM,7,Union Berlin,14,1. FC Köln,2,1,Germany,20
+25,sobota,3/13/21,3:30 PM,12,Werder Bremen,1,FC Bayern ,1,3,Germany,20
+25,sobota,3/13/21,3:30 PM,17,1.FSV Mainz 05,8,SC Freiburg,1,0,Germany,20
+25,sobota,3/13/21,6:30 PM,6,Bor. Dortmund,15,Hertha BSC,2,0,Germany,20
+25,nedelja,3/14/21,1:30 PM,5,Bay. Leverkusen,16,Arm. Bielefeld,1,2,Germany,20
+25,nedelja,3/14/21,3:30 PM,2,RB Leipzig,4,E. Frankfurt,1,1,Germany,20
+25,nedelja,3/14/21,6:00 PM,9,VfB Stuttgart,11,TSG Hoffenheim,2,0,Germany,20
+26,petek,3/19/21,8:30 PM,15,Arm. Bielefeld,2,RB Leipzig,0,1,Germany,20
+26,sobota,3/20/21,3:30 PM,1,FC Bayern ,8,VfB Stuttgart,4,0,Germany,20
+26,sobota,3/20/21,3:30 PM,4,E. Frankfurt,7,Union Berlin,5,2,Germany,20
+26,sobota,3/20/21,3:30 PM,14,1. FC Köln,5,Bor. Dortmund,2,2,Germany,20
+26,sobota,3/20/21,3:30 PM,12,Werder Bremen,3,VfL Wolfsburg,1,2,Germany,20
+26,sobota,3/20/21,6:30 PM,18,FC Schalke 04,10,Bor. M'gladbach,0,3,Germany,20
+26,nedelja,3/21/21,1:30 PM,11,TSG Hoffenheim,17,1.FSV Mainz 05,1,2,Germany,20
+26,nedelja,3/21/21,3:30 PM,16,Hertha BSC,6,Bay. Leverkusen,3,0,Germany,20
+26,nedelja,3/21/21,6:00 PM,9,SC Freiburg,13,FC Augsburg,2,0,Germany,20
+27,sobota,4/3/21,3:30 PM,5,Bor. Dortmund,4,E. Frankfurt,1,2,Germany,20
+27,sobota,4/3/21,3:30 PM,6,Bay. Leverkusen,18,FC Schalke 04,2,1,Germany,20
+27,sobota,4/3/21,3:30 PM,3,VfL Wolfsburg,16,1. FC Köln,1,0,Germany,20
+27,sobota,4/3/21,3:30 PM,15,1.FSV Mainz 05,17,Arm. Bielefeld,1,1,Germany,20
+27,sobota,4/3/21,3:30 PM,13,FC Augsburg,11,TSG Hoffenheim,2,1,Germany,20
+27,sobota,4/3/21,6:30 PM,2,RB Leipzig,1,FC Bayern ,0,1,Germany,20
+27,sobota,4/3/21,8:30 PM,10,Bor. M'gladbach,8,SC Freiburg,2,1,Germany,20
+27,nedelja,4/4/21,3:30 PM,9,VfB Stuttgart,12,Werder Bremen,1,0,Germany,20
+27,nedelja,4/4/21,6:00 PM,7,Union Berlin,14,Hertha BSC,1,1,Germany,20
+28,petek,4/9/21,8:30 PM,17,Arm. Bielefeld,10,SC Freiburg,1,0,Germany,20
+28,sobota,4/10/21,3:30 PM,1,FC Bayern ,7,Union Berlin,1,1,Germany,20
+28,sobota,4/10/21,3:30 PM,4,E. Frankfurt,3,VfL Wolfsburg,4,3,Germany,20
+28,sobota,4/10/21,3:30 PM,14,Hertha BSC,9,Bor. M'gladbach,2,2,Germany,20
+28,sobota,4/10/21,3:30 PM,13,Werder Bremen,2,RB Leipzig,1,4,Germany,20
+28,sobota,4/10/21,6:30 PM,8,VfB Stuttgart,5,Bor. Dortmund,2,3,Germany,20
+28,nedelja,4/11/21,3:30 PM,18,FC Schalke 04,11,FC Augsburg,1,0,Germany,20
+28,nedelja,4/11/21,6:00 PM,16,1. FC Köln,15,1.FSV Mainz 05,2,3,Germany,20
+28,ponedeljek,4/12/21,8:30 PM,12,TSG Hoffenheim,6,Bay. Leverkusen,0,0,Germany,20
+29,petek,4/16/21,8:30 PM,2,RB Leipzig,12,TSG Hoffenheim,0,0,Germany,20
+29,sobota,4/17/21,3:30 PM,8,Bor. M'gladbach,4,E. Frankfurt,4,0,Germany,20
+29,sobota,4/17/21,3:30 PM,3,VfL Wolfsburg,1,FC Bayern ,2,3,Germany,20
+29,sobota,4/17/21,3:30 PM,10,SC Freiburg,18,FC Schalke 04,4,0,Germany,20
+29,sobota,4/17/21,3:30 PM,7,Union Berlin,9,VfB Stuttgart,2,1,Germany,20
+29,sobota,4/17/21,3:30 PM,11,FC Augsburg,16,Arm. Bielefeld,0,0,Germany,20
+29,sobota,4/17/21,6:30 PM,6,Bay. Leverkusen,17,1. FC Köln,3,0,Germany,20
+29,nedelja,4/18/21,3:30 PM,5,Bor. Dortmund,13,Werder Bremen,4,1,Germany,20
+29,ponedeljek,5/3/21,6:00 PM,14,1.FSV Mainz 05,15,Hertha BSC,1,1,Germany,20
+30,torek,4/20/21,6:30 PM,17,1. FC Köln,2,RB Leipzig,2,1,Germany,20
+30,torek,4/20/21,8:30 PM,1,FC Bayern ,6,Bay. Leverkusen,2,0,Germany,20
+30,torek,4/20/21,8:30 PM,4,E. Frankfurt,11,FC Augsburg,2,0,Germany,20
+30,torek,4/20/21,8:30 PM,16,Arm. Bielefeld,18,FC Schalke 04,1,0,Germany,20
+30,sreda,4/21/21,8:30 PM,5,Bor. Dortmund,8,Union Berlin,2,0,Germany,20
+30,sreda,4/21/21,8:30 PM,12,TSG Hoffenheim,7,Bor. M'gladbach,3,2,Germany,20
+30,sreda,4/21/21,8:30 PM,13,Werder Bremen,14,1.FSV Mainz 05,0,1,Germany,20
+30,sreda,4/21/21,8:30 PM,10,VfB Stuttgart,3,VfL Wolfsburg,1,3,Germany,20
+30,četrtek,5/6/21,6:30 PM,15,Hertha BSC,9,SC Freiburg,3,0,Germany,20
+31,petek,4/23/21,8:30 PM,12,FC Augsburg,17,1. FC Köln,2,3,Germany,20
+31,sobota,4/24/21,3:30 PM,3,VfL Wolfsburg,5,Bor. Dortmund,0,2,Germany,20
+31,sobota,4/24/21,3:30 PM,9,SC Freiburg,11,TSG Hoffenheim,1,1,Germany,20
+31,sobota,4/24/21,3:30 PM,8,Union Berlin,15,Werder Bremen,3,1,Germany,20
+31,sobota,4/24/21,3:30 PM,13,1.FSV Mainz 05,1,FC Bayern ,2,1,Germany,20
+31,sobota,4/24/21,6:30 PM,6,Bay. Leverkusen,4,E. Frankfurt,3,1,Germany,20
+31,nedelja,4/25/21,3:30 PM,2,RB Leipzig,10,VfB Stuttgart,2,0,Germany,20
+31,nedelja,4/25/21,6:00 PM,7,Bor. M'gladbach,16,Arm. Bielefeld,5,0,Germany,20
+31,sreda,5/12/21,6:00 PM,18,FC Schalke 04,14,Hertha BSC,1,2,Germany,20
+32,petek,5/7/21,8:30 PM,10,VfB Stuttgart,14,FC Augsburg,2,1,Germany,20
+32,sobota,5/8/21,3:30 PM,5,Bor. Dortmund,2,RB Leipzig,3,2,Germany,20
+32,sobota,5/8/21,3:30 PM,11,TSG Hoffenheim,18,FC Schalke 04,4,2,Germany,20
+32,sobota,5/8/21,3:30 PM,3,VfL Wolfsburg,8,Union Berlin,3,0,Germany,20
+32,sobota,5/8/21,3:30 PM,15,Werder Bremen,6,Bay. Leverkusen,0,0,Germany,20
+32,sobota,5/8/21,6:30 PM,1,FC Bayern ,7,Bor. M'gladbach,6,0,Germany,20
+32,nedelja,5/9/21,1:30 PM,17,1. FC Köln,9,SC Freiburg,1,4,Germany,20
+32,nedelja,5/9/21,3:30 PM,4,E. Frankfurt,12,1.FSV Mainz 05,1,1,Germany,20
+32,nedelja,5/9/21,6:00 PM,13,Hertha BSC,16,Arm. Bielefeld,0,0,Germany,20
+33,sobota,5/15/21,3:30 PM,7,Bor. M'gladbach,10,VfB Stuttgart,1,2,Germany,20
+33,sobota,5/15/21,3:30 PM,6,Bay. Leverkusen,8,Union Berlin,1,1,Germany,20
+33,sobota,5/15/21,3:30 PM,9,SC Freiburg,1,FC Bayern ,2,2,Germany,20
+33,sobota,5/15/21,3:30 PM,13,Hertha BSC,17,1. FC Köln,0,0,Germany,20
+33,sobota,5/15/21,3:30 PM,18,FC Schalke 04,5,E. Frankfurt,4,3,Germany,20
+33,sobota,5/15/21,3:30 PM,14,FC Augsburg,15,Werder Bremen,2,0,Germany,20
+33,sobota,5/15/21,3:30 PM,16,Arm. Bielefeld,11,TSG Hoffenheim,1,1,Germany,20
+33,nedelja,5/16/21,6:00 PM,12,1.FSV Mainz 05,4,Bor. Dortmund,1,3,Germany,20
+33,nedelja,5/16/21,8:30 PM,2,RB Leipzig,3,VfL Wolfsburg,2,2,Germany,20
+34,sobota,5/22/21,3:30 PM,1,FC Bayern ,12,FC Augsburg,5,2,Germany,20
+34,sobota,5/22/21,3:30 PM,3,Bor. Dortmund,6,Bay. Leverkusen,3,1,Germany,20
+34,sobota,5/22/21,3:30 PM,11,TSG Hoffenheim,14,Hertha BSC,2,1,Germany,20
+34,sobota,5/22/21,3:30 PM,4,VfL Wolfsburg,13,1.FSV Mainz 05,2,3,Germany,20
+34,sobota,5/22/21,3:30 PM,5,E. Frankfurt,10,SC Freiburg,3,1,Germany,20
+34,sobota,5/22/21,3:30 PM,7,Union Berlin,2,RB Leipzig,2,1,Germany,20
+34,sobota,5/22/21,3:30 PM,17,1. FC Köln,18,FC Schalke 04,1,0,Germany,20
+34,sobota,5/22/21,3:30 PM,16,Werder Bremen,8,Bor. M'gladbach,2,4,Germany,20
+34,sobota,5/22/21,3:30 PM,9,VfB Stuttgart,15,Arm. Bielefeld,0,2,Germany,20

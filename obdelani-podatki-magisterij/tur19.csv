@@ -1,0 +1,307 @@
+kolo,dan,datum,ura,lestvica_domaci,domaca_ekipa,lestvica_gostje,gostujoca_ekipa,zadetki_domaci,zadetki_gostje,drzava,sezona
+1,petek,8/16/19,7:30 PM,4,Denizlispor,15,Galatasaray,2,0,Turkey,19
+1,sobota,8/17/19,6:15 PM,14,Genclerbirligi,7,C. Rizespor,0,1,Turkey,19
+1,sobota,8/17/19,8:45 PM,12,Kayserispor,6,Alanyaspor,0,1,Turkey,19
+1,sobota,8/17/19,8:45 PM,3,Sivasspor,17,Besiktas,3,0,Turkey,19
+1,nedelja,8/18/19,6:15 PM,10,Konyaspor,11,Ankaragücü,0,0,Turkey,19
+1,nedelja,8/18/19,8:45 PM,13,Göztepe,5,Antalyaspor,0,1,Turkey,19
+1,nedelja,8/18/19,8:45 PM,9,Kasimpasa,8,Trabzonspor,1,1,Turkey,19
+1,nedelja,8/18/19,8:45 PM,2,Y. Malatyaspor,16,Basaksehir,3,0,Turkey,19
+1,ponedeljek,8/19/19,7:00 PM,1,Fenerbahce,18,Gaziantep FK,5,0,Turkey,19
+2,petek,8/23/19,7:30 PM,17,Besiktas,13,Göztepe,3,0,Turkey,19
+2,sobota,8/24/19,6:15 PM,11,Ankaragücü,12,Kayserispor,1,1,Turkey,19
+2,sobota,8/24/19,8:45 PM,6,Alanyaspor,9,Kasimpasa,4,1,Turkey,19
+2,sobota,8/24/19,8:45 PM,16,Basaksehir,1,Fenerbahce,1,2,Turkey,19
+2,nedelja,8/25/19,6:15 PM,7,C. Rizespor,3,Sivasspor,2,1,Turkey,19
+2,nedelja,8/25/19,6:15 PM,8,Trabzonspor,2,Y. Malatyaspor,2,1,Turkey,19
+2,nedelja,8/25/19,8:45 PM,15,Galatasaray,10,Konyaspor,1,1,Turkey,19
+2,nedelja,8/25/19,8:45 PM,5,Antalyaspor,4,Denizlispor,0,2,Turkey,19
+2,ponedeljek,8/26/19,7:00 PM,18,Gaziantep FK,14,Genclerbirligi,4,1,Turkey,19
+3,petek,8/30/19,7:30 PM,13,Kasimpasa,12,Ankaragücü,0,1,Turkey,19
+3,petek,8/30/19,7:30 PM,14,Kayserispor,15,Galatasaray,2,3,Turkey,19
+3,sobota,8/31/19,6:15 PM,11,Konyaspor,10,Antalyaspor,2,2,Turkey,19
+3,sobota,8/31/19,8:45 PM,18,Göztepe,3,Denizlispor,0,0,Turkey,19
+3,sobota,8/31/19,8:45 PM,6,Besiktas,4,C. Rizespor,1,1,Turkey,19
+3,nedelja,9/1/19,6:15 PM,17,Genclerbirligi,16,Basaksehir,1,2,Turkey,19
+3,nedelja,9/1/19,6:15 PM,8,Sivasspor,9,Gaziantep FK,1,1,Turkey,19
+3,nedelja,9/1/19,8:45 PM,1,Fenerbahce,5,Trabzonspor,1,1,Turkey,19
+3,nedelja,9/1/19,8:45 PM,7,Y. Malatyaspor,2,Alanyaspor,2,3,Turkey,19
+4,petek,9/13/19,7:30 PM,10,Galatasaray,16,Kasimpasa,1,0,Turkey,19
+4,sobota,9/14/19,4:00 PM,14,Basaksehir,7,Sivasspor,1,1,Turkey,19
+4,sobota,9/14/19,7:00 PM,9,Gaziantep FK,8,Besiktas,3,2,Turkey,19
+4,sobota,9/14/19,7:00 PM,11,Antalyaspor,15,Kayserispor,2,2,Turkey,19
+4,nedelja,9/15/19,4:00 PM,6,Ankaragücü,12,Y. Malatyaspor,0,4,Turkey,19
+4,nedelja,9/15/19,4:00 PM,4,C. Rizespor,17,Göztepe,0,0,Turkey,19
+4,nedelja,9/15/19,7:00 PM,3,Denizlispor,13,Konyaspor,0,1,Turkey,19
+4,nedelja,9/15/19,7:00 PM,5,Trabzonspor,18,Genclerbirligi,2,2,Turkey,19
+4,ponedeljek,9/16/19,7:00 PM,1,Alanyaspor,2,Fenerbahce,3,1,Turkey,19
+5,petek,9/20/19,7:30 PM,16,Göztepe,9,Konyaspor,1,0,Turkey,19
+5,sobota,9/21/19,2:00 PM,18,Kasimpasa,11,Antalyaspor,3,0,Turkey,19
+5,sobota,9/21/19,4:30 PM,15,Kayserispor,6,Denizlispor,1,1,Turkey,19
+5,sobota,9/21/19,7:00 PM,4,Fenerbahce,12,Ankaragücü,2,1,Turkey,19
+5,nedelja,9/22/19,1:00 PM,2,C. Rizespor,5,Gaziantep FK,1,2,Turkey,19
+5,nedelja,9/22/19,3:30 PM,17,Genclerbirligi,1,Alanyaspor,1,1,Turkey,19
+5,nedelja,9/22/19,6:00 PM,8,Y. Malatyaspor,3,Galatasaray,1,1,Turkey,19
+5,ponedeljek,9/23/19,7:00 PM,10,Sivasspor,7,Trabzonspor,2,1,Turkey,19
+5,ponedeljek,9/23/19,7:00 PM,13,Besiktas,14,Basaksehir,1,1,Turkey,19
+6,petek,9/27/19,7:30 PM,13,Basaksehir,7,C. Rizespor,5,0,Turkey,19
+6,sobota,9/28/19,2:00 PM,6,Denizlispor,16,Kasimpasa,0,1,Turkey,19
+6,sobota,9/28/19,4:30 PM,1,Alanyaspor,4,Sivasspor,1,1,Turkey,19
+6,sobota,9/28/19,7:00 PM,5,Galatasaray,2,Fenerbahce,0,0,Turkey,19
+6,nedelja,9/29/19,1:00 PM,10,Konyaspor,17,Kayserispor,2,1,Turkey,19
+6,nedelja,9/29/19,3:30 PM,11,Antalyaspor,8,Y. Malatyaspor,3,0,Turkey,19
+6,nedelja,9/29/19,3:30 PM,14,Ankaragücü,18,Genclerbirligi,2,1,Turkey,19
+6,nedelja,9/29/19,6:00 PM,9,Trabzonspor,12,Besiktas,4,1,Turkey,19
+6,ponedeljek,9/30/19,7:00 PM,3,Gaziantep FK,15,Göztepe,1,1,Turkey,19
+7,petek,10/4/19,7:30 PM,13,Y. Malatyaspor,10,Denizlispor,5,1,Turkey,19
+7,petek,10/4/19,7:30 PM,2,Fenerbahce,8,Antalyaspor,0,1,Turkey,19
+7,sobota,10/5/19,2:00 PM,14,Kasimpasa,5,Konyaspor,1,4,Turkey,19
+7,sobota,10/5/19,4:30 PM,15,Göztepe,17,Kayserispor,4,0,Turkey,19
+7,sobota,10/5/19,7:00 PM,18,Genclerbirligi,6,Galatasaray,0,0,Turkey,19
+7,nedelja,10/6/19,1:00 PM,4,Sivasspor,11,Ankaragücü,3,1,Turkey,19
+7,nedelja,10/6/19,3:30 PM,16,Besiktas,1,Alanyaspor,2,0,Turkey,19
+7,nedelja,10/6/19,6:00 PM,3,Gaziantep FK,9,Basaksehir,1,2,Turkey,19
+7,nedelja,10/6/19,6:00 PM,12,C. Rizespor,7,Trabzonspor,1,2,Turkey,19
+8,petek,10/18/19,7:30 PM,10,Galatasaray,2,Sivasspor,3,2,Turkey,19
+8,sobota,10/19/19,2:00 PM,8,Antalyaspor,18,Genclerbirligi,0,6,Turkey,19
+8,sobota,10/19/19,4:30 PM,3,Trabzonspor,7,Gaziantep FK,4,1,Turkey,19
+8,sobota,10/19/19,4:30 PM,6,Basaksehir,11,Göztepe,2,1,Turkey,19
+8,sobota,10/19/19,7:00 PM,15,Ankaragücü,12,Besiktas,0,0,Turkey,19
+8,nedelja,10/20/19,1:00 PM,17,Kayserispor,16,Kasimpasa,1,1,Turkey,19
+8,nedelja,10/20/19,3:30 PM,1,Alanyaspor,14,C. Rizespor,5,2,Turkey,19
+8,nedelja,10/20/19,6:00 PM,13,Denizlispor,5,Fenerbahce,1,2,Turkey,19
+8,ponedeljek,10/21/19,7:00 PM,4,Konyaspor,9,Y. Malatyaspor,0,2,Turkey,19
+9,petek,10/25/19,7:30 PM,16,C. Rizespor,12,Ankaragücü,2,0,Turkey,19
+9,sobota,10/26/19,2:00 PM,7,Sivasspor,10,Antalyaspor,2,1,Turkey,19
+9,sobota,10/26/19,4:30 PM,9,Gaziantep FK,1,Alanyaspor,1,1,Turkey,19
+9,sobota,10/26/19,7:00 PM,3,Fenerbahce,8,Konyaspor,5,1,Turkey,19
+9,nedelja,10/27/19,12:00 PM,5,Y. Malatyaspor,18,Kayserispor,4,0,Turkey,19
+9,nedelja,10/27/19,2:30 PM,17,Genclerbirligi,15,Denizlispor,0,2,Turkey,19
+9,nedelja,10/27/19,2:30 PM,13,Göztepe,14,Kasimpasa,1,4,Turkey,19
+9,nedelja,10/27/19,5:00 PM,11,Besiktas,6,Galatasaray,1,0,Turkey,19
+9,ponedeljek,10/28/19,6:00 PM,4,Basaksehir,2,Trabzonspor,2,2,Turkey,19
+10,petek,11/1/19,6:30 PM,7,Galatasaray,13,C. Rizespor,2,0,Turkey,19
+10,sobota,11/2/19,1:00 PM,10,Konyaspor,17,Genclerbirligi,1,1,Turkey,19
+10,sobota,11/2/19,3:30 PM,1,Alanyaspor,6,Basaksehir,0,0,Turkey,19
+10,sobota,11/2/19,3:30 PM,3,Trabzonspor,15,Göztepe,0,1,Turkey,19
+10,sobota,11/2/19,6:00 PM,14,Antalyaspor,9,Besiktas,1,2,Turkey,19
+10,nedelja,11/3/19,12:00 PM,12,Denizlispor,5,Sivasspor,0,2,Turkey,19
+10,nedelja,11/3/19,2:30 PM,11,Kasimpasa,4,Y. Malatyaspor,2,2,Turkey,19
+10,nedelja,11/3/19,5:00 PM,18,Kayserispor,2,Fenerbahce,1,0,Turkey,19
+10,ponedeljek,11/4/19,6:00 PM,16,Ankaragücü,8,Gaziantep FK,1,2,Turkey,19
+11,petek,11/8/19,6:30 PM,4,Fenerbahce,11,Kasimpasa,3,2,Turkey,19
+11,sobota,11/9/19,1:00 PM,17,Genclerbirligi,18,Kayserispor,2,1,Turkey,19
+11,sobota,11/9/19,3:30 PM,2,Sivasspor,10,Konyaspor,2,0,Turkey,19
+11,sobota,11/9/19,3:30 PM,15,C. Rizespor,14,Antalyaspor,1,0,Turkey,19
+11,sobota,11/9/19,6:00 PM,8,Gaziantep FK,7,Galatasaray,0,2,Turkey,19
+11,nedelja,11/10/19,12:00 PM,12,Göztepe,3,Y. Malatyaspor,1,1,Turkey,19
+11,nedelja,11/10/19,2:30 PM,5,Trabzonspor,1,Alanyaspor,1,0,Turkey,19
+11,nedelja,11/10/19,5:00 PM,6,Basaksehir,16,Ankaragücü,2,1,Turkey,19
+11,nedelja,11/10/19,5:00 PM,9,Besiktas,13,Denizlispor,1,0,Turkey,19
+12,petek,11/22/19,6:30 PM,6,Galatasaray,5,Basaksehir,0,1,Turkey,19
+12,sobota,11/23/19,1:00 PM,14,Denizlispor,10,C. Rizespor,2,0,Turkey,19
+12,sobota,11/23/19,3:30 PM,17,Ankaragücü,3,Trabzonspor,0,3,Turkey,19
+12,sobota,11/23/19,6:00 PM,12,Konyaspor,8,Besiktas,0,1,Turkey,19
+12,nedelja,11/24/19,12:00 PM,18,Kayserispor,1,Sivasspor,1,4,Turkey,19
+12,nedelja,11/24/19,2:30 PM,13,Kasimpasa,16,Genclerbirligi,1,2,Turkey,19
+12,nedelja,11/24/19,2:30 PM,4,Alanyaspor,11,Göztepe,0,1,Turkey,19
+12,nedelja,11/24/19,5:00 PM,7,Y. Malatyaspor,2,Fenerbahce,0,0,Turkey,19
+12,ponedeljek,11/25/19,6:00 PM,15,Antalyaspor,9,Gaziantep FK,1,1,Turkey,19
+13,petek,11/29/19,6:30 PM,13,Genclerbirligi,7,Y. Malatyaspor,3,3,Turkey,19
+13,sobota,11/30/19,1:00 PM,1,Sivasspor,15,Kasimpasa,2,0,Turkey,19
+13,sobota,11/30/19,1:00 PM,12,C. Rizespor,14,Konyaspor,3,1,Turkey,19
+13,sobota,11/30/19,3:30 PM,6,Alanyaspor,17,Ankaragücü,5,0,Turkey,19
+13,sobota,11/30/19,6:00 PM,10,Göztepe,4,Fenerbahce,2,2,Turkey,19
+13,nedelja,12/1/19,12:00 PM,9,Gaziantep FK,11,Denizlispor,1,2,Turkey,19
+13,nedelja,12/1/19,2:30 PM,3,Basaksehir,16,Antalyaspor,2,0,Turkey,19
+13,nedelja,12/1/19,5:00 PM,2,Trabzonspor,8,Galatasaray,1,1,Turkey,19
+13,ponedeljek,12/2/19,6:00 PM,5,Besiktas,18,Kayserispor,4,1,Turkey,19
+14,petek,12/6/19,6:30 PM,6,Fenerbahce,13,Genclerbirligi,5,2,Turkey,19
+14,sobota,12/7/19,1:00 PM,7,Y. Malatyaspor,1,Sivasspor,1,3,Turkey,19
+14,sobota,12/7/19,3:30 PM,17,Ankaragücü,10,Göztepe,1,3,Turkey,19
+14,sobota,12/7/19,6:00 PM,8,Galatasaray,5,Alanyaspor,1,0,Turkey,19
+14,nedelja,12/8/19,12:00 PM,14,Konyaspor,12,Gaziantep FK,0,0,Turkey,19
+14,nedelja,12/8/19,2:30 PM,16,Antalyaspor,4,Trabzonspor,1,3,Turkey,19
+14,nedelja,12/8/19,2:30 PM,11,Denizlispor,2,Basaksehir,1,1,Turkey,19
+14,nedelja,12/8/19,5:00 PM,15,Kasimpasa,3,Besiktas,2,3,Turkey,19
+14,ponedeljek,12/9/19,6:00 PM,18,Kayserispor,9,C. Rizespor,1,0,Turkey,19
+15,petek,12/13/19,6:30 PM,7,Alanyaspor,16,Antalyaspor,0,0,Turkey,19
+15,sobota,12/14/19,1:00 PM,12,C. Rizespor,15,Kasimpasa,0,3,Turkey,19
+15,sobota,12/14/19,3:30 PM,13,Genclerbirligi,9,Göztepe,3,1,Turkey,19
+15,sobota,12/14/19,6:00 PM,6,Galatasaray,18,Ankaragücü,2,2,Turkey,19
+15,nedelja,12/15/19,12:00 PM,11,Gaziantep FK,17,Kayserispor,3,0,Turkey,19
+15,nedelja,12/15/19,2:30 PM,1,Sivasspor,5,Fenerbahce,3,1,Turkey,19
+15,nedelja,12/15/19,5:00 PM,2,Besiktas,8,Y. Malatyaspor,0,2,Turkey,19
+15,ponedeljek,12/16/19,6:00 PM,3,Trabzonspor,10,Denizlispor,1,2,Turkey,19
+15,ponedeljek,12/16/19,6:00 PM,4,Basaksehir,14,Konyaspor,1,1,Turkey,19
+16,petek,12/20/19,6:30 PM,16,Antalyaspor,18,Ankaragücü,2,2,Turkey,19
+16,sobota,12/21/19,1:00 PM,8,Y. Malatyaspor,12,C. Rizespor,0,2,Turkey,19
+16,sobota,12/21/19,3:30 PM,15,Kasimpasa,10,Gaziantep FK,3,4,Turkey,19
+16,sobota,12/21/19,6:00 PM,11,Göztepe,6,Galatasaray,2,1,Turkey,19
+16,nedelja,12/22/19,12:00 PM,13,Genclerbirligi,1,Sivasspor,2,2,Turkey,19
+16,nedelja,12/22/19,2:30 PM,17,Kayserispor,2,Basaksehir,1,4,Turkey,19
+16,nedelja,12/22/19,5:00 PM,5,Fenerbahce,3,Besiktas,3,1,Turkey,19
+16,ponedeljek,12/23/19,6:00 PM,14,Konyaspor,4,Trabzonspor,0,1,Turkey,19
+16,ponedeljek,12/23/19,6:00 PM,9,Denizlispor,7,Alanyaspor,1,5,Turkey,19
+17,petek,12/27/19,6:30 PM,5,Besiktas,13,Genclerbirligi,4,1,Turkey,19
+17,sobota,12/28/19,1:00 PM,17,Ankaragücü,11,Denizlispor,2,2,Turkey,19
+17,sobota,12/28/19,3:30 PM,2,Basaksehir,15,Kasimpasa,5,1,Turkey,19
+17,sobota,12/28/19,3:30 PM,3,Trabzonspor,18,Kayserispor,6,2,Turkey,19
+17,sobota,12/28/19,6:00 PM,7,Galatasaray,16,Antalyaspor,5,0,Turkey,19
+17,nedelja,12/29/19,12:00 PM,1,Sivasspor,10,Göztepe,1,0,Turkey,19
+17,nedelja,12/29/19,2:30 PM,6,Alanyaspor,14,Konyaspor,2,1,Turkey,19
+17,nedelja,12/29/19,2:30 PM,9,Gaziantep FK,8,Y. Malatyaspor,1,1,Turkey,19
+17,nedelja,12/29/19,5:00 PM,12,C. Rizespor,4,Fenerbahce,1,2,Turkey,19
+18,petek,1/17/20,6:00 PM,17,Ankaragücü,14,Konyaspor,0,1,Turkey,19
+18,sobota,1/18/20,12:00 PM,6,Alanyaspor,18,Kayserispor,5,1,Turkey,19
+18,sobota,1/18/20,3:00 PM,2,Basaksehir,8,Y. Malatyaspor,4,1,Turkey,19
+18,sobota,1/18/20,6:00 PM,9,Gaziantep FK,4,Fenerbahce,0,2,Turkey,19
+18,nedelja,1/19/20,11:30 AM,16,Antalyaspor,10,Göztepe,0,3,Turkey,19
+18,nedelja,1/19/20,2:00 PM,3,Trabzonspor,15,Kasimpasa,6,0,Turkey,19
+18,nedelja,1/19/20,2:00 PM,7,Galatasaray,11,Denizlispor,2,1,Turkey,19
+18,nedelja,1/19/20,5:00 PM,5,Besiktas,1,Sivasspor,1,2,Turkey,19
+18,ponedeljek,1/20/20,6:00 PM,12,C. Rizespor,13,Genclerbirligi,2,0,Turkey,19
+19,petek,1/24/20,6:00 PM,13,Genclerbirligi,10,Gaziantep FK,1,0,Turkey,19
+19,sobota,1/25/20,12:00 PM,18,Kayserispor,17,Ankaragücü,1,1,Turkey,19
+19,sobota,1/25/20,3:00 PM,15,Kasimpasa,5,Alanyaspor,1,2,Turkey,19
+19,sobota,1/25/20,6:00 PM,4,Fenerbahce,2,Basaksehir,2,0,Turkey,19
+19,nedelja,1/26/20,11:30 AM,12,Denizlispor,16,Antalyaspor,0,3,Turkey,19
+19,nedelja,1/26/20,2:00 PM,8,Göztepe,6,Besiktas,2,1,Turkey,19
+19,nedelja,1/26/20,5:00 PM,14,Konyaspor,7,Galatasaray,0,3,Turkey,19
+19,ponedeljek,1/27/20,6:00 PM,1,Sivasspor,11,C. Rizespor,1,1,Turkey,19
+19,sreda,3/11/20,6:00 PM,9,Y. Malatyaspor,3,Trabzonspor,1,3,Turkey,19
+20,petek,1/31/20,6:00 PM,4,Basaksehir,13,Genclerbirligi,3,1,Turkey,19
+20,sobota,2/1/20,12:00 PM,15,Antalyaspor,14,Konyaspor,0,0,Turkey,19
+20,sobota,2/1/20,3:00 PM,11,C. Rizespor,7,Besiktas,1,2,Turkey,19
+20,sobota,2/1/20,6:00 PM,2,Trabzonspor,3,Fenerbahce,2,1,Turkey,19
+20,nedelja,2/2/20,11:30 AM,17,Ankaragücü,16,Kasimpasa,1,1,Turkey,19
+20,nedelja,2/2/20,2:00 PM,9,Gaziantep FK,1,Sivasspor,5,1,Turkey,19
+20,nedelja,2/2/20,2:00 PM,5,Alanyaspor,10,Y. Malatyaspor,2,1,Turkey,19
+20,nedelja,2/2/20,5:00 PM,6,Galatasaray,18,Kayserispor,4,1,Turkey,19
+20,ponedeljek,2/3/20,6:00 PM,12,Denizlispor,8,Göztepe,1,1,Turkey,19
+21,petek,2/7/20,6:00 PM,11,Y. Malatyaspor,17,Ankaragücü,0,1,Turkey,19
+21,sobota,2/8/20,12:00 PM,14,Konyaspor,12,Denizlispor,0,0,Turkey,19
+21,sobota,2/8/20,3:00 PM,13,Genclerbirligi,2,Trabzonspor,0,2,Turkey,19
+21,sobota,2/8/20,3:00 PM,7,Besiktas,9,Gaziantep FK,3,0,Turkey,19
+21,sobota,2/8/20,6:00 PM,5,Fenerbahce,4,Alanyaspor,1,1,Turkey,19
+21,nedelja,2/9/20,11:30 AM,18,Kayserispor,15,Antalyaspor,2,2,Turkey,19
+21,nedelja,2/9/20,2:00 PM,1,Sivasspor,3,Basaksehir,1,1,Turkey,19
+21,nedelja,2/9/20,5:00 PM,16,Kasimpasa,6,Galatasaray,0,3,Turkey,19
+21,torek,3/17/20,6:00 PM,8,Göztepe,10,C. Rizespor,2,0,Turkey,19
+22,petek,2/14/20,6:00 PM,3,Basaksehir,7,Besiktas,1,0,Turkey,19
+22,sobota,2/15/20,12:00 PM,12,Denizlispor,18,Kayserispor,0,1,Turkey,19
+22,sobota,2/15/20,3:00 PM,14,Konyaspor,8,Göztepe,1,3,Turkey,19
+22,sobota,2/15/20,6:00 PM,16,Ankaragücü,6,Fenerbahce,2,1,Turkey,19
+22,nedelja,2/16/20,11:30 AM,5,Alanyaspor,13,Genclerbirligi,0,1,Turkey,19
+22,nedelja,2/16/20,2:00 PM,1,Trabzonspor,2,Sivasspor,2,1,Turkey,19
+22,nedelja,2/16/20,5:00 PM,4,Galatasaray,10,Y. Malatyaspor,1,0,Turkey,19
+22,ponedeljek,2/17/20,6:00 PM,9,Gaziantep FK,11,C. Rizespor,2,0,Turkey,19
+22,ponedeljek,2/17/20,6:00 PM,15,Antalyaspor,17,Kasimpasa,3,1,Turkey,19
+23,petek,2/21/20,6:00 PM,4,Sivasspor,5,Alanyaspor,1,0,Turkey,19
+23,sobota,2/22/20,12:00 PM,18,Kayserispor,15,Konyaspor,2,2,Turkey,19
+23,sobota,2/22/20,3:00 PM,8,Göztepe,9,Gaziantep FK,1,1,Turkey,19
+23,sobota,2/22/20,6:00 PM,7,Besiktas,1,Trabzonspor,2,2,Turkey,19
+23,nedelja,2/23/20,11:30 AM,11,Y. Malatyaspor,14,Antalyaspor,1,2,Turkey,19
+23,nedelja,2/23/20,2:00 PM,12,Genclerbirligi,16,Ankaragücü,1,0,Turkey,19
+23,nedelja,2/23/20,5:00 PM,6,Fenerbahce,3,Galatasaray,1,3,Turkey,19
+23,ponedeljek,2/24/20,6:00 PM,13,C. Rizespor,2,Basaksehir,1,2,Turkey,19
+23,ponedeljek,2/24/20,6:00 PM,17,Kasimpasa,10,Denizlispor,2,0,Turkey,19
+24,petek,2/28/20,6:00 PM,5,Alanyaspor,7,Besiktas,1,2,Turkey,19
+24,sobota,2/29/20,12:00 PM,15,Konyaspor,17,Kasimpasa,0,0,Turkey,19
+24,sobota,2/29/20,3:00 PM,1,Trabzonspor,13,C. Rizespor,5,2,Turkey,19
+24,sobota,2/29/20,6:00 PM,11,Antalyaspor,6,Fenerbahce,2,2,Turkey,19
+24,nedelja,3/1/20,11:30 AM,14,Denizlispor,12,Y. Malatyaspor,2,0,Turkey,19
+24,nedelja,3/1/20,2:00 PM,16,Ankaragücü,4,Sivasspor,0,3,Turkey,19
+24,nedelja,3/1/20,5:00 PM,3,Galatasaray,10,Genclerbirligi,3,0,Turkey,19
+24,ponedeljek,3/2/20,6:00 PM,2,Basaksehir,9,Gaziantep FK,3,1,Turkey,19
+24,ponedeljek,3/2/20,6:00 PM,18,Kayserispor,8,Göztepe,1,0,Turkey,19
+25,petek,3/6/20,6:00 PM,5,Besiktas,16,Ankaragücü,2,1,Turkey,19
+25,sobota,3/7/20,12:00 PM,14,Y. Malatyaspor,15,Konyaspor,1,1,Turkey,19
+25,sobota,3/7/20,3:00 PM,9,Gaziantep FK,1,Trabzonspor,1,1,Turkey,19
+25,sobota,3/7/20,3:00 PM,8,Göztepe,2,Basaksehir,0,3,Turkey,19
+25,sobota,3/7/20,6:00 PM,7,Fenerbahce,10,Denizlispor,2,2,Turkey,19
+25,nedelja,3/8/20,11:30 AM,17,Kasimpasa,18,Kayserispor,5,1,Turkey,19
+25,nedelja,3/8/20,2:00 PM,13,C. Rizespor,6,Alanyaspor,1,1,Turkey,19
+25,nedelja,3/8/20,5:00 PM,4,Sivasspor,3,Galatasaray,2,2,Turkey,19
+25,ponedeljek,3/9/20,6:00 PM,11,Genclerbirligi,12,Antalyaspor,1,1,Turkey,19
+26,petek,3/13/20,6:00 PM,17,Ankaragücü,13,C. Rizespor,2,1,Turkey,19
+26,petek,3/13/20,6:00 PM,16,Kasimpasa,8,Göztepe,2,0,Turkey,19
+26,sobota,3/14/20,12:00 PM,10,Denizlispor,11,Genclerbirligi,1,0,Turkey,19
+26,sobota,3/14/20,3:00 PM,6,Alanyaspor,9,Gaziantep FK,1,0,Turkey,19
+26,sobota,3/14/20,6:00 PM,15,Konyaspor,7,Fenerbahce,1,0,Turkey,19
+26,nedelja,3/15/20,11:30 AM,18,Kayserispor,14,Y. Malatyaspor,2,1,Turkey,19
+26,nedelja,3/15/20,2:00 PM,1,Trabzonspor,2,Basaksehir,1,1,Turkey,19
+26,nedelja,3/15/20,5:00 PM,3,Galatasaray,5,Besiktas,0,0,Turkey,19
+26,ponedeljek,3/16/20,6:00 PM,12,Antalyaspor,4,Sivasspor,1,0,Turkey,19
+27,petek,6/12/20,8:00 PM,8,Göztepe,1,Trabzonspor,1,3,Turkey,19
+27,petek,6/12/20,8:00 PM,7,Fenerbahce,18,Kayserispor,2,1,Turkey,19
+27,sobota,6/13/20,5:30 PM,2,Basaksehir,6,Alanyaspor,2,0,Turkey,19
+27,sobota,6/13/20,8:00 PM,5,Besiktas,11,Antalyaspor,1,2,Turkey,19
+27,sobota,6/13/20,8:00 PM,16,Y. Malatyaspor,14,Kasimpasa,1,2,Turkey,19
+27,nedelja,6/14/20,5:30 PM,12,Genclerbirligi,13,Konyaspor,2,1,Turkey,19
+27,nedelja,6/14/20,8:00 PM,15,C. Rizespor,3,Galatasaray,2,0,Turkey,19
+27,nedelja,6/14/20,8:00 PM,9,Gaziantep FK,17,Ankaragücü,1,1,Turkey,19
+27,ponedeljek,6/15/20,8:00 PM,4,Sivasspor,10,Denizlispor,1,0,Turkey,19
+28,petek,6/19/20,8:00 PM,17,Ankaragücü,2,Basaksehir,1,2,Turkey,19
+28,sobota,6/20/20,5:30 PM,18,Kayserispor,12,Genclerbirligi,2,0,Turkey,19
+28,sobota,6/20/20,8:00 PM,16,Y. Malatyaspor,8,Göztepe,2,1,Turkey,19
+28,sobota,6/20/20,8:00 PM,11,Denizlispor,5,Besiktas,1,5,Turkey,19
+28,nedelja,6/21/20,5:30 PM,13,Kasimpasa,7,Fenerbahce,2,0,Turkey,19
+28,nedelja,6/21/20,8:00 PM,4,Galatasaray,9,Gaziantep FK,3,3,Turkey,19
+28,nedelja,6/21/20,8:00 PM,15,Konyaspor,3,Sivasspor,2,2,Turkey,19
+28,ponedeljek,6/22/20,8:00 PM,6,Alanyaspor,1,Trabzonspor,2,2,Turkey,19
+28,ponedeljek,6/22/20,8:00 PM,10,Antalyaspor,14,C. Rizespor,3,1,Turkey,19
+29,petek,6/26/20,8:00 PM,5,Besiktas,16,Konyaspor,3,0,Turkey,19
+29,sobota,6/27/20,5:30 PM,7,Fenerbahce,15,Y. Malatyaspor,3,2,Turkey,19
+29,sobota,6/27/20,8:00 PM,2,Trabzonspor,18,Ankaragücü,1,1,Turkey,19
+29,sobota,6/27/20,8:00 PM,8,Göztepe,6,Alanyaspor,3,3,Turkey,19
+29,nedelja,6/28/20,5:30 PM,3,Sivasspor,17,Kayserispor,0,2,Turkey,19
+29,nedelja,6/28/20,5:30 PM,14,C. Rizespor,12,Denizlispor,2,2,Turkey,19
+29,nedelja,6/28/20,8:00 PM,1,Basaksehir,4,Galatasaray,1,1,Turkey,19
+29,nedelja,6/28/20,8:00 PM,10,Gaziantep FK,9,Antalyaspor,1,1,Turkey,19
+29,ponedeljek,6/29/20,8:00 PM,13,Genclerbirligi,11,Kasimpasa,0,2,Turkey,19
+30,petek,7/3/20,8:00 PM,12,Denizlispor,10,Gaziantep FK,0,1,Turkey,19
+30,sobota,7/4/20,5:30 PM,15,Y. Malatyaspor,13,Genclerbirligi,0,0,Turkey,19
+30,sobota,7/4/20,5:30 PM,18,Ankaragücü,7,Alanyaspor,1,4,Turkey,19
+30,sobota,7/4/20,8:00 PM,9,Antalyaspor,1,Basaksehir,0,2,Turkey,19
+30,sobota,7/4/20,8:00 PM,6,Fenerbahce,8,Göztepe,2,1,Turkey,19
+30,nedelja,7/5/20,5:30 PM,11,Kasimpasa,3,Sivasspor,0,0,Turkey,19
+30,nedelja,7/5/20,8:00 PM,17,Konyaspor,14,C. Rizespor,1,0,Turkey,19
+30,nedelja,7/5/20,8:00 PM,4,Galatasaray,2,Trabzonspor,1,3,Turkey,19
+30,ponedeljek,7/6/20,8:00 PM,16,Kayserispor,5,Besiktas,3,1,Turkey,19
+31,torek,7/7/20,5:30 PM,13,Genclerbirligi,6,Fenerbahce,1,1,Turkey,19
+31,torek,7/7/20,8:00 PM,1,Basaksehir,12,Denizlispor,2,0,Turkey,19
+31,sreda,7/8/20,5:30 PM,3,Sivasspor,17,Y. Malatyaspor,0,1,Turkey,19
+31,sreda,7/8/20,5:30 PM,2,Trabzonspor,10,Antalyaspor,2,2,Turkey,19
+31,sreda,7/8/20,8:00 PM,7,Alanyaspor,4,Galatasaray,4,1,Turkey,19
+31,sreda,7/8/20,8:00 PM,9,Göztepe,18,Ankaragücü,2,2,Turkey,19
+31,četrtek,7/9/20,5:30 PM,16,C. Rizespor,14,Kayserispor,3,2,Turkey,19
+31,četrtek,7/9/20,8:00 PM,5,Besiktas,11,Kasimpasa,3,2,Turkey,19
+31,četrtek,7/9/20,8:00 PM,8,Gaziantep FK,15,Konyaspor,3,1,Turkey,19
+32,sobota,7/11/20,8:00 PM,9,Göztepe,12,Genclerbirligi,1,3,Turkey,19
+32,nedelja,7/12/20,5:30 PM,18,Ankaragücü,5,Galatasaray,1,0,Turkey,19
+32,nedelja,7/12/20,8:00 PM,10,Antalyaspor,6,Alanyaspor,1,0,Turkey,19
+32,nedelja,7/12/20,8:00 PM,7,Fenerbahce,3,Sivasspor,1,2,Turkey,19
+32,ponedeljek,7/13/20,5:30 PM,16,Kayserispor,8,Gaziantep FK,1,1,Turkey,19
+32,ponedeljek,7/13/20,5:30 PM,11,Kasimpasa,15,C. Rizespor,2,0,Turkey,19
+32,ponedeljek,7/13/20,8:00 PM,17,Konyaspor,1,Basaksehir,4,3,Turkey,19
+32,ponedeljek,7/13/20,8:00 PM,13,Y. Malatyaspor,4,Besiktas,0,1,Turkey,19
+32,ponedeljek,7/13/20,8:00 PM,14,Denizlispor,2,Trabzonspor,2,1,Turkey,19
+33,sobota,7/18/20,8:00 PM,5,Galatasaray,11,Göztepe,3,1,Turkey,19
+33,sobota,7/18/20,8:00 PM,8,Gaziantep FK,10,Kasimpasa,2,2,Turkey,19
+33,nedelja,7/19/20,8:00 PM,15,C. Rizespor,17,Y. Malatyaspor,3,0,Turkey,19
+33,nedelja,7/19/20,8:00 PM,2,Trabzonspor,14,Konyaspor,3,4,Turkey,19
+33,nedelja,7/19/20,8:00 PM,18,Ankaragücü,9,Antalyaspor,0,1,Turkey,19
+33,nedelja,7/19/20,8:00 PM,3,Sivasspor,12,Genclerbirligi,2,0,Turkey,19
+33,nedelja,7/19/20,8:00 PM,4,Besiktas,7,Fenerbahce,2,0,Turkey,19
+33,nedelja,7/19/20,8:00 PM,1,Basaksehir,16,Kayserispor,1,0,Turkey,19
+33,nedelja,7/19/20,8:00 PM,6,Alanyaspor,13,Denizlispor,1,0,Turkey,19
+34,petek,7/24/20,8:00 PM,8,Antalyaspor,5,Galatasaray,2,2,Turkey,19
+34,sobota,7/25/20,8:00 PM,11,Göztepe,3,Sivasspor,3,1,Turkey,19
+34,sobota,7/25/20,8:00 PM,12,Genclerbirligi,4,Besiktas,0,3,Turkey,19
+34,sobota,7/25/20,8:00 PM,14,Denizlispor,18,Ankaragücü,0,1,Turkey,19
+34,sobota,7/25/20,8:00 PM,13,Konyaspor,6,Alanyaspor,2,3,Turkey,19
+34,sobota,7/25/20,8:00 PM,17,Kayserispor,2,Trabzonspor,1,2,Turkey,19
+34,sobota,7/25/20,8:00 PM,16,Y. Malatyaspor,9,Gaziantep FK,0,1,Turkey,19
+34,sobota,7/25/20,8:00 PM,7,Fenerbahce,15,C. Rizespor,3,1,Turkey,19
+34,nedelja,7/26/20,4:00 PM,10,Kasimpasa,1,Basaksehir,3,2,Turkey,19

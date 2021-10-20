@@ -1,0 +1,381 @@
+kolo,dan,datum,ura,lestvica_domaci,domaca_ekipa,lestvica_gostje,gostujoca_ekipa,zadetki_domaci,zadetki_gostje,drzava,sezona
+1,petek,8/9/19,9:00 PM,3,Liverpool,16,Norwich,4,1,United Kingdom,19
+1,sobota,8/10/19,1:30 PM,20,West Ham,1,Man City,0,5,United Kingdom,19
+1,sobota,8/10/19,4:00 PM,13,Crystal Palace,11,Everton,0,0,United Kingdom,19
+1,sobota,8/10/19,4:00 PM,17,Watford,5,Brighton,0,3,United Kingdom,19
+1,sobota,8/10/19,4:00 PM,4,Burnley,18,Southampton,3,0,United Kingdom,19
+1,sobota,8/10/19,4:00 PM,8,Bournemouth,9,Sheff Utd,1,1,United Kingdom,19
+1,sobota,8/10/19,6:30 PM,6,Spurs,15,Aston Villa,3,1,United Kingdom,19
+1,nedelja,8/11/19,3:00 PM,14,Newcastle,7,Arsenal,0,1,United Kingdom,19
+1,nedelja,8/11/19,3:00 PM,12,Leicester,10,Wolves,0,0,United Kingdom,19
+1,nedelja,8/11/19,5:30 PM,2,Man Utd,19,Chelsea,4,0,United Kingdom,19
+2,sobota,8/17/19,1:30 PM,7,Arsenal,4,Burnley,2,1,United Kingdom,19
+2,sobota,8/17/19,4:00 PM,16,Norwich,14,Newcastle,3,1,United Kingdom,19
+2,sobota,8/17/19,4:00 PM,18,Southampton,3,Liverpool,1,2,United Kingdom,19
+2,sobota,8/17/19,4:00 PM,5,Brighton,20,West Ham,1,1,United Kingdom,19
+2,sobota,8/17/19,4:00 PM,15,Aston Villa,8,Bournemouth,1,2,United Kingdom,19
+2,sobota,8/17/19,4:00 PM,11,Everton,17,Watford,1,0,United Kingdom,19
+2,sobota,8/17/19,6:30 PM,1,Man City,6,Spurs,2,2,United Kingdom,19
+2,nedelja,8/18/19,3:00 PM,9,Sheff Utd,13,Crystal Palace,1,0,United Kingdom,19
+2,nedelja,8/18/19,5:30 PM,19,Chelsea,12,Leicester,1,1,United Kingdom,19
+2,ponedeljek,8/19/19,9:00 PM,10,Wolves,2,Man Utd,1,1,United Kingdom,19
+3,petek,8/23/19,9:00 PM,17,Aston Villa,9,Everton,2,0,United Kingdom,19
+3,sobota,8/24/19,1:30 PM,11,Norwich,15,Chelsea,2,3,United Kingdom,19
+3,sobota,8/24/19,4:00 PM,20,Watford,16,West Ham,1,3,United Kingdom,19
+3,sobota,8/24/19,4:00 PM,8,Sheff Utd,13,Leicester,1,2,United Kingdom,19
+3,sobota,8/24/19,4:00 PM,5,Brighton,19,Southampton,0,2,United Kingdom,19
+3,sobota,8/24/19,4:00 PM,4,Man Utd,14,Crystal Palace,1,2,United Kingdom,19
+3,sobota,8/24/19,6:30 PM,1,Liverpool,2,Arsenal,3,1,United Kingdom,19
+3,nedelja,8/25/19,3:00 PM,7,Bournemouth,3,Man City,1,3,United Kingdom,19
+3,nedelja,8/25/19,5:30 PM,6,Spurs,18,Newcastle,0,1,United Kingdom,19
+3,nedelja,8/25/19,5:30 PM,12,Wolves,10,Burnley,1,1,United Kingdom,19
+4,sobota,8/31/19,1:30 PM,18,Southampton,5,Man Utd,1,1,United Kingdom,19
+4,sobota,8/31/19,4:00 PM,14,West Ham,17,Norwich,2,0,United Kingdom,19
+4,sobota,8/31/19,4:00 PM,19,Newcastle,20,Watford,1,1,United Kingdom,19
+4,sobota,8/31/19,4:00 PM,2,Man City,8,Brighton,4,0,United Kingdom,19
+4,sobota,8/31/19,4:00 PM,13,Chelsea,9,Sheff Utd,2,2,United Kingdom,19
+4,sobota,8/31/19,4:00 PM,10,Crystal Palace,16,Aston Villa,1,0,United Kingdom,19
+4,sobota,8/31/19,4:00 PM,4,Leicester,11,Bournemouth,3,1,United Kingdom,19
+4,sobota,8/31/19,6:30 PM,6,Burnley,1,Liverpool,0,3,United Kingdom,19
+4,nedelja,9/1/19,3:00 PM,12,Everton,15,Wolves,3,2,United Kingdom,19
+4,nedelja,9/1/19,5:30 PM,3,Arsenal,7,Spurs,2,2,United Kingdom,19
+5,sobota,9/14/19,1:30 PM,1,Liverpool,14,Newcastle,3,1,United Kingdom,19
+5,sobota,9/14/19,4:00 PM,9,Spurs,4,Crystal Palace,4,0,United Kingdom,19
+5,sobota,9/14/19,4:00 PM,10,Sheff Utd,13,Southampton,0,1,United Kingdom,19
+5,sobota,9/14/19,4:00 PM,17,Wolves,11,Chelsea,2,5,United Kingdom,19
+5,sobota,9/14/19,4:00 PM,16,Brighton,12,Burnley,1,1,United Kingdom,19
+5,sobota,9/14/19,4:00 PM,8,Man Utd,3,Leicester,1,0,United Kingdom,19
+5,sobota,9/14/19,6:30 PM,19,Norwich,2,Man City,3,2,United Kingdom,19
+5,nedelja,9/15/19,3:00 PM,15,Bournemouth,6,Everton,3,1,United Kingdom,19
+5,nedelja,9/15/19,5:30 PM,20,Watford,5,Arsenal,2,2,United Kingdom,19
+5,ponedeljek,9/16/19,9:00 PM,18,Aston Villa,7,West Ham,0,0,United Kingdom,19
+6,petek,9/20/19,9:00 PM,10,Southampton,9,Bournemouth,1,3,United Kingdom,19
+6,sobota,9/21/19,1:30 PM,5,Leicester,3,Spurs,2,1,United Kingdom,19
+6,sobota,9/21/19,4:00 PM,2,Man City,20,Watford,8,0,United Kingdom,19
+6,sobota,9/21/19,4:00 PM,14,Burnley,13,Norwich,2,0,United Kingdom,19
+6,sobota,9/21/19,4:00 PM,11,Everton,15,Sheff Utd,0,2,United Kingdom,19
+6,sobota,9/21/19,6:30 PM,18,Newcastle,16,Brighton,0,0,United Kingdom,19
+6,nedelja,9/22/19,3:00 PM,8,West Ham,4,Man Utd,2,0,United Kingdom,19
+6,nedelja,9/22/19,3:00 PM,12,Crystal Palace,19,Wolves,1,1,United Kingdom,19
+6,nedelja,9/22/19,5:30 PM,6,Chelsea,1,Liverpool,1,2,United Kingdom,19
+6,nedelja,9/22/19,5:30 PM,7,Arsenal,17,Aston Villa,3,2,United Kingdom,19
+7,sobota,9/28/19,1:30 PM,10,Sheff Utd,1,Liverpool,0,1,United Kingdom,19
+7,sobota,9/28/19,4:00 PM,19,Wolves,20,Watford,2,0,United Kingdom,19
+7,sobota,9/28/19,4:00 PM,7,Spurs,13,Southampton,2,1,United Kingdom,19
+7,sobota,9/28/19,4:00 PM,11,Chelsea,15,Brighton,2,0,United Kingdom,19
+7,sobota,9/28/19,4:00 PM,6,Bournemouth,5,West Ham,2,2,United Kingdom,19
+7,sobota,9/28/19,4:00 PM,12,Crystal Palace,16,Norwich,2,0,United Kingdom,19
+7,sobota,9/28/19,4:00 PM,18,Aston Villa,9,Burnley,2,2,United Kingdom,19
+7,sobota,9/28/19,6:30 PM,14,Everton,2,Man City,1,3,United Kingdom,19
+7,nedelja,9/29/19,5:30 PM,3,Leicester,17,Newcastle,5,0,United Kingdom,19
+7,ponedeljek,9/30/19,9:00 PM,8,Man Utd,4,Arsenal,1,1,United Kingdom,19
+8,sobota,10/5/19,1:30 PM,16,Brighton,6,Spurs,3,0,United Kingdom,19
+8,sobota,10/5/19,4:00 PM,20,Watford,12,Sheff Utd,0,0,United Kingdom,19
+8,sobota,10/5/19,4:00 PM,17,Norwich,18,Aston Villa,1,5,United Kingdom,19
+8,sobota,10/5/19,4:00 PM,1,Liverpool,3,Leicester,2,1,United Kingdom,19
+8,sobota,10/5/19,4:00 PM,11,Burnley,15,Everton,1,0,United Kingdom,19
+8,sobota,10/5/19,6:30 PM,5,West Ham,9,Crystal Palace,1,2,United Kingdom,19
+8,nedelja,10/6/19,3:00 PM,14,Southampton,7,Chelsea,1,4,United Kingdom,19
+8,nedelja,10/6/19,3:00 PM,4,Arsenal,8,Bournemouth,1,0,United Kingdom,19
+8,nedelja,10/6/19,3:00 PM,2,Man City,13,Wolves,0,2,United Kingdom,19
+8,nedelja,10/6/19,5:30 PM,19,Newcastle,10,Man Utd,1,0,United Kingdom,19
+9,sobota,10/19/19,1:30 PM,18,Everton,8,West Ham,2,0,United Kingdom,19
+9,sobota,10/19/19,4:00 PM,9,Spurs,20,Watford,1,1,United Kingdom,19
+9,sobota,10/19/19,4:00 PM,11,Wolves,17,Southampton,1,1,United Kingdom,19
+9,sobota,10/19/19,4:00 PM,4,Leicester,7,Burnley,2,1,United Kingdom,19
+9,sobota,10/19/19,4:00 PM,15,Aston Villa,14,Brighton,2,1,United Kingdom,19
+9,sobota,10/19/19,4:00 PM,5,Chelsea,16,Newcastle,1,0,United Kingdom,19
+9,sobota,10/19/19,4:00 PM,10,Bournemouth,19,Norwich,0,0,United Kingdom,19
+9,sobota,10/19/19,6:30 PM,6,Crystal Palace,2,Man City,0,2,United Kingdom,19
+9,nedelja,10/20/19,5:30 PM,12,Man Utd,1,Liverpool,1,1,United Kingdom,19
+9,ponedeljek,10/21/19,9:00 PM,13,Sheff Utd,3,Arsenal,1,0,United Kingdom,19
+10,petek,10/25/19,9:00 PM,17,Southampton,3,Leicester,0,9,United Kingdom,19
+10,sobota,10/26/19,1:30 PM,2,Man City,12,Aston Villa,3,0,United Kingdom,19
+10,sobota,10/26/19,4:00 PM,20,Watford,10,Bournemouth,0,0,United Kingdom,19
+10,sobota,10/26/19,4:00 PM,11,West Ham,9,Sheff Utd,1,1,United Kingdom,19
+10,sobota,10/26/19,4:00 PM,16,Brighton,15,Everton,3,2,United Kingdom,19
+10,sobota,10/26/19,6:30 PM,8,Burnley,4,Chelsea,2,4,United Kingdom,19
+10,nedelja,10/27/19,3:00 PM,18,Newcastle,13,Wolves,1,1,United Kingdom,19
+10,nedelja,10/27/19,5:30 PM,19,Norwich,14,Man Utd,1,3,United Kingdom,19
+10,nedelja,10/27/19,5:30 PM,5,Arsenal,6,Crystal Palace,2,2,United Kingdom,19
+10,nedelja,10/27/19,5:30 PM,1,Liverpool,7,Spurs,2,1,United Kingdom,19
+11,sobota,11/2/19,1:30 PM,9,Bournemouth,7,Man Utd,1,0,United Kingdom,19
+11,sobota,11/2/19,4:00 PM,2,Man City,18,Southampton,2,1,United Kingdom,19
+11,sobota,11/2/19,4:00 PM,8,Sheff Utd,13,Burnley,3,0,United Kingdom,19
+11,sobota,11/2/19,4:00 PM,10,West Ham,17,Newcastle,2,3,United Kingdom,19
+11,sobota,11/2/19,4:00 PM,14,Brighton,19,Norwich,2,0,United Kingdom,19
+11,sobota,11/2/19,4:00 PM,5,Arsenal,12,Wolves,1,1,United Kingdom,19
+11,sobota,11/2/19,4:00 PM,15,Aston Villa,1,Liverpool,1,2,United Kingdom,19
+11,sobota,11/2/19,6:30 PM,20,Watford,4,Chelsea,1,2,United Kingdom,19
+11,nedelja,11/3/19,3:00 PM,6,Crystal Palace,3,Leicester,0,2,United Kingdom,19
+11,nedelja,11/3/19,5:30 PM,16,Everton,11,Spurs,1,1,United Kingdom,19
+12,petek,11/8/19,9:00 PM,19,Norwich,20,Watford,0,2,United Kingdom,19
+12,sobota,11/9/19,1:30 PM,4,Chelsea,9,Crystal Palace,2,0,United Kingdom,19
+12,sobota,11/9/19,4:00 PM,11,Spurs,6,Sheff Utd,1,1,United Kingdom,19
+12,sobota,11/9/19,4:00 PM,18,Southampton,17,Everton,1,2,United Kingdom,19
+12,sobota,11/9/19,4:00 PM,15,Newcastle,7,Bournemouth,2,1,United Kingdom,19
+12,sobota,11/9/19,4:00 PM,14,Burnley,13,West Ham,3,0,United Kingdom,19
+12,sobota,11/9/19,6:30 PM,3,Leicester,5,Arsenal,2,0,United Kingdom,19
+12,nedelja,11/10/19,3:00 PM,12,Wolves,16,Aston Villa,2,1,United Kingdom,19
+12,nedelja,11/10/19,3:00 PM,10,Man Utd,8,Brighton,3,1,United Kingdom,19
+12,nedelja,11/10/19,5:30 PM,1,Liverpool,2,Man City,3,1,United Kingdom,19
+13,sobota,11/23/19,1:30 PM,16,West Ham,14,Spurs,2,3,United Kingdom,19
+13,sobota,11/23/19,4:00 PM,18,Watford,10,Burnley,0,3,United Kingdom,19
+13,sobota,11/23/19,4:00 PM,11,Brighton,2,Leicester,0,2,United Kingdom,19
+13,sobota,11/23/19,4:00 PM,12,Crystal Palace,1,Liverpool,1,2,United Kingdom,19
+13,sobota,11/23/19,4:00 PM,15,Everton,20,Norwich,0,2,United Kingdom,19
+13,sobota,11/23/19,4:00 PM,6,Arsenal,19,Southampton,2,2,United Kingdom,19
+13,sobota,11/23/19,4:00 PM,9,Bournemouth,8,Wolves,1,2,United Kingdom,19
+13,sobota,11/23/19,6:30 PM,4,Man City,3,Chelsea,2,1,United Kingdom,19
+13,nedelja,11/24/19,5:30 PM,5,Sheff Utd,7,Man Utd,3,3,United Kingdom,19
+13,ponedeljek,11/25/19,9:00 PM,17,Aston Villa,13,Newcastle,2,0,United Kingdom,19
+14,sobota,11/30/19,1:30 PM,14,Newcastle,3,Man City,2,2,United Kingdom,19
+14,sobota,11/30/19,4:00 PM,10,Spurs,11,Bournemouth,3,2,United Kingdom,19
+14,sobota,11/30/19,4:00 PM,1,Liverpool,12,Brighton,2,1,United Kingdom,19
+14,sobota,11/30/19,4:00 PM,7,Burnley,13,Crystal Palace,0,2,United Kingdom,19
+14,sobota,11/30/19,4:00 PM,4,Chelsea,17,West Ham,0,1,United Kingdom,19
+14,sobota,11/30/19,6:30 PM,19,Southampton,20,Watford,2,1,United Kingdom,19
+14,nedelja,12/1/19,3:00 PM,5,Wolves,6,Sheff Utd,1,1,United Kingdom,19
+14,nedelja,12/1/19,3:00 PM,18,Norwich,8,Arsenal,2,2,United Kingdom,19
+14,nedelja,12/1/19,5:30 PM,9,Man Utd,15,Aston Villa,2,2,United Kingdom,19
+14,nedelja,12/1/19,5:30 PM,2,Leicester,16,Everton,2,1,United Kingdom,19
+15,torek,12/3/19,8:30 PM,11,Crystal Palace,12,Bournemouth,1,0,United Kingdom,19
+15,torek,12/3/19,9:15 PM,10,Burnley,3,Man City,1,4,United Kingdom,19
+15,sreda,12/4/19,8:30 PM,18,Southampton,19,Norwich,2,1,United Kingdom,19
+15,sreda,12/4/19,8:30 PM,4,Chelsea,15,Aston Villa,2,1,United Kingdom,19
+15,sreda,12/4/19,8:30 PM,2,Leicester,20,Watford,2,0,United Kingdom,19
+15,sreda,12/4/19,8:30 PM,9,Man Utd,5,Spurs,2,1,United Kingdom,19
+15,sreda,12/4/19,8:30 PM,6,Wolves,13,West Ham,2,0,United Kingdom,19
+15,sreda,12/4/19,9:15 PM,1,Liverpool,17,Everton,5,2,United Kingdom,19
+15,četrtek,12/5/19,8:30 PM,7,Sheff Utd,14,Newcastle,0,2,United Kingdom,19
+15,četrtek,12/5/19,9:15 PM,8,Arsenal,16,Brighton,1,2,United Kingdom,19
+16,sobota,12/7/19,1:30 PM,18,Everton,4,Chelsea,3,1,United Kingdom,19
+16,sobota,12/7/19,4:00 PM,20,Watford,7,Crystal Palace,0,0,United Kingdom,19
+16,sobota,12/7/19,4:00 PM,8,Spurs,12,Burnley,5,0,United Kingdom,19
+16,sobota,12/7/19,4:00 PM,14,Bournemouth,1,Liverpool,0,3,United Kingdom,19
+16,sobota,12/7/19,6:30 PM,3,Man City,6,Man Utd,1,2,United Kingdom,19
+16,nedelja,12/8/19,3:00 PM,19,Norwich,9,Sheff Utd,1,2,United Kingdom,19
+16,nedelja,12/8/19,3:00 PM,11,Newcastle,17,Southampton,2,1,United Kingdom,19
+16,nedelja,12/8/19,3:00 PM,16,Aston Villa,2,Leicester,1,4,United Kingdom,19
+16,nedelja,12/8/19,5:30 PM,13,Brighton,5,Wolves,2,2,United Kingdom,19
+16,ponedeljek,12/9/19,9:00 PM,15,West Ham,10,Arsenal,1,3,United Kingdom,19
+17,sobota,12/14/19,1:30 PM,1,Liverpool,20,Watford,2,0,United Kingdom,19
+17,sobota,12/14/19,4:00 PM,8,Sheff Utd,17,Aston Villa,2,0,United Kingdom,19
+17,sobota,12/14/19,4:00 PM,2,Leicester,19,Norwich,1,1,United Kingdom,19
+17,sobota,12/14/19,4:00 PM,13,Burnley,11,Newcastle,1,0,United Kingdom,19
+17,sobota,12/14/19,4:00 PM,4,Chelsea,15,Bournemouth,0,1,United Kingdom,19
+17,sobota,12/14/19,6:30 PM,18,Southampton,16,West Ham,0,1,United Kingdom,19
+17,nedelja,12/15/19,3:00 PM,6,Wolves,7,Spurs,1,2,United Kingdom,19
+17,nedelja,12/15/19,3:00 PM,5,Man Utd,14,Everton,1,1,United Kingdom,19
+17,nedelja,12/15/19,5:30 PM,9,Arsenal,3,Man City,0,3,United Kingdom,19
+17,ponedeljek,12/16/19,9:00 PM,10,Crystal Palace,12,Brighton,1,1,United Kingdom,19
+18,sobota,12/21/19,1:30 PM,16,Everton,10,Arsenal,0,0,United Kingdom,19
+18,sobota,12/21/19,4:00 PM,19,Norwich,8,Wolves,1,2,United Kingdom,19
+18,sobota,12/21/19,4:00 PM,11,Newcastle,9,Crystal Palace,1,0,United Kingdom,19
+18,sobota,12/21/19,4:00 PM,13,Brighton,7,Sheff Utd,0,1,United Kingdom,19
+18,sobota,12/21/19,4:00 PM,14,Bournemouth,12,Burnley,0,1,United Kingdom,19
+18,sobota,12/21/19,4:00 PM,17,Aston Villa,18,Southampton,1,3,United Kingdom,19
+18,sobota,12/21/19,6:30 PM,3,Man City,2,Leicester,3,1,United Kingdom,19
+18,nedelja,12/22/19,3:30 PM,20,Watford,6,Man Utd,2,0,United Kingdom,19
+18,nedelja,12/22/19,5:30 PM,5,Spurs,4,Chelsea,0,2,United Kingdom,19
+18,sreda,1/29/20,8:45 PM,15,West Ham,1,Liverpool,0,2,United Kingdom,19
+19,četrtek,12/26/19,1:30 PM,7,Spurs,13,Brighton,2,1,United Kingdom,19
+19,četrtek,12/26/19,4:00 PM,5,Sheff Utd,20,Watford,1,1,United Kingdom,19
+19,četrtek,12/26/19,4:00 PM,14,Bournemouth,11,Arsenal,1,1,United Kingdom,19
+19,četrtek,12/26/19,4:00 PM,4,Chelsea,17,Southampton,0,2,United Kingdom,19
+19,četrtek,12/26/19,4:00 PM,18,Aston Villa,19,Norwich,1,0,United Kingdom,19
+19,četrtek,12/26/19,4:00 PM,12,Crystal Palace,16,West Ham,2,1,United Kingdom,19
+19,četrtek,12/26/19,4:00 PM,15,Everton,10,Burnley,1,0,United Kingdom,19
+19,četrtek,12/26/19,6:30 PM,8,Man Utd,9,Newcastle,4,1,United Kingdom,19
+19,četrtek,12/26/19,9:00 PM,2,Leicester,1,Liverpool,0,4,United Kingdom,19
+19,petek,12/27/19,8:45 PM,6,Wolves,3,Man City,3,2,United Kingdom,19
+20,sobota,12/28/19,1:30 PM,15,Brighton,16,Bournemouth,2,0,United Kingdom,19
+20,sobota,12/28/19,4:00 PM,19,Watford,18,Aston Villa,3,0,United Kingdom,19
+20,sobota,12/28/19,4:00 PM,14,Southampton,9,Crystal Palace,1,1,United Kingdom,19
+20,sobota,12/28/19,4:00 PM,10,Newcastle,13,Everton,1,2,United Kingdom,19
+20,sobota,12/28/19,6:30 PM,17,West Ham,2,Leicester,1,2,United Kingdom,19
+20,sobota,12/28/19,6:30 PM,20,Norwich,6,Spurs,2,2,United Kingdom,19
+20,sobota,12/28/19,8:45 PM,12,Burnley,8,Man Utd,0,2,United Kingdom,19
+20,nedelja,12/29/19,3:00 PM,11,Arsenal,4,Chelsea,1,2,United Kingdom,19
+20,nedelja,12/29/19,5:30 PM,1,Liverpool,5,Wolves,1,0,United Kingdom,19
+20,nedelja,12/29/19,7:00 PM,3,Man City,7,Sheff Utd,2,0,United Kingdom,19
+21,sreda,1/1/20,1:30 PM,14,Brighton,4,Chelsea,1,1,United Kingdom,19
+21,sreda,1/1/20,1:30 PM,13,Burnley,18,Aston Villa,1,2,United Kingdom,19
+21,sreda,1/1/20,4:00 PM,19,Watford,7,Wolves,2,1,United Kingdom,19
+21,sreda,1/1/20,4:00 PM,15,Southampton,6,Spurs,1,0,United Kingdom,19
+21,sreda,1/1/20,4:00 PM,11,Newcastle,2,Leicester,0,3,United Kingdom,19
+21,sreda,1/1/20,6:30 PM,17,West Ham,16,Bournemouth,4,0,United Kingdom,19
+21,sreda,1/1/20,6:30 PM,3,Man City,10,Everton,2,1,United Kingdom,19
+21,sreda,1/1/20,6:30 PM,20,Norwich,9,Crystal Palace,1,1,United Kingdom,19
+21,sreda,1/1/20,9:00 PM,12,Arsenal,5,Man Utd,2,0,United Kingdom,19
+21,četrtek,1/2/20,9:00 PM,1,Liverpool,8,Sheff Utd,2,0,United Kingdom,19
+22,petek,1/10/20,9:00 PM,8,Sheff Utd,16,West Ham,1,0,United Kingdom,19
+22,sobota,1/11/20,1:30 PM,9,Crystal Palace,10,Arsenal,1,1,United Kingdom,19
+22,sobota,1/11/20,4:00 PM,7,Wolves,13,Newcastle,1,1,United Kingdom,19
+22,sobota,1/11/20,4:00 PM,5,Man Utd,20,Norwich,4,0,United Kingdom,19
+22,sobota,1/11/20,4:00 PM,2,Leicester,12,Southampton,1,2,United Kingdom,19
+22,sobota,1/11/20,4:00 PM,4,Chelsea,15,Burnley,3,0,United Kingdom,19
+22,sobota,1/11/20,4:00 PM,11,Everton,14,Brighton,1,0,United Kingdom,19
+22,sobota,1/11/20,6:30 PM,6,Spurs,1,Liverpool,0,1,United Kingdom,19
+22,nedelja,1/12/20,3:00 PM,18,Bournemouth,19,Watford,0,3,United Kingdom,19
+22,nedelja,1/12/20,5:30 PM,17,Aston Villa,3,Man City,1,6,United Kingdom,19
+23,sobota,1/18/20,1:30 PM,17,Watford,8,Spurs,0,0,United Kingdom,19
+23,sobota,1/18/20,4:00 PM,16,West Ham,11,Everton,1,1,United Kingdom,19
+23,sobota,1/18/20,4:00 PM,20,Norwich,19,Bournemouth,1,0,United Kingdom,19
+23,sobota,1/18/20,4:00 PM,12,Southampton,7,Wolves,2,3,United Kingdom,19
+23,sobota,1/18/20,4:00 PM,14,Brighton,18,Aston Villa,1,1,United Kingdom,19
+23,sobota,1/18/20,4:00 PM,10,Arsenal,6,Sheff Utd,1,1,United Kingdom,19
+23,sobota,1/18/20,4:00 PM,2,Man City,9,Crystal Palace,2,2,United Kingdom,19
+23,sobota,1/18/20,6:30 PM,13,Newcastle,4,Chelsea,1,0,United Kingdom,19
+23,nedelja,1/19/20,3:00 PM,15,Burnley,3,Leicester,2,1,United Kingdom,19
+23,nedelja,1/19/20,5:30 PM,1,Liverpool,5,Man Utd,2,0,United Kingdom,19
+24,torek,1/21/20,8:30 PM,9,Crystal Palace,13,Southampton,0,2,United Kingdom,19
+24,torek,1/21/20,8:30 PM,7,Sheff Utd,2,Man City,0,1,United Kingdom,19
+24,torek,1/21/20,8:30 PM,18,Aston Villa,17,Watford,2,1,United Kingdom,19
+24,torek,1/21/20,8:30 PM,19,Bournemouth,15,Brighton,3,1,United Kingdom,19
+24,torek,1/21/20,8:30 PM,11,Everton,12,Newcastle,2,2,United Kingdom,19
+24,torek,1/21/20,9:15 PM,4,Chelsea,10,Arsenal,2,2,United Kingdom,19
+24,sreda,1/22/20,8:30 PM,3,Leicester,16,West Ham,4,1,United Kingdom,19
+24,sreda,1/22/20,8:30 PM,8,Spurs,20,Norwich,2,1,United Kingdom,19
+24,sreda,1/22/20,9:15 PM,5,Man Utd,14,Burnley,0,2,United Kingdom,19
+24,četrtek,1/23/20,9:00 PM,6,Wolves,1,Liverpool,1,2,United Kingdom,19
+25,sobota,2/1/20,1:30 PM,3,Leicester,4,Chelsea,2,2,United Kingdom,19
+25,sobota,2/1/20,4:00 PM,1,Liverpool,9,Southampton,4,0,United Kingdom,19
+25,sobota,2/1/20,4:00 PM,18,Bournemouth,16,Aston Villa,2,1,United Kingdom,19
+25,sobota,2/1/20,4:00 PM,17,West Ham,15,Brighton,3,3,United Kingdom,19
+25,sobota,2/1/20,4:00 PM,19,Watford,12,Everton,2,3,United Kingdom,19
+25,sobota,2/1/20,4:00 PM,14,Newcastle,20,Norwich,0,0,United Kingdom,19
+25,sobota,2/1/20,4:00 PM,11,Crystal Palace,8,Sheff Utd,0,1,United Kingdom,19
+25,sobota,2/1/20,6:30 PM,5,Man Utd,7,Wolves,0,0,United Kingdom,19
+25,nedelja,2/2/20,3:00 PM,13,Burnley,10,Arsenal,0,0,United Kingdom,19
+25,nedelja,2/2/20,5:30 PM,6,Spurs,2,Man City,2,0,United Kingdom,19
+26,sobota,2/8/20,1:30 PM,9,Everton,14,Crystal Palace,3,1,United Kingdom,19
+26,sobota,2/8/20,6:30 PM,15,Brighton,19,Watford,1,1,United Kingdom,19
+26,nedelja,2/9/20,3:00 PM,6,Sheff Utd,16,Bournemouth,2,1,United Kingdom,19
+26,petek,2/14/20,9:00 PM,8,Wolves,3,Leicester,0,0,United Kingdom,19
+26,sobota,2/15/20,1:30 PM,13,Southampton,11,Burnley,1,2,United Kingdom,19
+26,sobota,2/15/20,6:30 PM,20,Norwich,1,Liverpool,0,1,United Kingdom,19
+26,nedelja,2/16/20,3:00 PM,17,Aston Villa,5,Spurs,2,3,United Kingdom,19
+26,nedelja,2/16/20,5:30 PM,10,Arsenal,12,Newcastle,4,0,United Kingdom,19
+26,ponedeljek,2/17/20,9:00 PM,4,Chelsea,7,Man Utd,0,2,United Kingdom,19
+26,sreda,2/19/20,8:30 PM,2,Man City,18,West Ham,2,0,United Kingdom,19
+27,sobota,2/22/20,1:30 PM,4,Chelsea,5,Spurs,2,1,United Kingdom,19
+27,sobota,2/22/20,4:00 PM,6,Sheff Utd,15,Brighton,1,1,United Kingdom,19
+27,sobota,2/22/20,4:00 PM,14,Crystal Palace,13,Newcastle,1,0,United Kingdom,19
+27,sobota,2/22/20,4:00 PM,12,Southampton,17,Aston Villa,2,0,United Kingdom,19
+27,sobota,2/22/20,4:00 PM,11,Burnley,16,Bournemouth,3,0,United Kingdom,19
+27,sobota,2/22/20,6:30 PM,3,Leicester,2,Man City,0,1,United Kingdom,19
+27,nedelja,2/23/20,3:00 PM,8,Wolves,20,Norwich,3,0,United Kingdom,19
+27,nedelja,2/23/20,3:00 PM,7,Man Utd,19,Watford,3,0,United Kingdom,19
+27,nedelja,2/23/20,5:30 PM,10,Arsenal,9,Everton,3,2,United Kingdom,19
+27,ponedeljek,2/24/20,9:00 PM,1,Liverpool,18,West Ham,3,2,United Kingdom,19
+28,petek,2/28/20,9:00 PM,20,Norwich,3,Leicester,1,0,United Kingdom,19
+28,sobota,2/29/20,1:30 PM,15,Brighton,13,Crystal Palace,0,1,United Kingdom,19
+28,sobota,2/29/20,4:00 PM,14,Newcastle,10,Burnley,0,0,United Kingdom,19
+28,sobota,2/29/20,4:00 PM,16,Bournemouth,4,Chelsea,2,2,United Kingdom,19
+28,sobota,2/29/20,4:00 PM,18,West Ham,12,Southampton,3,1,United Kingdom,19
+28,sobota,2/29/20,6:30 PM,19,Watford,1,Liverpool,3,0,United Kingdom,19
+28,nedelja,3/1/20,3:00 PM,6,Spurs,8,Wolves,2,3,United Kingdom,19
+28,nedelja,3/1/20,3:00 PM,11,Everton,5,Man Utd,1,1,United Kingdom,19
+28,sreda,6/17/20,7:00 PM,17,Aston Villa,7,Sheff Utd,0,0,United Kingdom,19
+28,sreda,6/17/20,9:15 PM,2,Man City,9,Arsenal,3,0,United Kingdom,19
+29,sobota,3/7/20,1:30 PM,1,Liverpool,18,Bournemouth,2,1,United Kingdom,19
+29,sobota,3/7/20,4:00 PM,10,Arsenal,16,West Ham,1,0,United Kingdom,19
+29,sobota,3/7/20,4:00 PM,12,Crystal Palace,17,Watford,1,0,United Kingdom,19
+29,sobota,3/7/20,4:00 PM,7,Sheff Utd,20,Norwich,1,0,United Kingdom,19
+29,sobota,3/7/20,4:00 PM,13,Southampton,14,Newcastle,0,1,United Kingdom,19
+29,sobota,3/7/20,4:00 PM,6,Wolves,15,Brighton,0,0,United Kingdom,19
+29,sobota,3/7/20,6:30 PM,9,Burnley,8,Spurs,1,1,United Kingdom,19
+29,nedelja,3/8/20,3:00 PM,4,Chelsea,11,Everton,4,0,United Kingdom,19
+29,nedelja,3/8/20,5:30 PM,5,Man Utd,2,Man City,2,0,United Kingdom,19
+29,ponedeljek,3/9/20,9:00 PM,3,Leicester,19,Aston Villa,4,0,United Kingdom,19
+30,petek,6/19/20,7:00 PM,20,Norwich,14,Southampton,0,3,United Kingdom,19
+30,petek,6/19/20,9:15 PM,8,Spurs,5,Man Utd,1,1,United Kingdom,19
+30,sobota,6/20/20,1:30 PM,17,Watford,3,Leicester,1,1,United Kingdom,19
+30,sobota,6/20/20,4:00 PM,15,Brighton,9,Arsenal,2,1,United Kingdom,19
+30,sobota,6/20/20,6:30 PM,16,West Ham,7,Wolves,0,2,United Kingdom,19
+30,sobota,6/20/20,8:45 PM,18,Bournemouth,11,Crystal Palace,0,2,United Kingdom,19
+30,nedelja,6/21/20,3:00 PM,13,Newcastle,6,Sheff Utd,3,0,United Kingdom,19
+30,nedelja,6/21/20,5:15 PM,19,Aston Villa,4,Chelsea,1,2,United Kingdom,19
+30,nedelja,6/21/20,8:00 PM,12,Everton,1,Liverpool,0,0,United Kingdom,19
+30,ponedeljek,6/22/20,9:00 PM,2,Man City,10,Burnley,5,0,United Kingdom,19
+31,torek,6/23/20,7:00 PM,3,Leicester,15,Brighton,0,0,United Kingdom,19
+31,torek,6/23/20,9:15 PM,8,Spurs,17,West Ham,2,0,United Kingdom,19
+31,sreda,6/24/20,7:00 PM,13,Newcastle,19,Aston Villa,1,1,United Kingdom,19
+31,sreda,6/24/20,7:00 PM,20,Norwich,12,Everton,0,1,United Kingdom,19
+31,sreda,6/24/20,7:00 PM,6,Wolves,18,Bournemouth,1,0,United Kingdom,19
+31,sreda,6/24/20,7:00 PM,5,Man Utd,7,Sheff Utd,3,0,United Kingdom,19
+31,sreda,6/24/20,9:15 PM,1,Liverpool,9,Crystal Palace,4,0,United Kingdom,19
+31,četrtek,6/25/20,7:00 PM,11,Burnley,16,Watford,1,0,United Kingdom,19
+31,četrtek,6/25/20,7:00 PM,14,Southampton,10,Arsenal,0,2,United Kingdom,19
+31,četrtek,6/25/20,9:15 PM,4,Chelsea,2,Man City,2,1,United Kingdom,19
+32,sobota,6/27/20,1:30 PM,19,Aston Villa,6,Wolves,0,1,United Kingdom,19
+32,nedelja,6/28/20,5:30 PM,16,Watford,14,Southampton,1,3,United Kingdom,19
+32,ponedeljek,6/29/20,9:00 PM,10,Crystal Palace,11,Burnley,0,1,United Kingdom,19
+32,torek,6/30/20,9:15 PM,15,Brighton,5,Man Utd,0,3,United Kingdom,19
+32,sreda,7/1/20,7:00 PM,9,Arsenal,20,Norwich,4,0,United Kingdom,19
+32,sreda,7/1/20,7:00 PM,18,Bournemouth,13,Newcastle,1,4,United Kingdom,19
+32,sreda,7/1/20,7:00 PM,12,Everton,3,Leicester,2,1,United Kingdom,19
+32,sreda,7/1/20,9:15 PM,17,West Ham,4,Chelsea,3,2,United Kingdom,19
+32,četrtek,7/2/20,7:00 PM,8,Sheff Utd,7,Spurs,3,1,United Kingdom,19
+32,četrtek,7/2/20,9:15 PM,2,Man City,1,Liverpool,4,0,United Kingdom,19
+33,sobota,7/4/20,1:30 PM,20,Norwich,15,Brighton,0,1,United Kingdom,19
+33,sobota,7/4/20,4:00 PM,5,Man Utd,19,Bournemouth,5,2,United Kingdom,19
+33,sobota,7/4/20,4:00 PM,3,Leicester,12,Crystal Palace,3,0,United Kingdom,19
+33,sobota,7/4/20,6:30 PM,6,Wolves,8,Arsenal,0,2,United Kingdom,19
+33,sobota,7/4/20,9:00 PM,4,Chelsea,17,Watford,3,0,United Kingdom,19
+33,nedelja,7/5/20,1:00 PM,10,Burnley,7,Sheff Utd,1,1,United Kingdom,19
+33,nedelja,7/5/20,3:15 PM,13,Newcastle,16,West Ham,2,2,United Kingdom,19
+33,nedelja,7/5/20,5:30 PM,1,Liverpool,18,Aston Villa,2,0,United Kingdom,19
+33,nedelja,7/5/20,8:00 PM,14,Southampton,2,Man City,1,0,United Kingdom,19
+33,ponedeljek,7/6/20,9:00 PM,9,Spurs,11,Everton,1,0,United Kingdom,19
+34,torek,7/7/20,7:00 PM,17,Watford,20,Norwich,2,1,United Kingdom,19
+34,torek,7/7/20,7:00 PM,14,Crystal Palace,4,Chelsea,2,3,United Kingdom,19
+34,torek,7/7/20,9:15 PM,7,Arsenal,3,Leicester,1,1,United Kingdom,19
+34,sreda,7/8/20,7:00 PM,16,West Ham,10,Burnley,0,1,United Kingdom,19
+34,sreda,7/8/20,7:00 PM,2,Man City,12,Newcastle,5,0,United Kingdom,19
+34,sreda,7/8/20,7:00 PM,9,Sheff Utd,6,Wolves,1,0,United Kingdom,19
+34,sreda,7/8/20,9:15 PM,15,Brighton,1,Liverpool,1,3,United Kingdom,19
+34,četrtek,7/9/20,7:00 PM,11,Everton,13,Southampton,1,1,United Kingdom,19
+34,četrtek,7/9/20,7:00 PM,19,Bournemouth,8,Spurs,0,0,United Kingdom,19
+34,četrtek,7/9/20,9:15 PM,18,Aston Villa,5,Man Utd,0,3,United Kingdom,19
+35,sobota,7/11/20,1:30 PM,17,Watford,13,Newcastle,2,1,United Kingdom,19
+35,sobota,7/11/20,1:30 PM,20,Norwich,16,West Ham,0,4,United Kingdom,19
+35,sobota,7/11/20,4:00 PM,1,Liverpool,10,Burnley,1,1,United Kingdom,19
+35,sobota,7/11/20,6:30 PM,7,Sheff Utd,3,Chelsea,3,0,United Kingdom,19
+35,sobota,7/11/20,9:00 PM,15,Brighton,2,Man City,0,5,United Kingdom,19
+35,nedelja,7/12/20,1:00 PM,6,Wolves,11,Everton,3,0,United Kingdom,19
+35,nedelja,7/12/20,3:15 PM,19,Aston Villa,14,Crystal Palace,2,0,United Kingdom,19
+35,nedelja,7/12/20,5:30 PM,9,Spurs,8,Arsenal,2,1,United Kingdom,19
+35,nedelja,7/12/20,8:00 PM,18,Bournemouth,4,Leicester,4,1,United Kingdom,19
+35,ponedeljek,7/13/20,9:00 PM,5,Man Utd,12,Southampton,2,2,United Kingdom,19
+36,torek,7/14/20,9:15 PM,3,Chelsea,20,Norwich,1,0,United Kingdom,19
+36,sreda,7/15/20,7:00 PM,10,Burnley,6,Wolves,1,1,United Kingdom,19
+36,sreda,7/15/20,7:00 PM,2,Man City,18,Bournemouth,2,1,United Kingdom,19
+36,sreda,7/15/20,7:00 PM,13,Newcastle,8,Spurs,1,3,United Kingdom,19
+36,sreda,7/15/20,9:15 PM,9,Arsenal,1,Liverpool,2,1,United Kingdom,19
+36,četrtek,7/16/20,7:00 PM,11,Everton,19,Aston Villa,1,1,United Kingdom,19
+36,četrtek,7/16/20,7:00 PM,4,Leicester,7,Sheff Utd,2,0,United Kingdom,19
+36,četrtek,7/16/20,9:15 PM,12,Southampton,15,Brighton,1,1,United Kingdom,19
+36,četrtek,7/16/20,9:15 PM,14,Crystal Palace,5,Man Utd,0,2,United Kingdom,19
+36,petek,7/17/20,9:00 PM,16,West Ham,17,Watford,3,1,United Kingdom,19
+37,sobota,7/18/20,6:30 PM,20,Norwich,10,Burnley,0,2,United Kingdom,19
+37,nedelja,7/19/20,3:00 PM,18,Bournemouth,12,Southampton,0,2,United Kingdom,19
+37,nedelja,7/19/20,5:00 PM,7,Spurs,4,Leicester,3,0,United Kingdom,19
+37,ponedeljek,7/20/20,7:00 PM,8,Sheff Utd,11,Everton,0,1,United Kingdom,19
+37,ponedeljek,7/20/20,7:00 PM,16,Brighton,13,Newcastle,0,0,United Kingdom,19
+37,ponedeljek,7/20/20,9:15 PM,6,Wolves,14,Crystal Palace,2,0,United Kingdom,19
+37,torek,7/21/20,7:00 PM,17,Watford,2,Man City,0,4,United Kingdom,19
+37,torek,7/21/20,9:15 PM,19,Aston Villa,9,Arsenal,1,0,United Kingdom,19
+37,sreda,7/22/20,7:00 PM,5,Man Utd,15,West Ham,1,1,United Kingdom,19
+37,sreda,7/22/20,9:15 PM,1,Liverpool,3,Chelsea,5,3,United Kingdom,19
+38,nedelja,7/26/20,5:00 PM,11,Everton,19,Bournemouth,1,3,United Kingdom,19
+38,nedelja,7/26/20,5:00 PM,10,Arsenal,18,Watford,3,2,United Kingdom,19
+38,nedelja,7/26/20,5:00 PM,5,Leicester,3,Man Utd,0,2,United Kingdom,19
+38,nedelja,7/26/20,5:00 PM,2,Man City,20,Norwich,5,0,United Kingdom,19
+38,nedelja,7/26/20,5:00 PM,12,Southampton,8,Sheff Utd,3,1,United Kingdom,19
+38,nedelja,7/26/20,5:00 PM,13,Newcastle,1,Liverpool,1,3,United Kingdom,19
+38,nedelja,7/26/20,5:00 PM,9,Burnley,16,Brighton,1,2,United Kingdom,19
+38,nedelja,7/26/20,5:00 PM,14,Crystal Palace,7,Spurs,1,1,United Kingdom,19
+38,nedelja,7/26/20,5:00 PM,4,Chelsea,6,Wolves,2,0,United Kingdom,19
+38,nedelja,7/26/20,5:00 PM,15,West Ham,17,Aston Villa,1,1,United Kingdom,19

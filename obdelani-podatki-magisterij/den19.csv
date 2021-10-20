@@ -1,0 +1,155 @@
+kolo,dan,datum,ura,lestvica_domaci,domaca_ekipa,lestvica_gostje,gostujoca_ekipa,zadetki_domaci,zadetki_gostje,drzava,sezona
+1,petek,7/12/19,7:00 PM,6,FC Midtjylland,11,Esbjerg fB,1,0,Denmark,19
+1,nedelja,7/14/19,12:00 PM,5,SönderjyskE,10,Randers FC,2,1,Denmark,19
+1,nedelja,7/14/19,2:00 PM,13,AC Horsens,2,Nordsjaelland,0,3,Denmark,19
+1,nedelja,7/14/19,2:00 PM,3,Lyngby BK,12,Aalborg BK,2,0,Denmark,19
+1,nedelja,7/14/19,4:00 PM,9,Odense BK,4,FC Copenhagen,2,3,Denmark,19
+1,nedelja,7/14/19,6:00 PM,1,Bröndby IF,14,Silkeborg IF,3,0,Denmark,19
+1,ponedeljek,7/15/19,7:00 PM,8,Hobro IK,7,Aarhus GF,1,1,Denmark,19
+2,petek,7/19/19,7:00 PM,4,FC Copenhagen,7,Aarhus GF,2,1,Denmark,19
+2,nedelja,7/21/19,12:00 PM,14,Silkeborg IF,13,AC Horsens,0,3,Denmark,19
+2,nedelja,7/21/19,2:00 PM,12,Aalborg BK,5,SönderjyskE,1,1,Denmark,19
+2,nedelja,7/21/19,2:00 PM,11,Esbjerg fB,8,Hobro IK,1,1,Denmark,19
+2,nedelja,7/21/19,4:00 PM,10,Randers FC,1,Bröndby IF,2,2,Denmark,19
+2,nedelja,7/21/19,6:00 PM,6,FC Midtjylland,2,Nordsjaelland,2,1,Denmark,19
+2,ponedeljek,7/22/19,7:00 PM,9,Odense BK,3,Lyngby BK,4,1,Denmark,19
+3,petek,7/26/19,7:00 PM,8,Lyngby BK,4,SönderjyskE,0,3,Denmark,19
+3,sobota,7/27/19,5:30 PM,7,AC Horsens,1,FC Copenhagen,0,2,Denmark,19
+3,nedelja,7/28/19,12:00 PM,9,Hobro IK,10,Randers FC,2,2,Denmark,19
+3,nedelja,7/28/19,2:00 PM,6,Nordsjaelland,12,Esbjerg fB,2,0,Denmark,19
+3,nedelja,7/28/19,4:00 PM,11,Aarhus GF,2,FC Midtjylland,0,1,Denmark,19
+3,nedelja,7/28/19,6:00 PM,3,Bröndby IF,5,Odense BK,3,2,Denmark,19
+3,ponedeljek,7/29/19,7:00 PM,13,Aalborg BK,14,Silkeborg IF,3,1,Denmark,19
+4,petek,8/2/19,7:00 PM,14,Silkeborg IF,8,Hobro IK,2,3,Denmark,19
+4,sobota,8/3/19,4:00 PM,4,SönderjyskE,1,FC Copenhagen,1,2,Denmark,19
+4,nedelja,8/4/19,12:00 PM,11,Randers FC,5,Nordsjaelland,3,1,Denmark,19
+4,nedelja,8/4/19,2:00 PM,13,Esbjerg fB,7,Odense BK,0,1,Denmark,19
+4,nedelja,8/4/19,4:00 PM,3,Bröndby IF,9,AC Horsens,1,2,Denmark,19
+4,nedelja,8/4/19,6:00 PM,2,FC Midtjylland,6,Aalborg BK,1,0,Denmark,19
+4,ponedeljek,8/5/19,7:00 PM,10,Lyngby BK,12,Aarhus GF,2,1,Denmark,19
+5,petek,8/9/19,6:00 PM,1,FC Copenhagen,9,Lyngby BK,2,0,Denmark,19
+5,petek,8/9/19,8:00 PM,5,Odense BK,10,Randers FC,1,0,Denmark,19
+5,nedelja,8/11/19,12:00 PM,6,Nordsjaelland,14,Silkeborg IF,2,2,Denmark,19
+5,nedelja,8/11/19,2:00 PM,11,Aalborg BK,13,Esbjerg fB,4,0,Denmark,19
+5,nedelja,8/11/19,4:00 PM,8,AC Horsens,2,FC Midtjylland,0,2,Denmark,19
+5,nedelja,8/11/19,6:00 PM,7,Hobro IK,3,Bröndby IF,0,2,Denmark,19
+5,ponedeljek,8/12/19,7:00 PM,4,SönderjyskE,12,Aarhus GF,0,0,Denmark,19
+6,petek,8/16/19,6:00 PM,11,Randers FC,1,FC Copenhagen,0,1,Denmark,19
+6,petek,8/16/19,8:00 PM,7,Nordsjaelland,4,Odense BK,2,0,Denmark,19
+6,nedelja,8/18/19,12:00 AM,3,Bröndby IF,6,Aalborg BK,2,1,Denmark,19
+6,nedelja,8/18/19,12:00 PM,14,Silkeborg IF,5,SönderjyskE,3,3,Denmark,19
+6,nedelja,8/18/19,2:00 PM,13,Esbjerg fB,10,Lyngby BK,1,0,Denmark,19
+6,nedelja,8/18/19,4:00 PM,2,FC Midtjylland,8,Hobro IK,1,1,Denmark,19
+6,ponedeljek,8/19/19,7:00 PM,12,Aarhus GF,9,AC Horsens,2,0,Denmark,19
+7,petek,8/23/19,7:00 PM,8,Hobro IK,6,Odense BK,0,0,Denmark,19
+7,nedelja,8/25/19,12:00 PM,10,Lyngby BK,11,Randers FC,2,0,Denmark,19
+7,nedelja,8/25/19,2:00 PM,13,Esbjerg fB,14,Silkeborg IF,2,2,Denmark,19
+7,nedelja,8/25/19,4:00 PM,5,SönderjyskE,2,FC Midtjylland,0,2,Denmark,19
+7,nedelja,8/25/19,6:00 PM,3,Bröndby IF,12,Aarhus GF,0,3,Denmark,19
+7,nedelja,8/25/19,8:00 PM,1,FC Copenhagen,4,Nordsjaelland,3,1,Denmark,19
+7,ponedeljek,8/26/19,7:00 PM,9,AC Horsens,7,Aalborg BK,0,5,Denmark,19
+8,petek,8/30/19,7:00 PM,6,Odense BK,7,SönderjyskE,0,0,Denmark,19
+8,sobota,8/31/19,4:00 PM,5,Nordsjaelland,10,Hobro IK,2,1,Denmark,19
+8,nedelja,9/1/19,12:00 PM,9,Aarhus GF,13,Esbjerg fB,1,0,Denmark,19
+8,nedelja,9/1/19,2:00 PM,12,Randers FC,14,Silkeborg IF,2,0,Denmark,19
+8,nedelja,9/1/19,2:00 PM,11,AC Horsens,8,Lyngby BK,2,1,Denmark,19
+8,nedelja,9/1/19,4:00 PM,4,Aalborg BK,1,FC Copenhagen,1,0,Denmark,19
+8,nedelja,9/1/19,6:00 PM,2,FC Midtjylland,3,Bröndby IF,1,0,Denmark,19
+9,petek,9/13/19,7:00 PM,8,SönderjyskE,10,AC Horsens,0,0,Denmark,19
+9,nedelja,9/15/19,12:00 PM,6,Aarhus GF,3,Aalborg BK,3,0,Denmark,19
+9,nedelja,9/15/19,2:00 PM,13,Esbjerg fB,11,Randers FC,0,3,Denmark,19
+9,nedelja,9/15/19,2:00 PM,9,Lyngby BK,1,FC Midtjylland,0,3,Denmark,19
+9,nedelja,9/15/19,4:00 PM,12,Hobro IK,2,FC Copenhagen,2,1,Denmark,19
+9,nedelja,9/15/19,6:00 PM,5,Bröndby IF,4,Nordsjaelland,4,2,Denmark,19
+9,ponedeljek,9/16/19,7:00 PM,14,Silkeborg IF,7,Odense BK,0,3,Denmark,19
+10,petek,9/20/19,7:00 PM,5,Odense BK,4,Aarhus GF,1,2,Denmark,19
+10,nedelja,9/22/19,12:00 PM,10,Hobro IK,9,SönderjyskE,1,1,Denmark,19
+10,nedelja,9/22/19,2:00 PM,7,Nordsjaelland,6,Aalborg BK,2,1,Denmark,19
+10,nedelja,9/22/19,2:00 PM,14,Silkeborg IF,12,Lyngby BK,2,3,Denmark,19
+10,nedelja,9/22/19,4:00 PM,13,Esbjerg fB,3,Bröndby IF,3,1,Denmark,19
+10,nedelja,9/22/19,6:00 PM,2,FC Copenhagen,1,FC Midtjylland,0,0,Denmark,19
+10,ponedeljek,9/23/19,7:00 PM,8,Randers FC,11,AC Horsens,2,1,Denmark,19
+11,petek,9/27/19,7:00 PM,11,Lyngby BK,10,Hobro IK,2,1,Denmark,19
+11,sobota,9/28/19,5:00 PM,2,FC Copenhagen,14,Silkeborg IF,4,2,Denmark,19
+11,nedelja,9/29/19,12:00 PM,3,Aarhus GF,5,Nordsjaelland,3,1,Denmark,19
+11,nedelja,9/29/19,2:00 PM,8,Aalborg BK,6,Randers FC,0,3,Denmark,19
+11,nedelja,9/29/19,4:00 PM,1,FC Midtjylland,7,Odense BK,0,1,Denmark,19
+11,nedelja,9/29/19,6:00 PM,9,SönderjyskE,4,Bröndby IF,2,1,Denmark,19
+11,ponedeljek,9/30/19,7:00 PM,12,AC Horsens,13,Esbjerg fB,1,1,Denmark,19
+12,petek,10/4/19,7:00 PM,7,Nordsjaelland,9,Lyngby BK,1,1,Denmark,19
+12,sobota,10/5/19,4:00 PM,11,Hobro IK,10,Aalborg BK,0,2,Denmark,19
+12,nedelja,10/6/19,12:00 PM,13,Esbjerg fB,8,SönderjyskE,1,2,Denmark,19
+12,nedelja,10/6/19,2:00 PM,6,Bröndby IF,2,FC Copenhagen,3,1,Denmark,19
+12,nedelja,10/6/19,2:00 PM,5,Odense BK,12,AC Horsens,3,0,Denmark,19
+12,nedelja,10/6/19,4:00 PM,4,Randers FC,3,Aarhus GF,2,0,Denmark,19
+12,nedelja,10/6/19,6:00 PM,14,Silkeborg IF,1,FC Midtjylland,1,2,Denmark,19
+13,petek,10/18/19,7:00 PM,9,Aalborg BK,4,Odense BK,1,0,Denmark,19
+13,nedelja,10/20/19,12:00 PM,12,AC Horsens,11,Hobro IK,1,0,Denmark,19
+13,nedelja,10/20/19,2:00 PM,7,SönderjyskE,8,Nordsjaelland,1,4,Denmark,19
+13,nedelja,10/20/19,2:00 PM,5,Aarhus GF,14,Silkeborg IF,3,4,Denmark,19
+13,nedelja,10/20/19,4:00 PM,2,FC Copenhagen,13,Esbjerg fB,3,1,Denmark,19
+13,nedelja,10/20/19,6:00 PM,10,Lyngby BK,6,Bröndby IF,0,3,Denmark,19
+13,ponedeljek,10/21/19,7:00 PM,1,FC Midtjylland,3,Randers FC,2,1,Denmark,19
+14,petek,10/25/19,7:00 PM,13,Esbjerg fB,1,FC Midtjylland,1,2,Denmark,19
+14,nedelja,10/27/19,12:00 PM,12,Hobro IK,14,Silkeborg IF,1,1,Denmark,19
+14,nedelja,10/27/19,2:00 PM,6,Odense BK,7,Nordsjaelland,3,1,Denmark,19
+14,nedelja,10/27/19,2:00 PM,10,Lyngby BK,11,AC Horsens,2,1,Denmark,19
+14,nedelja,10/27/19,4:00 PM,3,Bröndby IF,4,Randers FC,5,2,Denmark,19
+14,nedelja,10/27/19,6:00 PM,9,SönderjyskE,8,Aalborg BK,1,3,Denmark,19
+14,ponedeljek,10/28/19,7:00 PM,5,Aarhus GF,2,FC Copenhagen,1,2,Denmark,19
+15,petek,11/1/19,7:00 PM,13,Esbjerg fB,11,AC Horsens,1,1,Denmark,19
+15,nedelja,11/3/19,12:00 PM,7,Randers FC,9,Lyngby BK,2,1,Denmark,19
+15,nedelja,11/3/19,2:00 PM,4,Odense BK,12,Hobro IK,2,1,Denmark,19
+15,nedelja,11/3/19,2:00 PM,8,Nordsjaelland,6,Aarhus GF,0,1,Denmark,19
+15,nedelja,11/3/19,4:00 PM,5,Aalborg BK,1,FC Midtjylland,0,1,Denmark,19
+15,nedelja,11/3/19,6:00 PM,2,FC Copenhagen,10,SönderjyskE,3,0,Denmark,19
+15,ponedeljek,11/4/19,7:00 PM,14,Silkeborg IF,3,Bröndby IF,0,1,Denmark,19
+16,petek,11/8/19,7:00 PM,6,Randers FC,7,Aalborg BK,3,3,Denmark,19
+16,sobota,11/9/19,4:00 PM,11,AC Horsens,14,Silkeborg IF,2,1,Denmark,19
+16,nedelja,11/10/19,12:00 PM,12,Hobro IK,8,Nordsjaelland,2,2,Denmark,19
+16,nedelja,11/10/19,2:00 PM,5,Aarhus GF,10,SönderjyskE,4,2,Denmark,19
+16,nedelja,11/10/19,2:00 PM,9,Lyngby BK,4,Odense BK,4,3,Denmark,19
+16,nedelja,11/10/19,4:00 PM,3,Bröndby IF,13,Esbjerg fB,2,1,Denmark,19
+16,nedelja,11/10/19,6:00 PM,1,FC Midtjylland,2,FC Copenhagen,4,1,Denmark,19
+17,petek,11/22/19,7:00 PM,9,Nordsjaelland,6,Randers FC,3,0,Denmark,19
+17,nedelja,11/24/19,12:00 PM,10,SönderjyskE,8,Lyngby BK,2,2,Denmark,19
+17,nedelja,11/24/19,2:00 PM,7,Aalborg BK,11,AC Horsens,4,0,Denmark,19
+17,nedelja,11/24/19,2:00 PM,14,Silkeborg IF,13,Esbjerg fB,1,2,Denmark,19
+17,nedelja,11/24/19,4:00 PM,2,FC Copenhagen,12,Hobro IK,2,1,Denmark,19
+17,nedelja,11/24/19,6:00 PM,5,Aarhus GF,3,Bröndby IF,2,1,Denmark,19
+17,ponedeljek,11/25/19,7:00 PM,4,Odense BK,1,FC Midtjylland,1,2,Denmark,19
+18,petek,11/29/19,7:00 PM,9,Lyngby BK,7,Nordsjaelland,1,1,Denmark,19
+18,nedelja,12/1/19,11:45 AM,2,FC Copenhagen,3,Bröndby IF,2,1,Denmark,19
+18,nedelja,12/1/19,12:00 PM,8,Randers FC,10,SönderjyskE,3,0,Denmark,19
+18,nedelja,12/1/19,2:00 PM,11,AC Horsens,6,Odense BK,2,1,Denmark,19
+18,nedelja,12/1/19,4:00 PM,13,Esbjerg fB,4,Aarhus GF,1,2,Denmark,19
+18,nedelja,12/1/19,6:00 PM,5,Aalborg BK,12,Hobro IK,1,1,Denmark,19
+18,ponedeljek,12/2/19,7:00 PM,1,FC Midtjylland,14,Silkeborg IF,2,1,Denmark,19
+19,petek,12/6/19,7:00 PM,12,Hobro IK,10,AC Horsens,0,0,Denmark,19
+19,nedelja,12/8/19,12:00 PM,14,Silkeborg IF,6,Randers FC,2,1,Denmark,19
+19,nedelja,12/8/19,2:00 PM,11,SönderjyskE,13,Esbjerg fB,2,1,Denmark,19
+19,nedelja,12/8/19,2:00 PM,3,Aarhus GF,9,Lyngby BK,1,1,Denmark,19
+19,nedelja,12/8/19,4:00 PM,8,Nordsjaelland,2,FC Copenhagen,0,1,Denmark,19
+19,nedelja,12/8/19,6:00 PM,4,Bröndby IF,1,FC Midtjylland,1,2,Denmark,19
+19,ponedeljek,12/9/19,7:00 PM,7,Odense BK,5,Aalborg BK,0,0,Denmark,19
+20,petek,12/13/19,7:00 PM,5,Aalborg BK,8,Nordsjaelland,1,3,Denmark,19
+20,nedelja,12/15/19,12:00 PM,11,AC Horsens,10,SönderjyskE,2,1,Denmark,19
+20,nedelja,12/15/19,2:00 PM,7,Randers FC,13,Esbjerg fB,3,0,Denmark,19
+20,nedelja,12/15/19,2:00 PM,9,Lyngby BK,14,Silkeborg IF,1,0,Denmark,19
+20,nedelja,12/15/19,4:00 PM,4,Bröndby IF,12,Hobro IK,1,1,Denmark,19
+20,nedelja,12/15/19,6:00 PM,1,FC Midtjylland,3,Aarhus GF,1,3,Denmark,19
+20,ponedeljek,12/16/19,7:00 PM,2,FC Copenhagen,6,Odense BK,2,1,Denmark,19
+21,petek,2/14/20,7:00 PM,13,Esbjerg fB,2,FC Copenhagen,1,0,Denmark,19
+21,nedelja,2/16/20,12:00 PM,11,SönderjyskE,12,Hobro IK,3,1,Denmark,19
+21,nedelja,2/16/20,2:00 PM,14,Silkeborg IF,6,Aalborg BK,0,2,Denmark,19
+21,nedelja,2/16/20,6:00 PM,9,Odense BK,4,Bröndby IF,0,2,Denmark,19
+21,ponedeljek,2/17/20,7:00 PM,1,FC Midtjylland,8,Lyngby BK,2,0,Denmark,19
+21,sreda,2/19/20,6:30 PM,7,Nordsjaelland,10,AC Horsens,6,0,Denmark,19
+21,četrtek,5/28/20,7:00 PM,3,Aarhus GF,5,Randers FC,1,1,Denmark,19
+22,petek,2/21/20,7:00 PM,12,Hobro IK,1,FC Midtjylland,0,2,Denmark,19
+22,nedelja,2/23/20,12:00 PM,5,Nordsjaelland,10,SönderjyskE,2,1,Denmark,19
+22,nedelja,2/23/20,2:00 PM,7,Randers FC,9,Odense BK,0,0,Denmark,19
+22,nedelja,2/23/20,2:00 PM,8,Lyngby BK,13,Esbjerg fB,2,0,Denmark,19
+22,nedelja,2/23/20,4:00 PM,14,Silkeborg IF,2,FC Copenhagen,1,1,Denmark,19
+22,nedelja,2/23/20,6:00 PM,6,Aalborg BK,4,Bröndby IF,3,2,Denmark,19
+22,ponedeljek,2/24/20,7:00 PM,11,AC Horsens,3,Aarhus GF,1,2,Denmark,19

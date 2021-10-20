@@ -1,0 +1,301 @@
+kolo,dan,datum,ura,lestvica_domaci,domaca_ekipa,lestvica_gostje,gostujoca_ekipa,zadetki_domaci,zadetki_gostje,drzava,sezona
+1,petek,7/31/20,7:00 PM,4,Spartak,18,Zlatibor,3,0,Serbia,20
+1,petek,7/31/20,7:00 PM,11,FK TSC,10,Vojvodina,2,2,Serbia,20
+1,petek,7/31/20,8:00 PM,8,Mladost,12,Javor-Matis,2,1,Serbia,20
+1,sobota,8/1/20,5:30 PM,15,Napredak,5,Partizan,1,3,Serbia,20
+1,sobota,8/1/20,7:30 PM,1,Red Star,20,Novi Pazar,3,0,Serbia,20
+1,sobota,8/1/20,7:30 PM,2,Radnicki Nis,19,Metalac,3,0,Serbia,20
+1,sobota,8/1/20,7:30 PM,9,Macva,13,Backa,1,0,Serbia,20
+1,sobota,8/1/20,7:30 PM,7,Proleter,16,Rad,2,0,Serbia,20
+1,sobota,8/1/20,7:30 PM,3,Cukaricki,17,FK Indjija,3,0,Serbia,20
+1,sobota,8/1/20,7:30 PM,14,Vozdovac,6,Radnik,1,3,Serbia,20
+2,sreda,8/5/20,5:00 PM,20,Novi Pazar,5,Partizan,3,2,Serbia,20
+2,sreda,8/5/20,5:00 PM,17,FK Indjija,14,Vozdovac,0,1,Serbia,20
+2,sreda,8/5/20,7:00 PM,12,Javor-Matis,15,Napredak,3,0,Serbia,20
+2,sreda,8/5/20,7:00 PM,6,Radnik,8,Mladost,2,3,Serbia,20
+2,sreda,8/5/20,7:00 PM,16,Rad,11,FK TSC,1,3,Serbia,20
+2,sreda,8/5/20,7:00 PM,18,Zlatibor,7,Proleter,0,2,Serbia,20
+2,sreda,8/5/20,7:00 PM,13,Backa,4,Spartak,1,3,Serbia,20
+2,sreda,8/5/20,7:00 PM,19,Metalac,9,Macva,2,1,Serbia,20
+2,sreda,8/5/20,7:00 PM,1,Red Star,2,Radnicki Nis,3,0,Serbia,20
+2,sreda,8/5/20,9:00 PM,10,Vojvodina,3,Cukaricki,2,2,Serbia,20
+3,nedelja,8/9/20,6:30 PM,13,Macva,1,Red Star,0,3,Serbia,20
+3,nedelja,8/9/20,7:00 PM,4,Mladost,18,FK Indjija,2,0,Serbia,20
+3,nedelja,8/9/20,7:00 PM,6,FK TSC,20,Zlatibor,5,1,Serbia,20
+3,nedelja,8/9/20,7:00 PM,2,Spartak,11,Metalac,4,1,Serbia,20
+3,nedelja,8/9/20,7:00 PM,8,Radnicki Nis,10,Novi Pazar,2,1,Serbia,20
+3,nedelja,8/9/20,7:00 PM,19,Napredak,9,Radnik,2,1,Serbia,20
+3,nedelja,8/9/20,8:30 PM,14,Vozdovac,15,Vojvodina,1,3,Serbia,20
+3,nedelja,8/9/20,8:30 PM,5,Cukaricki,17,Rad,3,0,Serbia,20
+3,nedelja,8/9/20,8:30 PM,3,Proleter,16,Backa,1,1,Serbia,20
+3,nedelja,8/9/20,8:30 PM,12,Partizan,7,Javor-Matis,4,0,Serbia,20
+4,petek,8/14/20,7:00 PM,1,Red Star,2,Spartak,3,2,Serbia,20
+4,sobota,8/15/20,5:00 PM,18,FK Indjija,14,Napredak,1,0,Serbia,20
+4,sobota,8/15/20,7:00 PM,10,Novi Pazar,11,Javor-Matis,2,3,Serbia,20
+4,sobota,8/15/20,7:00 PM,12,Radnik,7,Partizan,0,2,Serbia,20
+4,sobota,8/15/20,7:00 PM,20,Zlatibor,5,Cukaricki,1,5,Serbia,20
+4,sobota,8/15/20,7:00 PM,8,Radnicki Nis,15,Macva,1,0,Serbia,20
+4,nedelja,8/16/20,6:00 PM,17,Backa,4,FK TSC,1,1,Serbia,20
+4,nedelja,8/16/20,8:00 PM,9,Vojvodina,3,Mladost,3,0,Serbia,20
+4,nedelja,8/16/20,8:00 PM,19,Rad,16,Vozdovac,1,3,Serbia,20
+4,nedelja,8/16/20,8:00 PM,13,Metalac,6,Proleter,1,1,Serbia,20
+5,petek,8/21/20,6:00 PM,7,Proleter,1,Red Star,0,1,Serbia,20
+5,petek,8/21/20,7:00 PM,9,FK TSC,12,Metalac,2,3,Serbia,20
+5,sobota,8/22/20,7:00 PM,3,Spartak,5,Radnicki Nis,2,0,Serbia,20
+5,sobota,8/22/20,7:00 PM,2,Cukaricki,18,Backa,1,0,Serbia,20
+5,sobota,8/22/20,7:00 PM,10,Javor-Matis,17,Radnik,2,1,Serbia,20
+5,sobota,8/22/20,7:30 PM,4,Partizan,15,FK Indjija,5,0,Serbia,20
+5,nedelja,8/23/20,5:30 PM,16,Napredak,8,Vojvodina,0,1,Serbia,20
+5,nedelja,8/23/20,7:00 PM,14,Macva,13,Novi Pazar,1,1,Serbia,20
+5,nedelja,8/23/20,7:00 PM,11,Vozdovac,20,Zlatibor,1,1,Serbia,20
+5,nedelja,8/23/20,7:00 PM,6,Mladost,19,Rad,1,0,Serbia,20
+6,petek,8/28/20,5:00 PM,15,FK Indjija,7,Javor-Matis,3,2,Serbia,20
+6,petek,8/28/20,7:00 PM,12,Metalac,2,Cukaricki,0,0,Serbia,20
+6,sobota,8/29/20,5:00 PM,20,Rad,16,Napredak,3,1,Serbia,20
+6,sobota,8/29/20,7:30 PM,13,Novi Pazar,17,Radnik,0,0,Serbia,20
+6,sobota,8/29/20,7:30 PM,19,Zlatibor,5,Mladost,1,0,Serbia,20
+6,sobota,8/29/20,7:30 PM,18,Backa,11,Vozdovac,2,1,Serbia,20
+6,sobota,8/29/20,7:30 PM,8,Radnicki Nis,10,Proleter,3,0,Serbia,20
+6,nedelja,8/30/20,6:45 PM,6,Vojvodina,3,Partizan,3,2,Serbia,20
+6,nedelja,8/30/20,8:00 PM,14,Macva,4,Spartak,0,4,Serbia,20
+6,nedelja,8/30/20,9:00 PM,1,Red Star,9,FK TSC,5,0,Serbia,20
+7,petek,9/11/20,7:00 PM,3,Cukaricki,1,Red Star,1,3,Serbia,20
+7,sobota,9/12/20,5:00 PM,2,Spartak,15,Novi Pazar,1,1,Serbia,20
+7,sobota,9/12/20,5:00 PM,11,FK TSC,6,Radnicki Nis,1,3,Serbia,20
+7,sobota,9/12/20,5:00 PM,12,Vozdovac,9,Metalac,4,0,Serbia,20
+7,sobota,9/12/20,5:00 PM,16,Radnik,13,FK Indjija,0,2,Serbia,20
+7,sobota,9/12/20,8:00 PM,5,Partizan,19,Rad,3,0,Serbia,20
+7,nedelja,9/13/20,6:00 PM,10,Proleter,17,Macva,0,0,Serbia,20
+7,nedelja,9/13/20,6:00 PM,7,Mladost,14,Backa,2,1,Serbia,20
+7,nedelja,9/13/20,6:00 PM,20,Napredak,18,Zlatibor,1,1,Serbia,20
+7,nedelja,9/13/20,6:00 PM,8,Javor-Matis,4,Vojvodina,2,1,Serbia,20
+8,petek,9/18/20,6:00 PM,7,Vojvodina,19,Radnik,2,0,Serbia,20
+8,sobota,9/19/20,4:00 PM,17,Backa,18,Napredak,0,0,Serbia,20
+8,sobota,9/19/20,4:00 PM,12,Metalac,5,Mladost,1,1,Serbia,20
+8,sobota,9/19/20,4:00 PM,4,Radnicki Nis,6,Cukaricki,0,0,Serbia,20
+8,nedelja,9/20/20,4:00 PM,14,Novi Pazar,11,FK Indjija,1,0,Serbia,20
+8,nedelja,9/20/20,4:00 PM,20,Rad,8,Javor-Matis,1,0,Serbia,20
+8,nedelja,9/20/20,4:00 PM,2,Spartak,10,Proleter,1,2,Serbia,20
+8,nedelja,9/20/20,7:00 PM,15,Zlatibor,3,Partizan,0,1,Serbia,20
+8,nedelja,9/20/20,9:00 PM,1,Red Star,9,Vozdovac,6,0,Serbia,20
+8,ponedeljek,9/21/20,5:30 PM,16,Macva,13,FK TSC,1,4,Serbia,20
+9,petek,9/25/20,7:00 PM,11,Vozdovac,6,Radnicki Nis,5,0,Serbia,20
+9,sobota,9/26/20,4:00 PM,10,FK TSC,5,Spartak,3,0,Serbia,20
+9,sobota,9/26/20,4:00 PM,7,Cukaricki,17,Macva,4,0,Serbia,20
+9,sobota,9/26/20,4:00 PM,9,Javor-Matis,18,Zlatibor,1,1,Serbia,20
+9,sobota,9/26/20,4:00 PM,20,Radnik,16,Rad,4,2,Serbia,20
+9,sobota,9/26/20,6:00 PM,4,Mladost,1,Red Star,0,4,Serbia,20
+9,nedelja,9/27/20,4:00 PM,8,Proleter,13,Novi Pazar,1,0,Serbia,20
+9,nedelja,9/27/20,4:00 PM,19,Napredak,12,Metalac,1,2,Serbia,20
+9,ponedeljek,9/28/20,4:00 PM,14,FK Indjija,3,Vojvodina,0,2,Serbia,20
+9,ponedeljek,9/28/20,6:00 PM,2,Partizan,15,Backa,2,1,Serbia,20
+10,petek,10/2/20,7:00 PM,7,Radnicki Nis,5,Mladost,1,1,Serbia,20
+10,sobota,10/3/20,4:00 PM,13,Novi Pazar,3,Vojvodina,3,1,Serbia,20
+10,sobota,10/3/20,4:00 PM,16,Backa,11,Javor-Matis,2,2,Serbia,20
+10,sobota,10/3/20,4:00 PM,20,Macva,10,Vozdovac,0,2,Serbia,20
+10,sobota,10/3/20,4:00 PM,6,Spartak,4,Cukaricki,4,2,Serbia,20
+10,sobota,10/3/20,6:00 PM,12,Metalac,2,Partizan,1,1,Serbia,20
+10,nedelja,10/4/20,4:00 PM,17,Rad,14,FK Indjija,2,1,Serbia,20
+10,nedelja,10/4/20,4:00 PM,18,Zlatibor,15,Radnik,1,4,Serbia,20
+10,nedelja,10/4/20,4:00 PM,8,Proleter,9,FK TSC,1,0,Serbia,20
+10,nedelja,10/4/20,6:00 PM,1,Red Star,19,Napredak,3,0,Serbia,20
+11,petek,10/16/20,6:00 PM,10,FK TSC,13,Novi Pazar,7,0,Serbia,20
+11,petek,10/16/20,6:00 PM,5,Cukaricki,6,Proleter,1,2,Serbia,20
+11,petek,10/16/20,6:00 PM,14,Radnik,17,Backa,1,0,Serbia,20
+11,petek,10/16/20,6:00 PM,3,Vojvodina,15,Rad,4,1,Serbia,20
+11,sobota,10/17/20,3:00 PM,16,FK Indjija,18,Zlatibor,1,0,Serbia,20
+11,sobota,10/17/20,4:00 PM,9,Vozdovac,4,Spartak,2,1,Serbia,20
+11,sobota,10/17/20,4:00 PM,7,Mladost,20,Macva,2,1,Serbia,20
+11,sobota,10/17/20,4:00 PM,19,Napredak,8,Radnicki Nis,0,0,Serbia,20
+11,sobota,10/17/20,4:00 PM,11,Javor-Matis,12,Metalac,1,3,Serbia,20
+11,nedelja,10/18/20,5:00 PM,2,Partizan,1,Red Star,1,1,Serbia,20
+12,nedelja,10/25/20,2:00 PM,14,Novi Pazar,16,Rad,2,1,Serbia,20
+12,nedelja,10/25/20,2:00 PM,18,Zlatibor,2,Vojvodina,0,2,Serbia,20
+12,nedelja,10/25/20,2:00 PM,17,Backa,15,FK Indjija,1,2,Serbia,20
+12,nedelja,10/25/20,4:00 PM,20,Macva,19,Napredak,1,2,Serbia,20
+12,nedelja,10/25/20,4:00 PM,4,Proleter,6,Vozdovac,1,1,Serbia,20
+12,nedelja,10/25/20,9:00 PM,1,Red Star,12,Javor-Matis,0,0,Serbia,20
+12,ponedeljek,10/26/20,5:00 PM,11,Metalac,13,Radnik,1,1,Serbia,20
+12,ponedeljek,10/26/20,5:00 PM,9,Radnicki Nis,3,Partizan,1,0,Serbia,20
+12,ponedeljek,10/26/20,5:00 PM,7,Spartak,5,Mladost,1,0,Serbia,20
+12,ponedeljek,10/26/20,5:00 PM,10,FK TSC,8,Cukaricki,0,0,Serbia,20
+13,petek,10/30/20,6:00 PM,2,Vojvodina,18,Backa,3,1,Serbia,20
+13,sobota,10/31/20,1:00 PM,14,FK Indjija,11,Metalac,0,1,Serbia,20
+13,sobota,10/31/20,3:00 PM,9,Cukaricki,13,Novi Pazar,4,0,Serbia,20
+13,sobota,10/31/20,3:00 PM,7,Vozdovac,10,FK TSC,2,0,Serbia,20
+13,sobota,10/31/20,3:00 PM,16,Rad,19,Zlatibor,0,2,Serbia,20
+13,sobota,10/31/20,5:00 PM,3,Partizan,20,Macva,2,0,Serbia,20
+13,nedelja,11/1/20,3:00 PM,8,Mladost,4,Proleter,0,0,Serbia,20
+13,nedelja,11/1/20,3:00 PM,17,Napredak,5,Spartak,1,1,Serbia,20
+13,nedelja,11/1/20,3:00 PM,12,Javor-Matis,6,Radnicki Nis,1,0,Serbia,20
+13,nedelja,11/1/20,3:00 PM,15,Radnik,1,Red Star,1,4,Serbia,20
+14,petek,11/6/20,6:00 PM,10,Metalac,2,Vojvodina,3,3,Serbia,20
+14,sobota,11/7/20,2:00 PM,13,Novi Pazar,17,Zlatibor,1,2,Serbia,20
+14,sobota,11/7/20,2:00 PM,19,Backa,18,Rad,0,1,Serbia,20
+14,sobota,11/7/20,2:00 PM,4,Proleter,16,Napredak,1,0,Serbia,20
+14,sobota,11/7/20,4:00 PM,9,Radnicki Nis,15,Radnik,0,1,Serbia,20
+14,sobota,11/7/20,4:00 PM,20,Macva,12,Javor-Matis,1,0,Serbia,20
+14,sobota,11/7/20,4:00 PM,11,FK TSC,8,Mladost,5,0,Serbia,20
+14,sobota,11/7/20,4:00 PM,7,Cukaricki,5,Vozdovac,3,2,Serbia,20
+14,sobota,11/7/20,6:00 PM,6,Spartak,3,Partizan,1,2,Serbia,20
+14,nedelja,11/8/20,7:00 PM,1,Red Star,14,FK Indjija,3,2,Serbia,20
+15,petek,11/20/20,5:00 PM,11,Mladost,5,Cukaricki,1,1,Serbia,20
+15,petek,11/20/20,5:00 PM,12,Javor-Matis,7,Spartak,1,3,Serbia,20
+15,petek,11/20/20,5:00 PM,13,Radnik,19,Macva,3,0,Serbia,20
+15,sobota,11/21/20,1:00 PM,15,FK Indjija,8,Radnicki Nis,1,0,Serbia,20
+15,sobota,11/21/20,2:00 PM,6,Vozdovac,14,Novi Pazar,1,1,Serbia,20
+15,sobota,11/21/20,2:00 PM,18,Napredak,10,FK TSC,2,1,Serbia,20
+15,sobota,11/21/20,4:00 PM,3,Partizan,4,Proleter,1,0,Serbia,20
+15,nedelja,11/22/20,4:00 PM,16,Zlatibor,20,Backa,1,0,Serbia,20
+15,nedelja,11/22/20,5:30 PM,2,Vojvodina,1,Red Star,0,2,Serbia,20
+15,četrtek,12/3/20,4:00 PM,17,Rad,9,Metalac,1,1,Serbia,20
+16,sobota,11/28/20,1:00 PM,19,Macva,13,FK Indjija,3,0,Serbia,20
+16,nedelja,11/29/20,3:00 PM,15,Novi Pazar,20,Backa,0,0,Serbia,20
+16,nedelja,11/29/20,3:00 PM,9,Metalac,16,Zlatibor,2,0,Serbia,20
+16,nedelja,11/29/20,3:00 PM,6,Cukaricki,18,Napredak,3,0,Serbia,20
+16,nedelja,11/29/20,3:00 PM,7,Vozdovac,8,Mladost,3,2,Serbia,20
+16,nedelja,11/29/20,5:00 PM,11,FK TSC,2,Partizan,0,4,Serbia,20
+16,nedelja,11/29/20,7:00 PM,1,Red Star,17,Rad,3,0,Serbia,20
+16,ponedeljek,11/30/20,4:00 PM,10,Radnicki Nis,3,Vojvodina,0,1,Serbia,20
+16,ponedeljek,11/30/20,4:00 PM,5,Spartak,12,Radnik,0,0,Serbia,20
+16,ponedeljek,11/30/20,4:00 PM,4,Proleter,14,Javor-Matis,2,1,Serbia,20
+17,petek,12/4/20,6:00 PM,18,Napredak,6,Vozdovac,3,1,Serbia,20
+17,sobota,12/5/20,2:00 PM,3,Vojvodina,19,Macva,1,0,Serbia,20
+17,sobota,12/5/20,4:00 PM,2,Partizan,5,Cukaricki,1,0,Serbia,20
+17,nedelja,12/6/20,1:00 PM,13,FK Indjija,7,Spartak,3,4,Serbia,20
+17,nedelja,12/6/20,2:00 PM,9,Mladost,15,Novi Pazar,3,2,Serbia,20
+17,nedelja,12/6/20,2:00 PM,11,Radnik,4,Proleter,2,0,Serbia,20
+17,nedelja,12/6/20,4:00 PM,16,Zlatibor,1,Red Star,0,1,Serbia,20
+17,ponedeljek,12/7/20,1:00 PM,17,Rad,10,Radnicki Nis,0,1,Serbia,20
+17,ponedeljek,12/7/20,1:00 PM,20,Backa,8,Metalac,3,1,Serbia,20
+17,nedelja,12/20/20,3:00 PM,14,Javor-Matis,12,FK TSC,1,2,Serbia,20
+18,petek,12/11/20,4:00 PM,8,Mladost,16,Napredak,0,0,Serbia,20
+18,petek,12/11/20,4:00 PM,5,Proleter,13,FK Indjija,1,0,Serbia,20
+18,petek,12/11/20,4:00 PM,12,FK TSC,11,Radnik,1,3,Serbia,20
+18,petek,12/11/20,6:00 PM,6,Cukaricki,14,Javor-Matis,3,0,Serbia,20
+18,sobota,12/12/20,2:00 PM,15,Novi Pazar,9,Metalac,1,0,Serbia,20
+18,sobota,12/12/20,2:00 PM,10,Radnicki Nis,17,Zlatibor,2,1,Serbia,20
+18,sobota,12/12/20,2:00 PM,19,Macva,18,Rad,0,1,Serbia,20
+18,sobota,12/12/20,2:00 PM,4,Spartak,3,Vojvodina,0,1,Serbia,20
+18,sobota,12/12/20,5:00 PM,7,Vozdovac,2,Partizan,0,2,Serbia,20
+18,nedelja,12/13/20,5:00 PM,1,Red Star,20,Backa,2,0,Serbia,20
+19,sreda,12/16/20,2:00 PM,2,Partizan,10,Mladost,4,0,Serbia,20
+19,sreda,12/16/20,2:00 PM,17,Rad,6,Spartak,0,1,Serbia,20
+19,sreda,12/16/20,2:00 PM,18,Zlatibor,19,Macva,0,1,Serbia,20
+19,sreda,12/16/20,2:00 PM,20,Backa,9,Radnicki Nis,1,2,Serbia,20
+19,sreda,12/16/20,4:00 PM,16,Napredak,13,Novi Pazar,0,0,Serbia,20
+19,sreda,12/16/20,4:00 PM,15,Javor-Matis,8,Vozdovac,3,1,Serbia,20
+19,sreda,12/16/20,4:00 PM,7,Radnik,5,Cukaricki,0,1,Serbia,20
+19,sreda,12/16/20,4:00 PM,11,Metalac,1,Red Star,0,1,Serbia,20
+19,četrtek,12/17/20,1:00 PM,14,FK Indjija,12,FK TSC,0,3,Serbia,20
+19,četrtek,12/17/20,3:00 PM,3,Vojvodina,4,Proleter,2,0,Serbia,20
+20,petek,2/5/21,4:30 PM,3,Vojvodina,10,FK TSC,0,1,Serbia,20
+20,sobota,2/6/21,1:00 PM,15,FK Indjija,4,Cukaricki,0,1,Serbia,20
+20,sobota,2/6/21,3:00 PM,12,Metalac,7,Radnicki Nis,1,1,Serbia,20
+20,sobota,2/6/21,3:00 PM,18,Zlatibor,5,Spartak,1,1,Serbia,20
+20,sobota,2/6/21,3:00 PM,8,Radnik,9,Vozdovac,1,1,Serbia,20
+20,sobota,2/6/21,5:00 PM,2,Partizan,16,Napredak,3,0,Serbia,20
+20,nedelja,2/7/21,1:00 PM,14,Novi Pazar,1,Red Star,1,3,Serbia,20
+20,nedelja,2/7/21,3:00 PM,17,Rad,6,Proleter,1,0,Serbia,20
+20,nedelja,2/7/21,3:00 PM,13,Javor-Matis,11,Mladost,4,1,Serbia,20
+20,nedelja,2/7/21,3:00 PM,20,Backa,19,Macva,2,0,Serbia,20
+21,petek,2/12/21,2:30 PM,17,Napredak,13,Javor-Matis,1,1,Serbia,20
+21,petek,2/12/21,2:30 PM,8,FK TSC,15,Rad,0,0,Serbia,20
+21,petek,2/12/21,2:30 PM,6,Proleter,18,Zlatibor,2,2,Serbia,20
+21,petek,2/12/21,2:30 PM,5,Spartak,19,Backa,1,0,Serbia,20
+21,petek,2/12/21,4:30 PM,2,Partizan,14,Novi Pazar,4,1,Serbia,20
+21,petek,2/12/21,6:30 PM,4,Cukaricki,3,Vojvodina,3,3,Serbia,20
+21,sobota,2/13/21,1:30 PM,11,Mladost,9,Radnik,2,2,Serbia,20
+21,sobota,2/13/21,1:30 PM,10,Vozdovac,16,FK Indjija,1,1,Serbia,20
+21,sobota,2/13/21,1:30 PM,20,Macva,12,Metalac,2,1,Serbia,20
+21,sobota,2/13/21,3:30 PM,7,Radnicki Nis,1,Red Star,0,1,Serbia,20
+22,torek,2/16/21,2:00 PM,19,Zlatibor,8,FK TSC,0,1,Serbia,20
+22,torek,2/16/21,4:00 PM,15,Rad,4,Cukaricki,0,2,Serbia,20
+22,sreda,2/17/21,1:00 PM,16,FK Indjija,11,Mladost,1,0,Serbia,20
+22,sreda,2/17/21,1:00 PM,13,Javor-Matis,2,Partizan,0,1,Serbia,20
+22,sreda,2/17/21,4:00 PM,14,Novi Pazar,7,Radnicki Nis,3,1,Serbia,20
+22,sreda,2/17/21,4:00 PM,20,Backa,6,Proleter,0,2,Serbia,20
+22,sreda,2/17/21,4:00 PM,3,Vojvodina,10,Vozdovac,2,0,Serbia,20
+22,sreda,2/17/21,4:00 PM,9,Radnik,17,Napredak,2,1,Serbia,20
+22,sreda,2/17/21,6:00 PM,12,Metalac,5,Spartak,3,0,Serbia,20
+22,četrtek,3/11/21,7:10 PM,1,Red Star,18,Macva,4,0,Serbia,20
+23,sobota,2/20/21,1:00 PM,4,Cukaricki,19,Zlatibor,2,0,Serbia,20
+23,nedelja,2/21/21,1:00 PM,2,Partizan,8,Radnik,3,0,Serbia,20
+23,nedelja,2/21/21,1:00 PM,17,Napredak,15,FK Indjija,1,0,Serbia,20
+23,nedelja,2/21/21,1:00 PM,12,Mladost,3,Vojvodina,1,1,Serbia,20
+23,nedelja,2/21/21,1:00 PM,6,Proleter,11,Metalac,1,2,Serbia,20
+23,nedelja,2/21/21,5:05 PM,5,Spartak,1,Red Star,1,2,Serbia,20
+23,ponedeljek,2/22/21,3:00 PM,13,Javor-Matis,14,Novi Pazar,1,0,Serbia,20
+23,ponedeljek,2/22/21,3:00 PM,10,Vozdovac,16,Rad,0,1,Serbia,20
+23,ponedeljek,2/22/21,3:00 PM,7,FK TSC,20,Backa,3,0,Serbia,20
+23,ponedeljek,2/22/21,3:00 PM,18,Macva,9,Radnicki Nis,0,2,Serbia,20
+24,petek,2/26/21,1:00 PM,17,FK Indjija,2,Partizan,0,6,Serbia,20
+24,petek,2/26/21,3:30 PM,3,Vojvodina,16,Napredak,1,0,Serbia,20
+24,sobota,2/27/21,2:00 PM,14,Novi Pazar,18,Macva,4,0,Serbia,20
+24,sobota,2/27/21,2:00 PM,8,Radnicki Nis,6,Spartak,0,1,Serbia,20
+24,sobota,2/27/21,2:00 PM,20,Backa,4,Cukaricki,1,2,Serbia,20
+24,sobota,2/27/21,2:00 PM,9,Radnik,12,Javor-Matis,2,0,Serbia,20
+24,sobota,2/27/21,4:05 PM,10,Metalac,5,FK TSC,0,0,Serbia,20
+24,sobota,2/27/21,4:05 PM,19,Zlatibor,11,Vozdovac,0,0,Serbia,20
+24,sobota,2/27/21,4:05 PM,15,Rad,13,Mladost,0,1,Serbia,20
+24,nedelja,2/28/21,5:05 PM,1,Red Star,7,Proleter,4,0,Serbia,20
+25,torek,3/2/21,4:00 PM,2,Partizan,3,Vojvodina,2,0,Serbia,20
+25,sreda,3/3/21,2:00 PM,8,Radnik,14,Novi Pazar,4,1,Serbia,20
+25,sreda,3/3/21,2:00 PM,16,Napredak,15,Rad,0,2,Serbia,20
+25,sreda,3/3/21,2:00 PM,11,Mladost,18,Zlatibor,0,2,Serbia,20
+25,sreda,3/3/21,2:00 PM,12,Vozdovac,20,Backa,2,1,Serbia,20
+25,sreda,3/3/21,2:00 PM,4,Cukaricki,10,Metalac,2,0,Serbia,20
+25,sreda,3/3/21,4:05 PM,13,Javor-Matis,17,FK Indjija,1,1,Serbia,20
+25,sreda,3/3/21,4:05 PM,6,FK TSC,1,Red Star,1,3,Serbia,20
+25,sreda,3/3/21,4:05 PM,7,Proleter,9,Radnicki Nis,2,1,Serbia,20
+25,sreda,3/3/21,4:05 PM,5,Spartak,19,Macva,3,2,Serbia,20
+26,nedelja,3/7/21,1:00 PM,16,FK Indjija,7,Radnik,0,1,Serbia,20
+26,nedelja,3/7/21,3:00 PM,14,Novi Pazar,5,Spartak,2,1,Serbia,20
+26,nedelja,3/7/21,3:00 PM,19,Macva,6,Proleter,3,1,Serbia,20
+26,nedelja,3/7/21,3:00 PM,9,Radnicki Nis,8,FK TSC,2,0,Serbia,20
+26,nedelja,3/7/21,3:00 PM,11,Metalac,10,Vozdovac,2,1,Serbia,20
+26,nedelja,3/7/21,3:00 PM,4,Vojvodina,13,Javor-Matis,2,0,Serbia,20
+26,nedelja,3/7/21,5:05 PM,15,Rad,2,Partizan,0,5,Serbia,20
+26,nedelja,3/7/21,7:15 PM,1,Red Star,3,Cukaricki,2,0,Serbia,20
+26,ponedeljek,3/8/21,4:00 PM,20,Backa,12,Mladost,1,1,Serbia,20
+26,ponedeljek,3/8/21,6:05 PM,18,Zlatibor,17,Napredak,1,2,Serbia,20
+27,sobota,3/13/21,4:00 PM,4,Cukaricki,9,Radnicki Nis,0,0,Serbia,20
+27,nedelja,3/14/21,1:00 PM,17,FK Indjija,13,Novi Pazar,1,0,Serbia,20
+27,nedelja,3/14/21,1:00 PM,14,Javor-Matis,15,Rad,1,1,Serbia,20
+27,nedelja,3/14/21,1:00 PM,16,Napredak,20,Backa,2,1,Serbia,20
+27,nedelja,3/14/21,1:00 PM,12,Mladost,10,Metalac,1,1,Serbia,20
+27,ponedeljek,3/15/21,2:00 PM,6,Radnik,3,Vojvodina,2,2,Serbia,20
+27,ponedeljek,3/15/21,2:00 PM,8,FK TSC,19,Macva,3,0,Serbia,20
+27,ponedeljek,3/15/21,2:00 PM,7,Proleter,5,Spartak,2,0,Serbia,20
+27,ponedeljek,3/15/21,4:05 PM,11,Vozdovac,1,Red Star,1,4,Serbia,20
+27,ponedeljek,3/15/21,6:10 PM,2,Partizan,18,Zlatibor,5,1,Serbia,20
+28,petek,3/19/21,6:00 PM,10,Metalac,15,Napredak,2,2,Serbia,20
+28,sobota,3/20/21,3:00 PM,5,Spartak,8,FK TSC,2,2,Serbia,20
+28,sobota,3/20/21,3:00 PM,9,Radnicki Nis,11,Vozdovac,0,1,Serbia,20
+28,sobota,3/20/21,3:00 PM,20,Backa,2,Partizan,0,4,Serbia,20
+28,sobota,3/20/21,3:00 PM,18,Zlatibor,13,Javor-Matis,0,2,Serbia,20
+28,sobota,3/20/21,7:00 PM,1,Red Star,12,Mladost,4,1,Serbia,20
+28,nedelja,3/21/21,3:00 PM,3,Vojvodina,17,FK Indjija,2,1,Serbia,20
+28,nedelja,3/21/21,3:00 PM,14,Novi Pazar,7,Proleter,5,0,Serbia,20
+28,nedelja,3/21/21,3:00 PM,19,Macva,4,Cukaricki,1,2,Serbia,20
+28,nedelja,3/21/21,3:00 PM,16,Rad,6,Radnik,2,0,Serbia,20
+29,petek,4/2/21,5:00 PM,3,Vojvodina,14,Novi Pazar,1,0,Serbia,20
+29,petek,4/2/21,5:00 PM,13,Mladost,9,Radnicki Nis,4,1,Serbia,20
+29,petek,4/2/21,5:00 PM,11,Vozdovac,19,Macva,0,0,Serbia,20
+29,petek,4/2/21,5:00 PM,8,FK TSC,7,Proleter,2,0,Serbia,20
+29,petek,4/2/21,7:05 PM,4,Cukaricki,5,Spartak,5,1,Serbia,20
+29,sobota,4/3/21,2:55 PM,17,FK Indjija,15,Rad,1,0,Serbia,20
+29,sobota,4/3/21,2:55 PM,6,Radnik,18,Zlatibor,2,1,Serbia,20
+29,sobota,4/3/21,2:55 PM,12,Javor-Matis,20,Backa,1,1,Serbia,20
+29,sobota,4/3/21,5:00 PM,16,Napredak,1,Red Star,1,4,Serbia,20
+29,sobota,4/3/21,7:05 PM,2,Partizan,10,Metalac,3,0,Serbia,20
+30,torek,4/6/21,6:00 PM,14,Novi Pazar,6,FK TSC,2,1,Serbia,20
+30,torek,4/6/21,6:00 PM,8,Proleter,4,Cukaricki,0,1,Serbia,20
+30,torek,4/6/21,6:00 PM,7,Spartak,11,Vozdovac,3,0,Serbia,20
+30,torek,4/6/21,6:00 PM,18,Macva,12,Mladost,0,2,Serbia,20
+30,sreda,4/7/21,2:00 PM,9,Radnicki Nis,16,Napredak,1,2,Serbia,20
+30,sreda,4/7/21,2:00 PM,20,Backa,5,Radnik,0,2,Serbia,20
+30,sreda,4/7/21,2:00 PM,15,Rad,3,Vojvodina,2,0,Serbia,20
+30,sreda,4/7/21,6:00 PM,1,Red Star,2,Partizan,1,0,Serbia,20
+30,četrtek,4/8/21,4:00 PM,10,Metalac,13,Javor-Matis,1,2,Serbia,20
+30,četrtek,4/8/21,4:00 PM,19,Zlatibor,17,FK Indjija,2,2,Serbia,20

@@ -1,0 +1,307 @@
+kolo,dan,datum,ura,lestvica_domaci,domaca_ekipa,lestvica_gostje,gostujoca_ekipa,zadetki_domaci,zadetki_gostje,drzava,sezona
+1,petek,9/18/20,8:00 PM,18,Famalicão,1,Benfica,1,5,Portugal,20
+1,petek,9/18/20,10:15 PM,13,Vit. Guimarães,6,Belenenses SAD,0,1,Portugal,20
+1,sobota,9/19/20,5:00 PM,8,Nacional,7,Boavista,3,3,Portugal,20
+1,sobota,9/19/20,10:00 PM,2,FC Porto,14,SC Braga,3,1,Portugal,20
+1,nedelja,9/20/20,5:00 PM,5,Santa Clara,17,Marítimo,2,0,Portugal,20
+1,nedelja,9/20/20,7:30 PM,4,Moreirense ,16,Farense,2,0,Portugal,20
+1,nedelja,9/20/20,10:00 PM,12,Tondela,9,Rio Ave FC,1,1,Portugal,20
+1,ponedeljek,9/21/20,8:45 PM,11,Portimonense,10,Paços Ferreira,1,1,Portugal,20
+1,sreda,10/28/20,10:45 PM,3,Sporting CP,15,Gil Vicente,3,1,Portugal,20
+2,petek,9/25/20,9:30 PM,14,SC Braga,5,Santa Clara,0,1,Portugal,20
+2,sobota,9/26/20,4:30 PM,17,Marítimo,12,Tondela,2,1,Portugal,20
+2,sobota,9/26/20,7:30 PM,1,Benfica,4,Moreirense ,2,0,Portugal,20
+2,sobota,9/26/20,10:00 PM,7,Boavista,2,FC Porto,0,5,Portugal,20
+2,nedelja,9/27/20,4:30 PM,16,Farense,8,Nacional,0,1,Portugal,20
+2,nedelja,9/27/20,5:00 PM,15,Gil Vicente,11,Portimonense,1,0,Portugal,20
+2,nedelja,9/27/20,7:30 PM,10,Paços Ferreira,3,Sporting CP,0,2,Portugal,20
+2,nedelja,9/27/20,10:00 PM,9,Rio Ave FC,13,Vit. Guimarães,0,0,Portugal,20
+2,ponedeljek,9/28/20,8:45 PM,6,Belenenses SAD,18,Famalicão,1,2,Portugal,20
+3,petek,10/2/20,8:00 PM,6,Moreirense ,14,Boavista,1,1,Portugal,20
+3,petek,10/2/20,10:15 PM,13,Vit. Guimarães,15,Paços Ferreira,1,0,Portugal,20
+3,sobota,10/3/20,5:00 PM,4,Santa Clara,7,Gil Vicente,0,0,Portugal,20
+3,sobota,10/3/20,7:30 PM,1,FC Porto,8,Marítimo,2,3,Portugal,20
+3,sobota,10/3/20,10:00 PM,12,Tondela,17,SC Braga,0,4,Portugal,20
+3,nedelja,10/4/20,4:30 PM,5,Nacional,10,Belenenses SAD,0,0,Portugal,20
+3,nedelja,10/4/20,7:30 PM,9,Famalicão,11,Rio Ave FC,1,1,Portugal,20
+3,nedelja,10/4/20,7:30 PM,2,Benfica,18,Farense,3,2,Portugal,20
+3,nedelja,10/4/20,10:00 PM,16,Portimonense,3,Sporting CP,0,2,Portugal,20
+4,sobota,10/17/20,4:30 PM,8,Gil Vicente,15,Tondela,1,1,Portugal,20
+4,sobota,10/17/20,4:30 PM,4,Marítimo,17,Portimonense,1,2,Portugal,20
+4,sobota,10/17/20,7:00 PM,12,SC Braga,6,Nacional,2,1,Portugal,20
+4,sobota,10/17/20,9:30 PM,2,Sporting CP,5,FC Porto,2,2,Portugal,20
+4,nedelja,10/18/20,4:00 PM,16,Paços Ferreira,3,Santa Clara,2,1,Portugal,20
+4,nedelja,10/18/20,4:00 PM,10,Belenenses SAD,7,Moreirense ,0,0,Portugal,20
+4,nedelja,10/18/20,6:30 PM,18,Farense,9,Famalicão,3,3,Portugal,20
+4,nedelja,10/18/20,9:00 PM,13,Rio Ave FC,1,Benfica,0,3,Portugal,20
+4,ponedeljek,10/19/20,9:15 PM,14,Boavista,11,Vit. Guimarães,0,1,Portugal,20
+5,petek,10/23/20,9:30 PM,16,Tondela,14,Portimonense,1,0,Portugal,20
+5,sobota,10/24/20,4:30 PM,12,Nacional,13,Paços Ferreira,1,1,Portugal,20
+5,sobota,10/24/20,7:00 PM,4,Santa Clara,2,Sporting CP,1,2,Portugal,20
+5,sobota,10/24/20,9:30 PM,3,FC Porto,8,Gil Vicente,1,0,Portugal,20
+5,nedelja,10/25/20,4:00 PM,11,Moreirense ,7,Marítimo,2,1,Portugal,20
+5,nedelja,10/25/20,4:00 PM,18,Farense,15,Rio Ave FC,0,1,Portugal,20
+5,nedelja,10/25/20,6:30 PM,9,Famalicão,17,Boavista,2,2,Portugal,20
+5,nedelja,10/25/20,9:00 PM,5,Vit. Guimarães,6,SC Braga,0,1,Portugal,20
+5,ponedeljek,10/26/20,9:15 PM,1,Benfica,10,Belenenses SAD,2,0,Portugal,20
+6,petek,10/30/20,9:30 PM,12,Paços Ferreira,3,FC Porto,3,2,Portugal,20
+6,sobota,10/31/20,4:30 PM,13,Belenenses SAD,18,Farense,1,1,Portugal,20
+6,sobota,10/31/20,7:00 PM,10,Rio Ave FC,5,Moreirense ,2,0,Portugal,20
+6,sobota,10/31/20,9:30 PM,9,Marítimo,8,Nacional,0,0,Portugal,20
+6,nedelja,11/1/20,4:00 PM,16,Portimonense,6,Santa Clara,1,2,Portugal,20
+6,nedelja,11/1/20,6:30 PM,15,Gil Vicente,7,Vit. Guimarães,1,2,Portugal,20
+6,nedelja,11/1/20,9:00 PM,2,Sporting CP,14,Tondela,4,0,Portugal,20
+6,ponedeljek,11/2/20,7:45 PM,4,SC Braga,11,Famalicão,1,0,Portugal,20
+6,ponedeljek,11/2/20,10:00 PM,17,Boavista,1,Benfica,3,0,Portugal,20
+7,petek,11/6/20,9:30 PM,14,Belenenses SAD,7,Rio Ave FC,0,0,Portugal,20
+7,sobota,11/7/20,4:00 PM,15,Tondela,5,Santa Clara,2,0,Portugal,20
+7,sobota,11/7/20,7:00 PM,12,Famalicão,11,Marítimo,2,1,Portugal,20
+7,sobota,11/7/20,9:30 PM,6,Vit. Guimarães,1,Sporting CP,0,4,Portugal,20
+7,nedelja,11/8/20,4:00 PM,10,Nacional,16,Gil Vicente,2,1,Portugal,20
+7,nedelja,11/8/20,4:00 PM,18,Farense,13,Boavista,3,1,Portugal,20
+7,nedelja,11/8/20,6:30 PM,4,FC Porto,17,Portimonense,3,1,Portugal,20
+7,nedelja,11/8/20,9:00 PM,2,Benfica,3,SC Braga,2,3,Portugal,20
+7,torek,12/1/20,10:45 PM,9,Moreirense ,8,Paços Ferreira,0,1,Portugal,20
+8,petek,11/27/20,8:00 PM,5,Paços Ferreira,10,Famalicão,2,0,Portugal,20
+8,petek,11/27/20,10:00 PM,12,Tondela,9,Vit. Guimarães,0,2,Portugal,20
+8,sobota,11/28/20,8:00 PM,7,Santa Clara,4,FC Porto,0,1,Portugal,20
+8,sobota,11/28/20,9:30 PM,1,Sporting CP,11,Moreirense ,2,1,Portugal,20
+8,nedelja,11/29/20,4:00 PM,17,Gil Vicente,8,Rio Ave FC,2,0,Portugal,20
+8,nedelja,11/29/20,4:00 PM,18,Portimonense,6,Nacional,1,0,Portugal,20
+8,nedelja,11/29/20,6:30 PM,15,Boavista,13,Belenenses SAD,0,0,Portugal,20
+8,nedelja,11/29/20,9:00 PM,2,SC Braga,16,Farense,1,0,Portugal,20
+8,ponedeljek,11/30/20,8:00 PM,14,Marítimo,3,Benfica,1,2,Portugal,20
+9,sobota,12/5/20,4:30 PM,6,Vit. Guimarães,16,Portimonense,1,0,Portugal,20
+9,sobota,12/5/20,4:30 PM,14,Moreirense ,12,Gil Vicente,1,1,Portugal,20
+9,sobota,12/5/20,7:00 PM,10,Famalicão,1,Sporting CP,2,2,Portugal,20
+9,sobota,12/5/20,9:30 PM,4,FC Porto,11,Tondela,4,3,Portugal,20
+9,nedelja,12/6/20,4:00 PM,7,Nacional,8,Santa Clara,1,3,Portugal,20
+9,nedelja,12/6/20,6:30 PM,9,Rio Ave FC,15,Boavista,0,0,Portugal,20
+9,nedelja,12/6/20,9:00 PM,13,Belenenses SAD,2,SC Braga,2,1,Portugal,20
+9,nedelja,12/6/20,9:00 PM,3,Benfica,5,Paços Ferreira,2,1,Portugal,20
+9,ponedeljek,12/7/20,9:15 PM,18,Farense,17,Marítimo,2,1,Portugal,20
+10,petek,12/18/20,9:30 PM,17,Portimonense,11,Famalicão,0,0,Portugal,20
+10,sobota,12/19/20,4:00 PM,18,Marítimo,8,Belenenses SAD,1,0,Portugal,20
+10,sobota,12/19/20,7:00 PM,14,Tondela,13,Moreirense ,0,0,Portugal,20
+10,sobota,12/19/20,9:30 PM,1,Sporting CP,15,Farense,1,0,Portugal,20
+10,nedelja,12/20/20,4:00 PM,6,Paços Ferreira,16,Boavista,1,1,Portugal,20
+10,nedelja,12/20/20,6:30 PM,12,Gil Vicente,2,Benfica,0,2,Portugal,20
+10,nedelja,12/20/20,9:00 PM,3,FC Porto,10,Nacional,2,0,Portugal,20
+10,ponedeljek,12/21/20,9:15 PM,7,Santa Clara,5,Vit. Guimarães,0,4,Portugal,20
+10,torek,12/22/20,9:15 PM,4,SC Braga,9,Rio Ave FC,3,0,Portugal,20
+11,nedelja,12/27/20,4:00 PM,8,Famalicão,16,Gil Vicente,0,1,Portugal,20
+11,nedelja,12/27/20,4:00 PM,12,Nacional,15,Tondela,2,0,Portugal,20
+11,nedelja,12/27/20,6:30 PM,17,Farense,6,Paços Ferreira,1,1,Portugal,20
+11,nedelja,12/27/20,9:00 PM,10,Belenenses SAD,1,Sporting CP,1,2,Portugal,20
+11,ponedeljek,12/28/20,7:45 PM,9,Rio Ave FC,13,Marítimo,1,3,Portugal,20
+11,ponedeljek,12/28/20,10:00 PM,14,Boavista,4,SC Braga,1,4,Portugal,20
+11,torek,12/29/20,7:00 PM,2,Benfica,18,Portimonense,2,1,Portugal,20
+11,torek,12/29/20,7:45 PM,11,Moreirense ,7,Santa Clara,1,0,Portugal,20
+11,torek,12/29/20,10:00 PM,5,Vit. Guimarães,3,FC Porto,2,3,Portugal,20
+12,sobota,1/2/21,7:00 PM,1,Sporting CP,4,SC Braga,2,0,Portugal,20
+12,nedelja,1/3/21,2:00 PM,15,Tondela,12,Famalicão,1,0,Portugal,20
+12,nedelja,1/3/21,4:00 PM,10,Marítimo,17,Boavista,0,0,Portugal,20
+12,nedelja,1/3/21,8:00 PM,6,Paços Ferreira,13,Rio Ave FC,2,0,Portugal,20
+12,nedelja,1/3/21,10:00 PM,3,FC Porto,8,Moreirense ,3,0,Portugal,20
+12,ponedeljek,1/4/21,6:00 PM,7,Santa Clara,2,Benfica,1,1,Portugal,20
+12,ponedeljek,1/4/21,8:00 PM,11,Gil Vicente,14,Belenenses SAD,0,0,Portugal,20
+12,ponedeljek,1/4/21,10:15 PM,18,Portimonense,16,Farense,2,0,Portugal,20
+12,četrtek,1/21/21,9:15 PM,5,Vit. Guimarães,9,Nacional,3,1,Portugal,20
+13,četrtek,1/7/21,10:00 PM,4,SC Braga,8,Marítimo,2,1,Portugal,20
+13,petek,1/8/21,7:00 PM,9,Nacional,1,Sporting CP,0,2,Portugal,20
+13,petek,1/8/21,8:00 PM,15,Rio Ave FC,16,Portimonense,3,0,Portugal,20
+13,petek,1/8/21,8:00 PM,3,Benfica,13,Tondela,2,0,Portugal,20
+13,petek,1/8/21,10:00 PM,14,Famalicão,2,FC Porto,1,4,Portugal,20
+13,sobota,1/9/21,6:00 PM,10,Moreirense ,5,Vit. Guimarães,2,2,Portugal,20
+13,sobota,1/9/21,9:30 PM,17,Boavista,7,Santa Clara,1,1,Portugal,20
+13,nedelja,1/10/21,4:00 PM,18,Farense,11,Gil Vicente,3,1,Portugal,20
+13,nedelja,1/10/21,9:00 PM,12,Belenenses SAD,6,Paços Ferreira,0,2,Portugal,20
+14,petek,1/15/21,7:30 PM,1,Sporting CP,9,Rio Ave FC,1,1,Portugal,20
+14,petek,1/15/21,10:00 PM,2,FC Porto,3,Benfica,1,1,Portugal,20
+14,sobota,1/16/21,4:30 PM,6,Paços Ferreira,4,SC Braga,2,0,Portugal,20
+14,sobota,1/16/21,9:30 PM,13,Tondela,17,Boavista,3,1,Portugal,20
+14,nedelja,1/17/21,4:00 PM,11,Nacional,10,Moreirense ,0,1,Portugal,20
+14,nedelja,1/17/21,6:30 PM,7,Santa Clara,16,Famalicão,1,2,Portugal,20
+14,nedelja,1/17/21,9:00 PM,12,Gil Vicente,8,Marítimo,0,1,Portugal,20
+14,ponedeljek,1/18/21,9:15 PM,18,Portimonense,15,Belenenses SAD,1,0,Portugal,20
+14,sreda,2/17/21,10:45 PM,5,Vit. Guimarães,14,Farense,2,2,Portugal,20
+15,nedelja,1/24/21,4:00 PM,8,Marítimo,5,Paços Ferreira,0,3,Portugal,20
+15,nedelja,1/24/21,6:30 PM,7,Moreirense ,12,Portimonense,2,2,Portugal,20
+15,nedelja,1/24/21,9:15 PM,13,Famalicão,6,Vit. Guimarães,0,1,Portugal,20
+15,ponedeljek,1/25/21,3:30 PM,17,Belenenses SAD,9,Tondela,2,0,Portugal,20
+15,ponedeljek,1/25/21,5:30 PM,10,Rio Ave FC,11,Santa Clara,1,2,Portugal,20
+15,ponedeljek,1/25/21,6:00 PM,2,Benfica,14,Nacional,1,1,Portugal,20
+15,ponedeljek,1/25/21,9:15 PM,15,Farense,3,FC Porto,0,1,Portugal,20
+15,torek,1/26/21,8:45 PM,4,SC Braga,16,Gil Vicente,1,0,Portugal,20
+15,torek,1/26/21,10:15 PM,18,Boavista,1,Sporting CP,0,2,Portugal,20
+16,sobota,1/30/21,4:30 PM,14,Nacional,15,Famalicão,2,1,Portugal,20
+16,sobota,1/30/21,7:00 PM,12,Tondela,16,Farense,2,0,Portugal,20
+16,sobota,1/30/21,9:30 PM,13,Portimonense,18,Boavista,1,2,Portugal,20
+16,nedelja,1/31/21,4:00 PM,6,Vit. Guimarães,9,Marítimo,1,0,Portugal,20
+16,ponedeljek,2/1/21,6:00 PM,8,Santa Clara,11,Belenenses SAD,2,0,Portugal,20
+16,ponedeljek,2/1/21,8:00 PM,2,FC Porto,10,Rio Ave FC,2,0,Portugal,20
+16,ponedeljek,2/1/21,8:45 PM,7,Moreirense ,4,SC Braga,0,4,Portugal,20
+16,ponedeljek,2/1/21,10:30 PM,1,Sporting CP,3,Benfica,1,0,Portugal,20
+16,torek,2/2/21,9:15 PM,17,Gil Vicente,5,Paços Ferreira,1,2,Portugal,20
+17,četrtek,2/4/21,4:00 PM,17,Farense,7,Santa Clara,1,1,Portugal,20
+17,četrtek,2/4/21,8:00 PM,14,Belenenses SAD,2,FC Porto,0,0,Portugal,20
+17,četrtek,2/4/21,10:00 PM,3,SC Braga,13,Portimonense,2,1,Portugal,20
+17,četrtek,2/4/21,10:30 PM,16,Famalicão,8,Moreirense ,0,2,Portugal,20
+17,petek,2/5/21,6:00 PM,12,Rio Ave FC,11,Nacional,0,0,Portugal,20
+17,petek,2/5/21,8:00 PM,4,Benfica,6,Vit. Guimarães,0,0,Portugal,20
+17,petek,2/5/21,8:00 PM,10,Marítimo,1,Sporting CP,0,2,Portugal,20
+17,petek,2/5/21,10:00 PM,5,Paços Ferreira,9,Tondela,2,1,Portugal,20
+17,petek,2/5/21,10:00 PM,15,Boavista,18,Gil Vicente,1,2,Portugal,20
+18,nedelja,2/7/21,9:45 PM,3,SC Braga,2,FC Porto,2,2,Portugal,20
+18,ponedeljek,2/8/21,6:00 PM,16,Farense,8,Moreirense ,1,2,Portugal,20
+18,ponedeljek,2/8/21,8:00 PM,4,Benfica,17,Famalicão,2,0,Portugal,20
+18,ponedeljek,2/8/21,8:00 PM,11,Marítimo,7,Santa Clara,1,2,Portugal,20
+18,ponedeljek,2/8/21,10:00 PM,13,Belenenses SAD,6,Vit. Guimarães,1,1,Portugal,20
+18,torek,2/9/21,4:00 PM,5,Paços Ferreira,15,Portimonense,0,0,Portugal,20
+18,torek,2/9/21,6:00 PM,14,Rio Ave FC,10,Tondela,2,1,Portugal,20
+18,torek,2/9/21,8:00 PM,18,Boavista,9,Nacional,0,1,Portugal,20
+18,torek,2/9/21,10:00 PM,12,Gil Vicente,1,Sporting CP,1,2,Portugal,20
+19,petek,2/12/21,9:30 PM,17,Famalicão,13,Belenenses SAD,0,0,Portugal,20
+19,sobota,2/13/21,4:30 PM,9,Nacional,16,Farense,2,3,Portugal,20
+19,sobota,2/13/21,7:00 PM,6,Vit. Guimarães,10,Rio Ave FC,1,3,Portugal,20
+19,sobota,2/13/21,9:30 PM,2,FC Porto,18,Boavista,2,2,Portugal,20
+19,nedelja,2/14/21,4:00 PM,15,Portimonense,14,Gil Vicente,4,1,Portugal,20
+19,nedelja,2/14/21,6:30 PM,7,Santa Clara,3,SC Braga,0,1,Portugal,20
+19,nedelja,2/14/21,9:15 PM,8,Moreirense ,4,Benfica,1,1,Portugal,20
+19,ponedeljek,2/15/21,9:15 PM,1,Sporting CP,5,Paços Ferreira,2,0,Portugal,20
+19,torek,2/16/21,6:45 PM,11,Tondela,12,Marítimo,2,1,Portugal,20
+20,petek,2/19/21,9:30 PM,17,Boavista,7,Moreirense ,1,0,Portugal,20
+20,sobota,2/20/21,4:30 PM,13,Belenenses SAD,10,Nacional,2,1,Portugal,20
+20,sobota,2/20/21,6:30 PM,16,Gil Vicente,8,Santa Clara,1,0,Portugal,20
+20,sobota,2/20/21,9:30 PM,1,Sporting CP,12,Portimonense,2,0,Portugal,20
+20,nedelja,2/21/21,4:00 PM,9,Rio Ave FC,18,Famalicão,0,1,Portugal,20
+20,nedelja,2/21/21,4:00 PM,5,Paços Ferreira,6,Vit. Guimarães,2,1,Portugal,20
+20,nedelja,2/21/21,7:00 PM,3,SC Braga,11,Tondela,4,2,Portugal,20
+20,nedelja,2/21/21,9:15 PM,14,Farense,4,Benfica,0,0,Portugal,20
+20,ponedeljek,2/22/21,8:00 PM,15,Marítimo,2,FC Porto,1,2,Portugal,20
+21,petek,2/26/21,9:30 PM,6,Vit. Guimarães,17,Boavista,2,1,Portugal,20
+21,sobota,2/27/21,4:30 PM,16,Famalicão,15,Farense,0,0,Portugal,20
+21,sobota,2/27/21,7:00 PM,8,Santa Clara,5,Paços Ferreira,3,0,Portugal,20
+21,sobota,2/27/21,9:30 PM,2,FC Porto,1,Sporting CP,0,0,Portugal,20
+21,nedelja,2/28/21,4:00 PM,13,Portimonense,18,Marítimo,0,0,Portugal,20
+21,nedelja,2/28/21,6:30 PM,12,Tondela,14,Gil Vicente,1,0,Portugal,20
+21,nedelja,2/28/21,9:00 PM,11,Nacional,3,SC Braga,1,2,Portugal,20
+21,ponedeljek,3/1/21,8:00 PM,4,Benfica,9,Rio Ave FC,2,0,Portugal,20
+21,ponedeljek,3/1/21,9:15 PM,7,Moreirense ,10,Belenenses SAD,2,2,Portugal,20
+22,petek,3/5/21,7:30 PM,5,Paços Ferreira,12,Nacional,2,1,Portugal,20
+22,petek,3/5/21,9:45 PM,1,Sporting CP,7,Santa Clara,2,1,Portugal,20
+22,sobota,3/6/21,4:30 PM,13,Portimonense,9,Tondela,3,0,Portugal,20
+22,sobota,3/6/21,7:00 PM,15,Gil Vicente,3,FC Porto,0,2,Portugal,20
+22,sobota,3/6/21,9:30 PM,18,Boavista,16,Famalicão,3,0,Portugal,20
+22,nedelja,3/7/21,6:30 PM,17,Marítimo,8,Moreirense ,0,2,Portugal,20
+22,nedelja,3/7/21,9:00 PM,11,Rio Ave FC,14,Farense,2,0,Portugal,20
+22,ponedeljek,3/8/21,9:15 PM,10,Belenenses SAD,4,Benfica,0,3,Portugal,20
+22,torek,3/9/21,10:45 PM,2,SC Braga,6,Vit. Guimarães,3,0,Portugal,20
+23,petek,3/12/21,9:30 PM,13,Nacional,18,Marítimo,1,2,Portugal,20
+23,sobota,3/13/21,4:30 PM,15,Farense,12,Belenenses SAD,0,1,Portugal,20
+23,sobota,3/13/21,7:00 PM,4,Benfica,14,Boavista,2,0,Portugal,20
+23,sobota,3/13/21,7:00 PM,8,Santa Clara,11,Portimonense,2,0,Portugal,20
+23,sobota,3/13/21,9:30 PM,10,Tondela,1,Sporting CP,0,1,Portugal,20
+23,nedelja,3/14/21,4:00 PM,7,Moreirense ,9,Rio Ave FC,1,1,Portugal,20
+23,nedelja,3/14/21,6:30 PM,6,Vit. Guimarães,16,Gil Vicente,2,4,Portugal,20
+23,nedelja,3/14/21,9:00 PM,3,FC Porto,5,Paços Ferreira,2,0,Portugal,20
+23,ponedeljek,3/15/21,9:15 PM,17,Famalicão,2,SC Braga,2,2,Portugal,20
+24,petek,3/19/21,9:30 PM,13,Gil Vicente,15,Nacional,2,0,Portugal,20
+24,sobota,3/20/21,4:30 PM,5,Paços Ferreira,8,Moreirense ,3,0,Portugal,20
+24,sobota,3/20/21,4:30 PM,7,Santa Clara,11,Tondela,1,1,Portugal,20
+24,sobota,3/20/21,7:00 PM,12,Portimonense,2,FC Porto,1,2,Portugal,20
+24,sobota,3/20/21,9:30 PM,1,Sporting CP,6,Vit. Guimarães,1,0,Portugal,20
+24,nedelja,3/21/21,4:00 PM,9,Rio Ave FC,10,Belenenses SAD,0,0,Portugal,20
+24,nedelja,3/21/21,6:30 PM,16,Boavista,18,Farense,0,1,Portugal,20
+24,nedelja,3/21/21,6:30 PM,14,Marítimo,17,Famalicão,0,4,Portugal,20
+24,nedelja,3/21/21,9:00 PM,3,SC Braga,4,Benfica,0,2,Portugal,20
+25,petek,4/2/21,9:30 PM,17,Nacional,13,Portimonense,1,5,Portugal,20
+25,sobota,4/3/21,7:00 PM,9,Rio Ave FC,12,Gil Vicente,0,2,Portugal,20
+25,sobota,4/3/21,9:30 PM,2,FC Porto,7,Santa Clara,2,1,Portugal,20
+25,nedelja,4/4/21,4:00 PM,10,Belenenses SAD,18,Boavista,0,2,Portugal,20
+25,nedelja,4/4/21,6:30 PM,6,Vit. Guimarães,11,Tondela,1,2,Portugal,20
+25,nedelja,4/4/21,9:00 PM,14,Famalicão,5,Paços Ferreira,2,0,Portugal,20
+25,ponedeljek,4/5/21,7:45 PM,15,Farense,4,SC Braga,1,2,Portugal,20
+25,ponedeljek,4/5/21,8:00 PM,3,Benfica,16,Marítimo,1,0,Portugal,20
+25,ponedeljek,4/5/21,10:00 PM,8,Moreirense ,1,Sporting CP,1,1,Portugal,20
+26,petek,4/9/21,9:00 PM,13,Portimonense,6,Vit. Guimarães,3,0,Portugal,20
+26,sobota,4/10/21,4:00 PM,17,Marítimo,16,Farense,1,0,Portugal,20
+26,sobota,4/10/21,4:30 PM,15,Boavista,11,Rio Ave FC,3,3,Portugal,20
+26,sobota,4/10/21,7:00 PM,9,Tondela,2,FC Porto,0,2,Portugal,20
+26,sobota,4/10/21,9:30 PM,5,Paços Ferreira,3,Benfica,0,5,Portugal,20
+26,nedelja,4/11/21,4:00 PM,10,Gil Vicente,8,Moreirense ,1,2,Portugal,20
+26,nedelja,4/11/21,4:30 PM,7,Santa Clara,18,Nacional,5,1,Portugal,20
+26,nedelja,4/11/21,6:30 PM,4,SC Braga,14,Belenenses SAD,1,1,Portugal,20
+26,nedelja,4/11/21,9:00 PM,1,Sporting CP,12,Famalicão,1,1,Portugal,20
+27,petek,4/16/21,7:45 PM,15,Boavista,5,Paços Ferreira,2,0,Portugal,20
+27,petek,4/16/21,10:00 PM,17,Farense,1,Sporting CP,0,1,Portugal,20
+27,sobota,4/17/21,4:30 PM,8,Moreirense ,11,Tondela,2,3,Portugal,20
+27,sobota,4/17/21,4:30 PM,6,Vit. Guimarães,7,Santa Clara,1,0,Portugal,20
+27,sobota,4/17/21,7:00 PM,3,Benfica,10,Gil Vicente,1,2,Portugal,20
+27,sobota,4/17/21,7:00 PM,14,Belenenses SAD,16,Marítimo,2,0,Portugal,20
+27,sobota,4/17/21,9:30 PM,12,Rio Ave FC,4,SC Braga,0,0,Portugal,20
+27,nedelja,4/18/21,4:00 PM,13,Famalicão,9,Portimonense,0,1,Portugal,20
+27,nedelja,4/18/21,6:30 PM,18,Nacional,2,FC Porto,0,1,Portugal,20
+28,torek,4/20/21,9:00 PM,5,Paços Ferreira,17,Farense,0,2,Portugal,20
+28,sreda,4/21/21,4:30 PM,7,Santa Clara,8,Moreirense ,0,0,Portugal,20
+28,sreda,4/21/21,6:00 PM,16,Marítimo,13,Rio Ave FC,1,0,Portugal,20
+28,sreda,4/21/21,8:00 PM,4,SC Braga,14,Boavista,2,1,Portugal,20
+28,sreda,4/21/21,10:15 PM,1,Sporting CP,12,Belenenses SAD,2,2,Portugal,20
+28,četrtek,4/22/21,4:00 PM,10,Tondela,18,Nacional,2,1,Portugal,20
+28,četrtek,4/22/21,6:00 PM,11,Gil Vicente,15,Famalicão,0,3,Portugal,20
+28,četrtek,4/22/21,8:00 PM,9,Portimonense,3,Benfica,1,5,Portugal,20
+28,četrtek,4/22/21,10:00 PM,2,FC Porto,6,Vit. Guimarães,1,0,Portugal,20
+29,nedelja,4/25/21,4:00 PM,15,Boavista,16,Marítimo,0,1,Portugal,20
+29,nedelja,4/25/21,6:30 PM,14,Rio Ave FC,5,Paços Ferreira,1,1,Portugal,20
+29,nedelja,4/25/21,9:00 PM,4,SC Braga,1,Sporting CP,0,1,Portugal,20
+29,ponedeljek,4/26/21,6:00 PM,11,Belenenses SAD,12,Gil Vicente,2,1,Portugal,20
+29,ponedeljek,4/26/21,8:00 PM,13,Famalicão,9,Tondela,2,2,Portugal,20
+29,ponedeljek,4/26/21,8:00 PM,3,Benfica,7,Santa Clara,2,1,Portugal,20
+29,ponedeljek,4/26/21,8:00 PM,18,Nacional,6,Vit. Guimarães,1,0,Portugal,20
+29,ponedeljek,4/26/21,10:15 PM,8,Moreirense ,2,FC Porto,1,1,Portugal,20
+29,torek,4/27/21,10:45 PM,17,Farense,10,Portimonense,1,1,Portugal,20
+30,četrtek,4/29/21,9:30 PM,14,Marítimo,4,SC Braga,1,0,Portugal,20
+30,petek,4/30/21,4:00 PM,5,Paços Ferreira,10,Belenenses SAD,1,0,Portugal,20
+30,petek,4/30/21,6:00 PM,6,Vit. Guimarães,7,Moreirense ,2,0,Portugal,20
+30,petek,4/30/21,8:00 PM,9,Tondela,3,Benfica,0,2,Portugal,20
+30,petek,4/30/21,10:15 PM,2,FC Porto,12,Famalicão,3,2,Portugal,20
+30,sobota,5/1/21,4:30 PM,13,Gil Vicente,17,Farense,0,0,Portugal,20
+30,sobota,5/1/21,7:00 PM,8,Santa Clara,16,Boavista,3,3,Portugal,20
+30,sobota,5/1/21,7:00 PM,11,Portimonense,15,Rio Ave FC,0,0,Portugal,20
+30,sobota,5/1/21,9:30 PM,1,Sporting CP,18,Nacional,2,0,Portugal,20
+31,sreda,5/5/21,8:00 PM,12,Marítimo,13,Gil Vicente,0,1,Portugal,20
+31,sreda,5/5/21,8:00 PM,4,SC Braga,5,Paços Ferreira,1,1,Portugal,20
+31,sreda,5/5/21,10:15 PM,15,Rio Ave FC,1,Sporting CP,0,2,Portugal,20
+31,četrtek,5/6/21,4:00 PM,8,Moreirense ,18,Nacional,2,2,Portugal,20
+31,četrtek,5/6/21,6:00 PM,11,Belenenses SAD,10,Portimonense,1,0,Portugal,20
+31,četrtek,5/6/21,7:30 PM,3,Benfica,2,FC Porto,1,1,Portugal,20
+31,četrtek,5/6/21,9:30 PM,17,Farense,6,Vit. Guimarães,2,2,Portugal,20
+31,petek,5/7/21,8:00 PM,14,Famalicão,7,Santa Clara,1,0,Portugal,20
+31,petek,5/7/21,10:15 PM,16,Boavista,9,Tondela,1,1,Portugal,20
+32,nedelja,5/9/21,4:00 PM,5,Paços Ferreira,14,Marítimo,1,1,Portugal,20
+32,nedelja,5/9/21,9:00 PM,11,Gil Vicente,4,SC Braga,1,1,Portugal,20
+32,ponedeljek,5/10/21,7:00 PM,12,Portimonense,7,Moreirense ,1,2,Portugal,20
+32,ponedeljek,5/10/21,9:15 PM,2,FC Porto,17,Farense,5,1,Portugal,20
+32,torek,5/11/21,5:00 PM,8,Santa Clara,15,Rio Ave FC,1,0,Portugal,20
+32,torek,5/11/21,5:00 PM,10,Tondela,9,Belenenses SAD,1,3,Portugal,20
+32,torek,5/11/21,7:00 PM,18,Nacional,3,Benfica,1,3,Portugal,20
+32,torek,5/11/21,9:30 PM,1,Sporting CP,16,Boavista,1,0,Portugal,20
+32,sreda,5/12/21,9:15 PM,6,Vit. Guimarães,13,Famalicão,1,2,Portugal,20
+33,petek,5/14/21,8:00 PM,5,Paços Ferreira,12,Gil Vicente,0,2,Portugal,20
+33,petek,5/14/21,10:15 PM,4,SC Braga,7,Moreirense ,2,1,Portugal,20
+33,sobota,5/15/21,4:30 PM,16,Boavista,13,Portimonense,1,0,Portugal,20
+33,sobota,5/15/21,4:30 PM,17,Farense,11,Tondela,1,0,Portugal,20
+33,sobota,5/15/21,7:00 PM,3,Benfica,1,Sporting CP,4,3,Portugal,20
+33,sobota,5/15/21,9:30 PM,15,Rio Ave FC,2,FC Porto,0,3,Portugal,20
+33,nedelja,5/16/21,4:00 PM,10,Famalicão,18,Nacional,3,0,Portugal,20
+33,nedelja,5/16/21,6:00 PM,9,Belenenses SAD,8,Santa Clara,0,2,Portugal,20
+33,nedelja,5/16/21,9:00 PM,14,Marítimo,6,Vit. Guimarães,0,0,Portugal,20
+34,torek,5/18/21,9:15 PM,12,Tondela,5,Paços Ferreira,2,3,Portugal,20
+34,sreda,5/19/21,7:00 PM,2,FC Porto,10,Belenenses SAD,4,0,Portugal,20
+34,sreda,5/19/21,9:00 PM,14,Portimonense,4,SC Braga,0,0,Portugal,20
+34,sreda,5/19/21,9:00 PM,7,Santa Clara,17,Farense,4,0,Portugal,20
+34,sreda,5/19/21,9:00 PM,18,Nacional,16,Rio Ave FC,1,2,Portugal,20
+34,sreda,5/19/21,9:00 PM,8,Moreirense ,9,Famalicão,3,0,Portugal,20
+34,sreda,5/19/21,9:00 PM,6,Vit. Guimarães,3,Benfica,1,3,Portugal,20
+34,sreda,5/19/21,9:00 PM,11,Gil Vicente,15,Boavista,1,2,Portugal,20
+34,sreda,5/19/21,10:45 PM,1,Sporting CP,13,Marítimo,5,1,Portugal,20

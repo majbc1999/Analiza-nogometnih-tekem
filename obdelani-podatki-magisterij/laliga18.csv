@@ -1,0 +1,381 @@
+kolo,dan,datum,ura,lestvica_domaci,domaca_ekipa,lestvica_gostje,gostujoca_ekipa,zadetki_domaci,zadetki_gostje,drzava,sezona
+1,petek,8/17/18,8:15 PM,12,Girona,13,Real Valladolid,0,0,Spain,18
+1,petek,8/17/18,10:15 PM,20,Real Betis,3,Levante,0,3,Spain,18
+1,sobota,8/18/18,6:15 PM,9,Celta de Vigo,10,Espanyol,1,1,Spain,18
+1,sobota,8/18/18,8:15 PM,16,Villarreal,6,Real Sociedad,1,2,Spain,18
+1,sobota,8/18/18,10:15 PM,2,Barcelona,19,Alavés,3,0,Spain,18
+1,nedelja,8/19/18,6:15 PM,15,SD Eibar,7,SD Huesca,1,2,Spain,18
+1,nedelja,8/19/18,8:15 PM,18,Rayo Vallecano,1,Sevilla FC,1,4,Spain,18
+1,nedelja,8/19/18,10:15 PM,4,Real Madrid,17,Getafe,2,0,Spain,18
+1,ponedeljek,8/20/18,8:00 PM,11,Valencia,8,Atlético Madrid,1,1,Spain,18
+1,ponedeljek,8/20/18,10:00 PM,5,Athletic,14,CD Leganés,2,1,Spain,18
+2,petek,8/24/18,8:15 PM,17,Getafe,15,SD Eibar,2,0,Spain,18
+2,petek,8/24/18,10:15 PM,14,CD Leganés,6,Real Sociedad,2,2,Spain,18
+2,sobota,8/25/18,6:15 PM,19,Alavés,20,Real Betis,0,0,Spain,18
+2,sobota,8/25/18,8:15 PM,8,Atlético Madrid,18,Rayo Vallecano,1,0,Spain,18
+2,sobota,8/25/18,10:15 PM,13,Real Valladolid,2,Barcelona,0,1,Spain,18
+2,nedelja,8/26/18,6:15 PM,10,Espanyol,11,Valencia,2,0,Spain,18
+2,nedelja,8/26/18,10:15 PM,12,Girona,4,Real Madrid,1,4,Spain,18
+2,nedelja,8/26/18,10:15 PM,1,Sevilla FC,16,Villarreal,0,0,Spain,18
+2,ponedeljek,8/27/18,8:15 PM,3,Levante,9,Celta de Vigo,1,2,Spain,18
+2,ponedeljek,8/27/18,10:00 PM,5,Athletic,7,SD Huesca,2,2,Spain,18
+3,petek,8/31/18,8:00 PM,11,Getafe,14,Real Valladolid,0,0,Spain,18
+3,petek,8/31/18,10:00 PM,19,SD Eibar,4,Real Sociedad,2,1,Spain,18
+3,petek,8/31/18,10:00 PM,13,Villarreal,16,Girona,0,1,Spain,18
+3,sobota,9/1/18,6:30 PM,9,Celta de Vigo,5,Atlético Madrid,2,0,Spain,18
+3,sobota,9/1/18,8:45 PM,1,Real Madrid,12,CD Leganés,4,1,Spain,18
+3,nedelja,9/2/18,12:00 PM,10,Levante,15,Valencia,2,2,Spain,18
+3,nedelja,9/2/18,4:15 PM,17,Alavés,8,Espanyol,2,1,Spain,18
+3,nedelja,9/2/18,6:30 PM,2,Barcelona,6,SD Huesca,8,2,Spain,18
+3,nedelja,9/2/18,8:45 PM,18,Real Betis,3,Sevilla FC,1,0,Spain,18
+3,sreda,10/24/18,7:00 PM,20,Rayo Vallecano,7,Athletic,1,1,Spain,18
+4,petek,9/14/18,9:00 PM,9,SD Huesca,20,Rayo Vallecano,0,1,Spain,18
+4,sobota,9/15/18,1:00 PM,7,Atlético Madrid,15,SD Eibar,1,1,Spain,18
+4,sobota,9/15/18,4:15 PM,5,Real Sociedad,1,Barcelona,1,2,Spain,18
+4,sobota,9/15/18,6:30 PM,17,Valencia,11,Real Betis,0,0,Spain,18
+4,sobota,9/15/18,8:45 PM,4,Athletic,2,Real Madrid,1,1,Spain,18
+4,nedelja,9/16/18,12:00 PM,19,CD Leganés,18,Villarreal,0,1,Spain,18
+4,nedelja,9/16/18,4:15 PM,13,Espanyol,12,Levante,1,0,Spain,18
+4,nedelja,9/16/18,6:30 PM,16,Real Valladolid,10,Alavés,0,1,Spain,18
+4,nedelja,9/16/18,8:45 PM,14,Sevilla FC,6,Getafe,0,2,Spain,18
+4,ponedeljek,9/17/18,9:00 PM,8,Girona,3,Celta de Vigo,3,2,Spain,18
+5,petek,9/21/18,9:00 PM,15,SD Huesca,13,Real Sociedad,0,1,Spain,18
+5,sobota,9/22/18,1:00 PM,16,Rayo Vallecano,7,Alavés,1,5,Spain,18
+5,sobota,9/22/18,4:15 PM,3,Celta de Vigo,19,Real Valladolid,3,3,Spain,18
+5,sobota,9/22/18,4:15 PM,14,SD Eibar,20,CD Leganés,1,0,Spain,18
+5,sobota,9/22/18,6:30 PM,5,Getafe,9,Atlético Madrid,0,2,Spain,18
+5,sobota,9/22/18,8:45 PM,2,Real Madrid,4,Espanyol,1,0,Spain,18
+5,nedelja,9/23/18,12:00 PM,11,Levante,12,Sevilla FC,2,6,Spain,18
+5,nedelja,9/23/18,4:15 PM,17,Villarreal,18,Valencia,0,0,Spain,18
+5,nedelja,9/23/18,8:00 PM,10,Real Betis,8,Athletic,2,2,Spain,18
+5,nedelja,9/23/18,8:45 PM,1,Barcelona,6,Girona,2,2,Spain,18
+6,torek,9/25/18,8:00 PM,8,Espanyol,10,SD Eibar,1,0,Spain,18
+6,torek,9/25/18,9:00 PM,11,Real Sociedad,15,Rayo Vallecano,2,2,Spain,18
+6,torek,9/25/18,10:00 PM,6,Atlético Madrid,18,SD Huesca,3,0,Spain,18
+6,sreda,9/26/18,8:00 PM,7,Athletic,14,Villarreal,0,3,Spain,18
+6,sreda,9/26/18,8:00 PM,20,CD Leganés,1,Barcelona,2,1,Spain,18
+6,sreda,9/26/18,10:00 PM,16,Valencia,4,Celta de Vigo,1,1,Spain,18
+6,sreda,9/26/18,10:00 PM,12,Sevilla FC,2,Real Madrid,3,0,Spain,18
+6,četrtek,9/27/18,8:00 PM,3,Alavés,9,Getafe,1,1,Spain,18
+6,četrtek,9/27/18,8:00 PM,19,Real Valladolid,17,Levante,2,1,Spain,18
+6,četrtek,9/27/18,10:00 PM,5,Girona,13,Real Betis,0,1,Spain,18
+7,petek,9/28/18,9:00 PM,17,Rayo Vallecano,6,Espanyol,2,2,Spain,18
+7,sobota,9/29/18,1:00 PM,10,Real Sociedad,16,Valencia,0,1,Spain,18
+7,sobota,9/29/18,4:15 PM,1,Barcelona,13,Athletic,1,1,Spain,18
+7,sobota,9/29/18,6:30 PM,14,SD Eibar,5,Sevilla FC,1,3,Spain,18
+7,sobota,9/29/18,8:45 PM,2,Real Madrid,3,Atlético Madrid,0,0,Spain,18
+7,nedelja,9/30/18,12:00 PM,20,SD Huesca,11,Girona,1,1,Spain,18
+7,nedelja,9/30/18,4:15 PM,12,Villarreal,15,Real Valladolid,0,1,Spain,18
+7,nedelja,9/30/18,6:30 PM,18,Levante,4,Alavés,2,1,Spain,18
+7,nedelja,9/30/18,8:45 PM,8,Real Betis,19,CD Leganés,1,0,Spain,18
+7,ponedeljek,10/1/18,9:00 PM,7,Celta de Vigo,9,Getafe,1,1,Spain,18
+8,petek,10/5/18,9:00 PM,15,Athletic,14,Real Sociedad,1,3,Spain,18
+8,sobota,10/6/18,1:00 PM,10,Girona,17,SD Eibar,2,3,Spain,18
+8,sobota,10/6/18,4:15 PM,11,Getafe,16,Levante,0,1,Spain,18
+8,sobota,10/6/18,6:30 PM,6,Alavés,2,Real Madrid,1,0,Spain,18
+8,sobota,10/6/18,8:45 PM,20,CD Leganés,18,Rayo Vallecano,1,0,Spain,18
+8,nedelja,10/7/18,12:00 PM,9,Real Valladolid,19,SD Huesca,1,0,Spain,18
+8,nedelja,10/7/18,4:15 PM,4,Atlético Madrid,5,Real Betis,1,0,Spain,18
+8,nedelja,10/7/18,6:30 PM,7,Espanyol,12,Villarreal,3,1,Spain,18
+8,nedelja,10/7/18,6:30 PM,3,Sevilla FC,8,Celta de Vigo,2,1,Spain,18
+8,nedelja,10/7/18,8:45 PM,13,Valencia,1,Barcelona,1,1,Spain,18
+9,petek,10/19/18,9:00 PM,11,Celta de Vigo,4,Alavés,0,1,Spain,18
+9,sobota,10/20/18,1:00 PM,5,Real Madrid,12,Levante,1,2,Spain,18
+9,sobota,10/20/18,4:15 PM,14,Valencia,18,CD Leganés,1,1,Spain,18
+9,sobota,10/20/18,6:30 PM,16,Villarreal,3,Atlético Madrid,1,1,Spain,18
+9,sobota,10/20/18,8:45 PM,2,Barcelona,1,Sevilla FC,4,2,Spain,18
+9,nedelja,10/21/18,12:00 PM,19,Rayo Vallecano,13,Getafe,1,2,Spain,18
+9,nedelja,10/21/18,4:15 PM,10,SD Eibar,17,Athletic,1,1,Spain,18
+9,nedelja,10/21/18,6:30 PM,20,SD Huesca,6,Espanyol,0,2,Spain,18
+9,nedelja,10/21/18,8:45 PM,8,Real Betis,7,Real Valladolid,0,1,Spain,18
+9,ponedeljek,10/22/18,9:00 PM,9,Real Sociedad,15,Girona,0,0,Spain,18
+10,petek,10/26/18,9:00 PM,6,Real Valladolid,3,Espanyol,1,1,Spain,18
+10,sobota,10/27/18,1:00 PM,13,Girona,19,Rayo Vallecano,2,1,Spain,18
+10,sobota,10/27/18,4:15 PM,17,Athletic,14,Valencia,0,0,Spain,18
+10,sobota,10/27/18,6:30 PM,15,Celta de Vigo,12,SD Eibar,4,0,Spain,18
+10,sobota,10/27/18,6:30 PM,8,Levante,18,CD Leganés,2,0,Spain,18
+10,sobota,10/27/18,8:45 PM,5,Atlético Madrid,9,Real Sociedad,2,0,Spain,18
+10,nedelja,10/28/18,12:00 PM,10,Getafe,11,Real Betis,2,0,Spain,18
+10,nedelja,10/28/18,4:15 PM,1,Barcelona,7,Real Madrid,5,1,Spain,18
+10,nedelja,10/28/18,6:30 PM,2,Alavés,16,Villarreal,2,1,Spain,18
+10,nedelja,10/28/18,8:45 PM,4,Sevilla FC,20,SD Huesca,2,1,Spain,18
+11,sobota,11/3/18,1:00 PM,18,CD Leganés,4,Atlético Madrid,1,1,Spain,18
+11,sobota,11/3/18,4:15 PM,9,Real Madrid,6,Real Valladolid,2,0,Spain,18
+11,sobota,11/3/18,6:30 PM,14,Valencia,10,Girona,0,1,Spain,18
+11,sobota,11/3/18,8:45 PM,19,Rayo Vallecano,1,Barcelona,2,3,Spain,18
+11,nedelja,11/4/18,12:00 PM,15,SD Eibar,2,Alavés,2,1,Spain,18
+11,nedelja,11/4/18,4:15 PM,17,Villarreal,7,Levante,1,1,Spain,18
+11,nedelja,11/4/18,6:30 PM,12,Real Sociedad,3,Sevilla FC,0,0,Spain,18
+11,nedelja,11/4/18,6:30 PM,20,SD Huesca,8,Getafe,1,1,Spain,18
+11,nedelja,11/4/18,8:45 PM,13,Real Betis,11,Celta de Vigo,3,3,Spain,18
+11,ponedeljek,11/5/18,9:00 PM,5,Espanyol,16,Athletic,1,0,Spain,18
+12,petek,11/9/18,9:00 PM,6,Levante,13,Real Sociedad,1,3,Spain,18
+12,sobota,11/10/18,1:00 PM,8,Real Valladolid,12,SD Eibar,0,0,Spain,18
+12,sobota,11/10/18,4:15 PM,10,Getafe,15,Valencia,0,1,Spain,18
+12,sobota,11/10/18,6:30 PM,4,Atlético Madrid,17,Athletic,3,2,Spain,18
+12,sobota,11/10/18,8:45 PM,9,Girona,18,CD Leganés,0,0,Spain,18
+12,nedelja,11/11/18,12:00 PM,5,Alavés,20,SD Huesca,2,1,Spain,18
+12,nedelja,11/11/18,4:15 PM,1,Barcelona,14,Real Betis,3,4,Spain,18
+12,nedelja,11/11/18,6:30 PM,19,Rayo Vallecano,16,Villarreal,2,2,Spain,18
+12,nedelja,11/11/18,6:30 PM,3,Sevilla FC,2,Espanyol,2,1,Spain,18
+12,nedelja,11/11/18,8:45 PM,11,Celta de Vigo,7,Real Madrid,2,4,Spain,18
+13,petek,11/23/18,9:00 PM,18,CD Leganés,4,Alavés,1,0,Spain,18
+13,sobota,11/24/18,1:00 PM,13,SD Eibar,6,Real Madrid,3,0,Spain,18
+13,sobota,11/24/18,4:15 PM,15,Valencia,19,Rayo Vallecano,3,0,Spain,18
+13,sobota,11/24/18,6:30 PM,20,SD Huesca,9,Levante,2,2,Spain,18
+13,sobota,11/24/18,8:45 PM,3,Atlético Madrid,1,Barcelona,1,1,Spain,18
+13,nedelja,11/25/18,12:00 PM,17,Athletic,11,Getafe,1,1,Spain,18
+13,nedelja,11/25/18,4:15 PM,2,Sevilla FC,7,Real Valladolid,1,0,Spain,18
+13,nedelja,11/25/18,6:30 PM,5,Espanyol,8,Girona,1,3,Spain,18
+13,nedelja,11/25/18,8:45 PM,16,Villarreal,12,Real Betis,2,1,Spain,18
+13,ponedeljek,11/26/18,9:00 PM,10,Real Sociedad,14,Celta de Vigo,2,1,Spain,18
+14,petek,11/30/18,9:00 PM,19,Rayo Vallecano,10,SD Eibar,1,0,Spain,18
+14,sobota,12/1/18,1:00 PM,15,Celta de Vigo,20,SD Huesca,2,0,Spain,18
+14,sobota,12/1/18,4:15 PM,12,Real Valladolid,17,CD Leganés,2,4,Spain,18
+14,sobota,12/1/18,6:30 PM,13,Getafe,5,Espanyol,3,0,Spain,18
+14,sobota,12/1/18,8:45 PM,6,Real Madrid,11,Valencia,2,0,Spain,18
+14,nedelja,12/2/18,12:00 PM,14,Real Betis,8,Real Sociedad,1,0,Spain,18
+14,nedelja,12/2/18,4:15 PM,7,Girona,3,Atlético Madrid,1,1,Spain,18
+14,nedelja,12/2/18,6:30 PM,2,Barcelona,16,Villarreal,2,0,Spain,18
+14,nedelja,12/2/18,8:45 PM,4,Alavés,1,Sevilla FC,1,1,Spain,18
+14,ponedeljek,12/3/18,9:00 PM,9,Levante,18,Athletic,3,0,Spain,18
+15,petek,12/7/18,9:00 PM,16,CD Leganés,9,Getafe,1,1,Spain,18
+15,sobota,12/8/18,1:00 PM,3,Atlético Madrid,4,Alavés,3,0,Spain,18
+15,sobota,12/8/18,4:15 PM,15,Valencia,2,Sevilla FC,1,1,Spain,18
+15,sobota,12/8/18,6:30 PM,17,Villarreal,13,Celta de Vigo,2,3,Spain,18
+15,sobota,12/8/18,8:45 PM,7,Espanyol,1,Barcelona,0,4,Spain,18
+15,nedelja,12/9/18,12:00 PM,12,SD Eibar,8,Levante,4,4,Spain,18
+15,nedelja,12/9/18,4:15 PM,20,SD Huesca,5,Real Madrid,0,1,Spain,18
+15,nedelja,12/9/18,6:30 PM,11,Real Sociedad,14,Real Valladolid,1,2,Spain,18
+15,nedelja,12/9/18,8:45 PM,10,Real Betis,19,Rayo Vallecano,2,0,Spain,18
+15,ponedeljek,12/10/18,9:00 PM,18,Athletic,6,Girona,1,0,Spain,18
+16,petek,12/14/18,9:00 PM,12,Celta de Vigo,16,CD Leganés,0,0,Spain,18
+16,sobota,12/15/18,1:00 PM,8,Getafe,14,Real Sociedad,1,0,Spain,18
+16,sobota,12/15/18,4:15 PM,11,Real Valladolid,3,Atlético Madrid,2,3,Spain,18
+16,sobota,12/15/18,6:30 PM,4,Real Madrid,19,Rayo Vallecano,1,0,Spain,18
+16,sobota,12/15/18,8:45 PM,13,SD Eibar,15,Valencia,1,1,Spain,18
+16,nedelja,12/16/18,12:00 PM,2,Sevilla FC,9,Girona,2,0,Spain,18
+16,nedelja,12/16/18,4:15 PM,10,Espanyol,7,Real Betis,1,3,Spain,18
+16,nedelja,12/16/18,6:30 PM,20,SD Huesca,17,Villarreal,2,2,Spain,18
+16,nedelja,12/16/18,8:45 PM,6,Levante,1,Barcelona,0,5,Spain,18
+16,ponedeljek,12/17/18,9:00 PM,5,Alavés,18,Athletic,0,0,Spain,18
+17,petek,12/21/18,7:30 PM,9,Girona,7,Getafe,1,1,Spain,18
+17,petek,12/21/18,9:00 PM,15,Real Sociedad,6,Alavés,0,1,Spain,18
+17,sobota,12/22/18,1:00 PM,5,Real Betis,13,SD Eibar,1,1,Spain,18
+17,sobota,12/22/18,4:15 PM,3,Atlético Madrid,11,Espanyol,1,0,Spain,18
+17,sobota,12/22/18,6:30 PM,1,Barcelona,10,Celta de Vigo,2,0,Spain,18
+17,sobota,12/22/18,8:45 PM,18,Athletic,12,Real Valladolid,1,1,Spain,18
+17,nedelja,12/23/18,12:00 PM,14,Valencia,20,SD Huesca,2,1,Spain,18
+17,nedelja,12/23/18,4:15 PM,16,CD Leganés,2,Sevilla FC,1,1,Spain,18
+17,nedelja,12/23/18,6:30 PM,19,Rayo Vallecano,8,Levante,2,1,Spain,18
+17,četrtek,1/3/19,9:30 PM,17,Villarreal,4,Real Madrid,2,2,Spain,18
+18,petek,1/4/19,7:00 PM,9,Levante,8,Girona,2,2,Spain,18
+18,petek,1/4/19,9:00 PM,12,Espanyol,16,CD Leganés,1,0,Spain,18
+18,sobota,1/5/19,1:00 PM,13,Real Valladolid,19,Rayo Vallecano,0,1,Spain,18
+18,sobota,1/5/19,4:15 PM,5,Alavés,10,Valencia,2,1,Spain,18
+18,sobota,1/5/19,8:45 PM,20,SD Huesca,6,Real Betis,2,1,Spain,18
+18,nedelja,1/6/19,12:00 PM,14,SD Eibar,17,Villarreal,0,0,Spain,18
+18,nedelja,1/6/19,4:15 PM,3,Sevilla FC,2,Atlético Madrid,1,1,Spain,18
+18,nedelja,1/6/19,6:30 PM,4,Real Madrid,15,Real Sociedad,0,2,Spain,18
+18,nedelja,1/6/19,8:45 PM,7,Getafe,1,Barcelona,1,2,Spain,18
+18,ponedeljek,1/7/19,9:00 PM,11,Celta de Vigo,18,Athletic,1,2,Spain,18
+19,petek,1/11/19,9:00 PM,19,Rayo Vallecano,15,Celta de Vigo,4,2,Spain,18
+19,sobota,1/12/19,1:00 PM,17,CD Leganés,20,SD Huesca,1,0,Spain,18
+19,sobota,1/12/19,4:15 PM,12,Valencia,14,Real Valladolid,1,1,Spain,18
+19,sobota,1/12/19,6:30 PM,9,Girona,4,Alavés,1,1,Spain,18
+19,sobota,1/12/19,8:45 PM,18,Villarreal,7,Getafe,1,2,Spain,18
+19,nedelja,1/13/19,12:00 PM,2,Atlético Madrid,10,Levante,1,0,Spain,18
+19,nedelja,1/13/19,4:15 PM,16,Athletic,3,Sevilla FC,2,0,Spain,18
+19,nedelja,1/13/19,6:30 PM,1,Barcelona,11,SD Eibar,3,0,Spain,18
+19,nedelja,1/13/19,8:45 PM,6,Real Betis,5,Real Madrid,1,2,Spain,18
+19,ponedeljek,1/14/19,9:00 PM,13,Real Sociedad,8,Espanyol,3,2,Spain,18
+20,petek,1/18/19,9:00 PM,6,Getafe,5,Alavés,4,0,Spain,18
+20,sobota,1/19/19,4:15 PM,4,Real Madrid,3,Sevilla FC,2,0,Spain,18
+20,sobota,1/19/19,6:30 PM,20,SD Huesca,2,Atlético Madrid,0,3,Spain,18
+20,sobota,1/19/19,8:45 PM,17,Celta de Vigo,11,Valencia,1,2,Spain,18
+20,nedelja,1/20/19,12:00 PM,7,Real Betis,9,Girona,3,2,Spain,18
+20,nedelja,1/20/19,4:15 PM,19,Villarreal,13,Athletic,1,1,Spain,18
+20,nedelja,1/20/19,6:30 PM,12,Levante,16,Real Valladolid,2,0,Spain,18
+20,nedelja,1/20/19,6:30 PM,18,Rayo Vallecano,8,Real Sociedad,2,2,Spain,18
+20,nedelja,1/20/19,8:45 PM,1,Barcelona,15,CD Leganés,3,1,Spain,18
+20,ponedeljek,1/21/19,9:00 PM,14,SD Eibar,10,Espanyol,3,0,Spain,18
+21,sobota,1/26/19,1:00 PM,4,Sevilla FC,10,Levante,5,0,Spain,18
+21,sobota,1/26/19,4:15 PM,2,Atlético Madrid,6,Getafe,2,0,Spain,18
+21,sobota,1/26/19,6:30 PM,15,CD Leganés,11,SD Eibar,2,2,Spain,18
+21,sobota,1/26/19,8:45 PM,8,Valencia,19,Villarreal,3,0,Spain,18
+21,nedelja,1/27/19,12:00 PM,16,Real Valladolid,17,Celta de Vigo,2,1,Spain,18
+21,nedelja,1/27/19,4:15 PM,12,Girona,1,Barcelona,0,2,Spain,18
+21,nedelja,1/27/19,6:30 PM,14,Athletic,7,Real Betis,1,0,Spain,18
+21,nedelja,1/27/19,6:30 PM,9,Real Sociedad,20,SD Huesca,0,0,Spain,18
+21,nedelja,1/27/19,8:45 PM,13,Espanyol,3,Real Madrid,2,4,Spain,18
+21,ponedeljek,1/28/19,9:00 PM,5,Alavés,18,Rayo Vallecano,0,1,Spain,18
+22,petek,2/1/19,9:00 PM,20,SD Huesca,13,Real Valladolid,4,0,Spain,18
+22,sobota,2/2/19,1:00 PM,10,Levante,6,Getafe,0,0,Spain,18
+22,sobota,2/2/19,4:15 PM,9,Real Sociedad,12,Athletic,2,1,Spain,18
+22,sobota,2/2/19,6:30 PM,1,Barcelona,7,Valencia,2,2,Spain,18
+22,sobota,2/2/19,8:45 PM,18,Celta de Vigo,4,Sevilla FC,1,0,Spain,18
+22,nedelja,2/3/19,12:00 PM,19,Villarreal,15,Espanyol,2,2,Spain,18
+22,nedelja,2/3/19,4:15 PM,8,Real Betis,2,Atlético Madrid,1,0,Spain,18
+22,nedelja,2/3/19,6:30 PM,11,SD Eibar,14,Girona,3,0,Spain,18
+22,nedelja,2/3/19,8:45 PM,3,Real Madrid,5,Alavés,3,0,Spain,18
+22,ponedeljek,2/4/19,9:00 PM,17,Rayo Vallecano,16,CD Leganés,1,2,Spain,18
+23,petek,2/8/19,9:00 PM,15,Real Valladolid,19,Villarreal,0,0,Spain,18
+23,sobota,2/9/19,1:00 PM,5,Getafe,17,Celta de Vigo,3,1,Spain,18
+23,sobota,2/9/19,4:15 PM,2,Atlético Madrid,3,Real Madrid,1,3,Spain,18
+23,sobota,2/9/19,6:30 PM,14,Espanyol,18,Rayo Vallecano,2,1,Spain,18
+23,sobota,2/9/19,8:45 PM,16,Girona,20,SD Huesca,0,2,Spain,18
+23,nedelja,2/10/19,12:00 PM,13,CD Leganés,7,Real Betis,3,0,Spain,18
+23,nedelja,2/10/19,4:15 PM,8,Valencia,9,Real Sociedad,0,0,Spain,18
+23,nedelja,2/10/19,6:30 PM,4,Sevilla FC,10,SD Eibar,2,2,Spain,18
+23,nedelja,2/10/19,8:45 PM,12,Athletic,1,Barcelona,0,0,Spain,18
+23,ponedeljek,2/11/19,9:00 PM,6,Alavés,11,Levante,2,0,Spain,18
+24,petek,2/15/19,9:00 PM,10,SD Eibar,5,Getafe,2,2,Spain,18
+24,sobota,2/16/19,1:00 PM,17,Celta de Vigo,13,Levante,1,4,Spain,18
+24,sobota,2/16/19,4:15 PM,18,Rayo Vallecano,3,Atlético Madrid,0,1,Spain,18
+24,sobota,2/16/19,6:30 PM,9,Real Sociedad,11,CD Leganés,3,0,Spain,18
+24,sobota,2/16/19,8:45 PM,1,Barcelona,15,Real Valladolid,1,0,Spain,18
+24,nedelja,2/17/19,12:00 PM,2,Real Madrid,16,Girona,1,2,Spain,18
+24,nedelja,2/17/19,4:15 PM,8,Valencia,12,Espanyol,0,0,Spain,18
+24,nedelja,2/17/19,6:30 PM,19,Villarreal,4,Sevilla FC,3,0,Spain,18
+24,nedelja,2/17/19,8:45 PM,7,Real Betis,6,Alavés,1,1,Spain,18
+24,ponedeljek,2/18/19,9:00 PM,20,SD Huesca,14,Athletic,0,1,Spain,18
+25,petek,2/22/19,9:00 PM,13,Espanyol,20,SD Huesca,1,1,Spain,18
+25,sobota,2/23/19,1:00 PM,5,Getafe,19,Rayo Vallecano,2,1,Spain,18
+25,sobota,2/23/19,4:15 PM,4,Sevilla FC,1,Barcelona,2,4,Spain,18
+25,sobota,2/23/19,6:30 PM,6,Alavés,17,Celta de Vigo,0,0,Spain,18
+25,sobota,2/23/19,8:45 PM,12,Athletic,10,SD Eibar,1,0,Spain,18
+25,nedelja,2/24/19,12:00 PM,14,CD Leganés,9,Valencia,1,1,Spain,18
+25,nedelja,2/24/19,4:15 PM,2,Atlético Madrid,18,Villarreal,2,0,Spain,18
+25,nedelja,2/24/19,6:30 PM,16,Real Valladolid,8,Real Betis,0,2,Spain,18
+25,nedelja,2/24/19,8:45 PM,11,Levante,3,Real Madrid,1,2,Spain,18
+25,ponedeljek,2/25/19,9:00 PM,15,Girona,7,Real Sociedad,0,0,Spain,18
+26,petek,3/1/19,9:00 PM,19,Rayo Vallecano,15,Girona,0,2,Spain,18
+26,sobota,3/2/19,1:00 PM,12,Espanyol,16,Real Valladolid,3,1,Spain,18
+26,sobota,3/2/19,4:15 PM,18,Villarreal,6,Alavés,1,2,Spain,18
+26,sobota,3/2/19,6:30 PM,20,SD Huesca,5,Sevilla FC,2,1,Spain,18
+26,sobota,3/2/19,8:45 PM,3,Real Madrid,1,Barcelona,0,1,Spain,18
+26,nedelja,3/3/19,12:00 PM,11,SD Eibar,17,Celta de Vigo,1,0,Spain,18
+26,nedelja,3/3/19,4:15 PM,7,Real Betis,4,Getafe,1,2,Spain,18
+26,nedelja,3/3/19,6:30 PM,8,Real Sociedad,2,Atlético Madrid,0,2,Spain,18
+26,nedelja,3/3/19,8:45 PM,9,Valencia,10,Athletic,2,0,Spain,18
+26,ponedeljek,3/4/19,9:00 PM,14,CD Leganés,13,Levante,1,0,Spain,18
+27,petek,3/8/19,9:00 PM,12,Athletic,11,Espanyol,1,1,Spain,18
+27,sobota,3/9/19,1:00 PM,5,Alavés,10,SD Eibar,1,1,Spain,18
+27,sobota,3/9/19,4:15 PM,2,Atlético Madrid,13,CD Leganés,1,0,Spain,18
+27,sobota,3/9/19,6:30 PM,1,Barcelona,19,Rayo Vallecano,3,1,Spain,18
+27,sobota,3/9/19,8:45 PM,4,Getafe,20,SD Huesca,2,1,Spain,18
+27,nedelja,3/10/19,12:00 PM,17,Celta de Vigo,8,Real Betis,0,1,Spain,18
+27,nedelja,3/10/19,4:15 PM,14,Girona,7,Valencia,2,3,Spain,18
+27,nedelja,3/10/19,6:30 PM,15,Levante,18,Villarreal,0,2,Spain,18
+27,nedelja,3/10/19,6:30 PM,6,Sevilla FC,9,Real Sociedad,5,2,Spain,18
+27,nedelja,3/10/19,8:45 PM,16,Real Valladolid,3,Real Madrid,1,4,Spain,18
+28,petek,3/15/19,9:00 PM,10,Real Sociedad,15,Levante,1,1,Spain,18
+28,sobota,3/16/19,1:00 PM,20,SD Huesca,5,Alavés,1,3,Spain,18
+28,sobota,3/16/19,4:15 PM,3,Real Madrid,18,Celta de Vigo,2,0,Spain,18
+28,sobota,3/16/19,6:30 PM,12,Athletic,2,Atlético Madrid,2,0,Spain,18
+28,sobota,3/16/19,8:45 PM,13,CD Leganés,14,Girona,0,2,Spain,18
+28,nedelja,3/17/19,12:00 PM,9,SD Eibar,16,Real Valladolid,1,2,Spain,18
+28,nedelja,3/17/19,4:15 PM,11,Espanyol,6,Sevilla FC,0,1,Spain,18
+28,nedelja,3/17/19,6:30 PM,7,Valencia,4,Getafe,0,0,Spain,18
+28,nedelja,3/17/19,6:30 PM,17,Villarreal,19,Rayo Vallecano,3,1,Spain,18
+28,nedelja,3/17/19,8:45 PM,8,Real Betis,1,Barcelona,1,4,Spain,18
+29,petek,3/29/19,9:00 PM,12,Girona,9,Athletic,1,2,Spain,18
+29,sobota,3/30/19,1:00 PM,4,Getafe,14,CD Leganés,0,2,Spain,18
+29,sobota,3/30/19,4:15 PM,1,Barcelona,13,Espanyol,2,0,Spain,18
+29,sobota,3/30/19,6:30 PM,18,Celta de Vigo,17,Villarreal,3,2,Spain,18
+29,sobota,3/30/19,8:45 PM,5,Alavés,2,Atlético Madrid,0,4,Spain,18
+29,nedelja,3/31/19,12:00 PM,15,Levante,11,SD Eibar,2,2,Spain,18
+29,nedelja,3/31/19,2:00 PM,19,Rayo Vallecano,8,Real Betis,1,1,Spain,18
+29,nedelja,3/31/19,4:15 PM,6,Sevilla FC,7,Valencia,0,1,Spain,18
+29,nedelja,3/31/19,6:30 PM,16,Real Valladolid,10,Real Sociedad,1,1,Spain,18
+29,nedelja,3/31/19,8:45 PM,3,Real Madrid,20,SD Huesca,3,2,Spain,18
+30,torek,4/2/19,7:30 PM,2,Atlético Madrid,13,Girona,2,0,Spain,18
+30,torek,4/2/19,8:30 PM,14,Espanyol,4,Getafe,1,1,Spain,18
+30,torek,4/2/19,9:30 PM,17,Villarreal,1,Barcelona,4,4,Spain,18
+30,sreda,4/3/19,7:30 PM,8,Athletic,15,Levante,3,2,Spain,18
+30,sreda,4/3/19,8:30 PM,11,SD Eibar,19,Rayo Vallecano,2,1,Spain,18
+30,sreda,4/3/19,8:30 PM,20,SD Huesca,18,Celta de Vigo,3,3,Spain,18
+30,sreda,4/3/19,9:30 PM,6,Valencia,3,Real Madrid,2,1,Spain,18
+30,četrtek,4/4/19,7:30 PM,7,Sevilla FC,5,Alavés,2,0,Spain,18
+30,četrtek,4/4/19,8:30 PM,12,CD Leganés,16,Real Valladolid,1,0,Spain,18
+30,četrtek,4/4/19,9:30 PM,10,Real Sociedad,9,Real Betis,2,1,Spain,18
+31,sobota,4/6/19,1:00 PM,14,Girona,13,Espanyol,1,2,Spain,18
+31,sobota,4/6/19,4:15 PM,3,Real Madrid,11,SD Eibar,2,1,Spain,18
+31,sobota,4/6/19,6:30 PM,19,Rayo Vallecano,5,Valencia,2,0,Spain,18
+31,sobota,4/6/19,8:45 PM,1,Barcelona,2,Atlético Madrid,2,0,Spain,18
+31,nedelja,4/7/19,12:00 PM,7,Alavés,12,CD Leganés,1,1,Spain,18
+31,nedelja,4/7/19,2:00 PM,4,Getafe,8,Athletic,1,0,Spain,18
+31,nedelja,4/7/19,4:15 PM,16,Real Valladolid,6,Sevilla FC,0,2,Spain,18
+31,nedelja,4/7/19,6:30 PM,18,Celta de Vigo,10,Real Sociedad,3,1,Spain,18
+31,nedelja,4/7/19,6:30 PM,15,Levante,20,SD Huesca,2,2,Spain,18
+31,nedelja,4/7/19,8:45 PM,9,Real Betis,17,Villarreal,2,1,Spain,18
+32,sobota,4/13/19,1:00 PM,13,Espanyol,7,Alavés,2,1,Spain,18
+32,sobota,4/13/19,4:15 PM,20,SD Huesca,1,Barcelona,0,0,Spain,18
+32,sobota,4/13/19,6:30 PM,2,Atlético Madrid,16,Celta de Vigo,2,0,Spain,18
+32,sobota,4/13/19,8:45 PM,5,Sevilla FC,9,Real Betis,3,2,Spain,18
+32,nedelja,4/14/19,12:00 PM,17,Real Valladolid,4,Getafe,2,2,Spain,18
+32,nedelja,4/14/19,2:00 PM,8,Athletic,19,Rayo Vallecano,3,2,Spain,18
+32,nedelja,4/14/19,4:15 PM,10,Real Sociedad,12,SD Eibar,1,1,Spain,18
+32,nedelja,4/14/19,6:30 PM,14,Girona,18,Villarreal,0,1,Spain,18
+32,nedelja,4/14/19,8:45 PM,6,Valencia,15,Levante,3,1,Spain,18
+32,ponedeljek,4/15/19,9:00 PM,11,CD Leganés,3,Real Madrid,1,1,Spain,18
+33,petek,4/19/19,9:00 PM,8,Alavés,18,Real Valladolid,2,2,Spain,18
+33,sobota,4/20/19,1:00 PM,17,Celta de Vigo,14,Girona,2,1,Spain,18
+33,sobota,4/20/19,4:15 PM,13,SD Eibar,2,Atlético Madrid,0,1,Spain,18
+33,sobota,4/20/19,6:30 PM,19,Rayo Vallecano,20,SD Huesca,0,0,Spain,18
+33,sobota,4/20/19,8:45 PM,1,Barcelona,10,Real Sociedad,2,1,Spain,18
+33,nedelja,4/21/19,12:00 PM,16,Levante,11,Espanyol,2,2,Spain,18
+33,nedelja,4/21/19,2:00 PM,5,Getafe,4,Sevilla FC,3,0,Spain,18
+33,nedelja,4/21/19,4:15 PM,3,Real Madrid,7,Athletic,3,0,Spain,18
+33,nedelja,4/21/19,6:30 PM,15,Villarreal,12,CD Leganés,2,1,Spain,18
+33,nedelja,4/21/19,8:45 PM,9,Real Betis,6,Valencia,1,2,Spain,18
+34,torek,4/23/19,7:30 PM,20,SD Huesca,13,SD Eibar,2,0,Spain,18
+34,torek,4/23/19,8:30 PM,18,Real Valladolid,16,Girona,1,0,Spain,18
+34,torek,4/23/19,9:30 PM,8,Alavés,1,Barcelona,0,2,Spain,18
+34,sreda,4/24/19,7:30 PM,2,Atlético Madrid,5,Valencia,3,2,Spain,18
+34,sreda,4/24/19,8:30 PM,12,CD Leganés,7,Athletic,0,1,Spain,18
+34,sreda,4/24/19,8:30 PM,10,Espanyol,15,Celta de Vigo,1,1,Spain,18
+34,sreda,4/24/19,9:30 PM,17,Levante,9,Real Betis,4,0,Spain,18
+34,četrtek,4/25/19,7:30 PM,6,Sevilla FC,19,Rayo Vallecano,5,0,Spain,18
+34,četrtek,4/25/19,8:30 PM,11,Real Sociedad,14,Villarreal,0,1,Spain,18
+34,četrtek,4/25/19,9:30 PM,4,Getafe,3,Real Madrid,0,0,Spain,18
+35,sobota,4/27/19,1:00 PM,7,Athletic,8,Alavés,1,1,Spain,18
+35,sobota,4/27/19,4:15 PM,2,Atlético Madrid,17,Real Valladolid,1,0,Spain,18
+35,sobota,4/27/19,6:30 PM,12,CD Leganés,16,Celta de Vigo,0,0,Spain,18
+35,sobota,4/27/19,8:45 PM,1,Barcelona,15,Levante,1,0,Spain,18
+35,nedelja,4/28/19,12:00 PM,6,Valencia,13,SD Eibar,0,1,Spain,18
+35,nedelja,4/28/19,2:00 PM,18,Girona,5,Sevilla FC,1,0,Spain,18
+35,nedelja,4/28/19,4:15 PM,11,Real Sociedad,4,Getafe,2,1,Spain,18
+35,nedelja,4/28/19,6:30 PM,14,Villarreal,19,SD Huesca,1,1,Spain,18
+35,nedelja,4/28/19,8:45 PM,20,Rayo Vallecano,3,Real Madrid,1,0,Spain,18
+35,ponedeljek,4/29/19,9:00 PM,9,Real Betis,10,Espanyol,1,1,Spain,18
+36,petek,5/3/19,9:00 PM,5,Sevilla FC,13,CD Leganés,0,3,Spain,18
+36,sobota,5/4/19,1:00 PM,16,Levante,19,Rayo Vallecano,4,1,Spain,18
+36,sobota,5/4/19,4:15 PM,11,Espanyol,2,Atlético Madrid,3,0,Spain,18
+36,sobota,5/4/19,6:30 PM,8,Alavés,10,Real Sociedad,0,1,Spain,18
+36,sobota,5/4/19,8:45 PM,15,Celta de Vigo,1,Barcelona,2,0,Spain,18
+36,nedelja,5/5/19,12:00 PM,4,Getafe,17,Girona,2,0,Spain,18
+36,nedelja,5/5/19,2:00 PM,12,SD Eibar,9,Real Betis,1,0,Spain,18
+36,nedelja,5/5/19,4:15 PM,3,Real Madrid,14,Villarreal,3,2,Spain,18
+36,nedelja,5/5/19,6:30 PM,18,Real Valladolid,7,Athletic,1,0,Spain,18
+36,nedelja,5/5/19,8:45 PM,20,SD Huesca,6,Valencia,2,6,Spain,18
+37,nedelja,5/12/19,6:30 PM,7,Athletic,14,Celta de Vigo,3,1,Spain,18
+37,nedelja,5/12/19,6:30 PM,2,Atlético Madrid,6,Sevilla FC,1,1,Spain,18
+37,nedelja,5/12/19,6:30 PM,1,Barcelona,4,Getafe,2,0,Spain,18
+37,nedelja,5/12/19,6:30 PM,13,Real Betis,20,SD Huesca,2,1,Spain,18
+37,nedelja,5/12/19,6:30 PM,18,Girona,16,Levante,1,2,Spain,18
+37,nedelja,5/12/19,6:30 PM,19,Rayo Vallecano,17,Real Valladolid,1,2,Spain,18
+37,nedelja,5/12/19,6:30 PM,5,Valencia,9,Alavés,3,1,Spain,18
+37,nedelja,5/12/19,6:30 PM,15,Villarreal,11,SD Eibar,1,0,Spain,18
+37,nedelja,5/12/19,6:30 PM,12,CD Leganés,10,Espanyol,0,2,Spain,18
+37,nedelja,5/12/19,6:30 PM,8,Real Sociedad,3,Real Madrid,3,1,Spain,18
+38,sobota,5/18/19,1:00 PM,15,Levante,2,Atlético Madrid,2,2,Spain,18
+38,sobota,5/18/19,4:15 PM,9,Espanyol,8,Real Sociedad,2,0,Spain,18
+38,sobota,5/18/19,4:15 PM,5,Getafe,14,Villarreal,2,2,Spain,18
+38,sobota,5/18/19,4:15 PM,6,Sevilla FC,7,Athletic,2,0,Spain,18
+38,sobota,5/18/19,4:15 PM,16,Real Valladolid,4,Valencia,0,2,Spain,18
+38,sobota,5/18/19,8:45 PM,10,Alavés,18,Girona,2,1,Spain,18
+38,sobota,5/18/19,8:45 PM,17,Celta de Vigo,19,Rayo Vallecano,2,2,Spain,18
+38,sobota,5/18/19,8:45 PM,20,SD Huesca,13,CD Leganés,2,1,Spain,18
+38,nedelja,5/19/19,12:00 PM,3,Real Madrid,11,Real Betis,0,2,Spain,18
+38,nedelja,5/19/19,4:15 PM,12,SD Eibar,1,Barcelona,2,2,Spain,18
