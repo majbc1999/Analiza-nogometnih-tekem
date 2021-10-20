@@ -20,6 +20,8 @@ vzorec_matchday = (
     r'<div class="table-footer">'
 )
 
+# vzorecpy = <div class="table-header">(.*?)</div>(?s)(.*?)<div class="table-footer">
+
 # Vzorec za zajem datuma in časa znotraj matchdaya
 vzorec_datum = (
     r'<td class="hide-for-small">\n'
@@ -44,26 +46,22 @@ vzorec_tekma = (
     r'(?P<lestvica_domaci>\d{1,2})'
     r'.\)</span>&nbsp;&nbsp;<a class="vereinprofil_tooltip tooltipstered" id="'
     r'(?P<id_domaci>\d{1,5})'
-    r'" href="https://www.transfermarkt.com/.*?/spielplan/verein/\d{1,5}/saison_id/2019">'
+    r'" href="https://www.transfermarkt.com/.*?/spielplan/verein/\d{1,5}/saison_id/\d{4}">'
     r'(?P<domaca_ekipa>.*?)'
-    r'</a></td>\n(.*?)\n(.*?)class="ergebnis-link" id="\d{7}" href="https://www.transfermarkt.com/spielbericht/index/spielbericht/\d{7}">'
+    r'</a></td>\n(.*?)\n(.*?)class="ergebnis-link" id="\d{7}" href="(.*?)">'
     r'(?P<zadetki_domaci>\d{1,2})'
     r':'
     r'(?P<zadetki_gostje>\d{1,2})'
     r'</a>&nbsp;</td>\n.*?\n.*?<td class="no-border-links hauptlink"><a class="vereinprofil_tooltip tooltipstered" id="'
     r'(?P<id_gostje>\d{1,5})'
-    r'" href="https://www.transfermarkt.com/.*?/spielplan/verein/\d{1,5}/saison_id/2019">'
+    r'" href="https://www.transfermarkt.com/.*?/spielplan/verein/\d{1,5}/saison_id/\d{4}">'
     r'(?P<gostujoca_ekipa>.*?)'
     r'</a>&nbsp;&nbsp;<span class="tabellenplatz">\('
     r'(?P<lestvica_gostje>\d{1,2})'
     r'\.\)</span></td>'
 )
 
-# Uvozimo vse lige
-laliga = uvozi_datoteko(r'.\html\laliga.html')
-premierleague = uvozi_datoteko(r'.\html\premierleague.html')
-seriea = uvozi_datoteko(r'.\html\seriea.html')
-
+#vzorec = <td class="text-right no-border-rechts hauptlink"><span class="tabellenplatz">\(\d{1,2}.\)</span>&nbsp;&nbsp;<a class="vereinprofil_tooltip tooltipstered" id="\d{1,5}" href="https://www.transfermarkt.com/.*?/spielplan/verein/\d{1,5}/saison_id/\d{4}">.*?</a></td>\n(.*?)\n(.*?)class="ergebnis-link" id="\d{7}" href="(.*?)">\d{1,2}:\d{1,2}</a>&nbsp;</td>\n.*?\n.*?<td class="no-border-links hauptlink"><a class="vereinprofil_tooltip tooltipstered" id="\d{1,5}" href="https://www.transfermarkt.com/.*?/spielplan/verein/\d{1,5}/saison_id/\d{4}">(.*?)</a>&nbsp;&nbsp;<span class="tabellenplatz">\(\d{1,2}\.\)</span></td>
 
 # Orodje za zapis csv datoteke (iz predavanj - najdene v profesorjevem repozitoriju)
 def pripravi_imenik(ime_datoteke):
@@ -82,9 +80,8 @@ def zapisi_csv(slovarji, imena_polj, ime_datoteke):
             writer.writerow(slovar)
 
 # Prazni začetni seznami za slovarje
-seznam_laliga = []
-seznam_premier_league = []
-seznam_seriea = []
+seznam_den2019 = []
+
 
 # Pomožne funkcije za obdelavo podatkov:
 def stevilka_matchdaya(niz):
@@ -105,7 +102,8 @@ def remi(n):
     else: return 1
 
 # Tukaj je funkcija za izluščitev v slovarje, ki se shranijo v sezname
-def izlusci_podatke_v_slovar(seznam, podatki):
+def izlusci_podatke_v_slovar(podatki, datoteka, drzava, sezona):
+    seznam = []
     for z1 in re.finditer(vzorec_matchday, podatki):
         matchday = z1['matchday']
         x1 = z1.group()
@@ -125,48 +123,59 @@ def izlusci_podatke_v_slovar(seznam, podatki):
                     gostujoca_ekipa = z4['gostujoca_ekipa']
                     zadetki_domaci = int(z4['zadetki_domaci'])
                     zadetki_gostje = int(z4['zadetki_gostje'])
-                    if zadetki_domaci > zadetki_gostje:
-                        tocke_domaci = 3
-                        tocke_gostje = 0
-                    if zadetki_domaci < zadetki_gostje:
-                        tocke_domaci = 0
-                        tocke_gostje = 3
-                    if zadetki_domaci == zadetki_gostje:
-                        tocke_domaci = 1
-                        tocke_gostje = 1
                     slovar_tekme = {"kolo": stevilka_matchdaya(matchday), 
                                     "dan": datum_prevedi(dan), 
-                                    "datum": datum, 
+                                    "datum": datum,
                                     "ura": ura, 
-                                    "id_domaci": id_domaci, 
                                     "lestvica_domaci": lestvica_domaci, 
                                     "domaca_ekipa": domaca_ekipa,
-                                    "id_gostje": id_gostje,
                                     "lestvica_gostje": lestvica_gostje,
                                     "gostujoca_ekipa": gostujoca_ekipa,
                                     "zadetki_domaci": zadetki_domaci,
-                                    "tocke_domaci": tocke_domaci,
                                     "zadetki_gostje": zadetki_gostje,
-                                    "tocke_gostje": tocke_gostje,
-                                    "razlika_ekip": max(lestvica_domaci - lestvica_gostje, lestvica_gostje - lestvica_domaci),
-                                    "visja_na_lestvici": min(lestvica_domaci, lestvica_gostje),
-                                    "nizja_na_lestvici": max(lestvica_domaci, lestvica_gostje),
-                                    "remi": remi((1/2 * (tocke_domaci + tocke_gostje)))
+                                    "drzava": drzava,
+                                    "sezona": sezona
                                     }
-                    seznam.append(slovar_tekme)                                          
+                    seznam.append(slovar_tekme)       
 
-# Izluščimo dejanske podatke, ki so sedaj shranjeni v sezname
-izlusci_podatke_v_slovar(seznam_laliga, laliga)
-izlusci_podatke_v_slovar(seznam_premier_league, premierleague)
-izlusci_podatke_v_slovar(seznam_seriea, seriea)
+    zapisi_csv(seznam, 
+        ['kolo', 'dan', 'datum', 'ura', 'lestvica_domaci', 'domaca_ekipa', 'lestvica_gostje', 'gostujoca_ekipa', 'zadetki_domaci', 'zadetki_gostje', 'drzava', 'sezona'],
+        'obdelani-podatki-magisterij/' + datoteka + '.csv')
 
-# Jih še izvozimo v csv obliko
-zapisi_csv(seznam_laliga, 
-    ['kolo', 'dan', 'datum', 'ura', 'id_domaci', 'lestvica_domaci', 'domaca_ekipa', 'id_gostje', 'lestvica_gostje', 'gostujoca_ekipa', 'zadetki_domaci', 'tocke_domaci', 'zadetki_gostje', 'tocke_gostje', 'razlika_ekip', 'visja_na_lestvici', 'nizja_na_lestvici', 'remi'],
-    'obdelani-podatki/laliga.csv')
-zapisi_csv(seznam_premier_league, 
-    ['kolo', 'dan', 'datum', 'ura', 'id_domaci', 'lestvica_domaci', 'domaca_ekipa', 'id_gostje', 'lestvica_gostje', 'gostujoca_ekipa', 'zadetki_domaci', 'tocke_domaci', 'zadetki_gostje', 'tocke_gostje', 'razlika_ekip', 'visja_na_lestvici', 'nizja_na_lestvici', 'remi'],
-    'obdelani-podatki/premier_league.csv')
-zapisi_csv(seznam_seriea, 
-    ['kolo', 'dan', 'datum', 'ura', 'id_domaci', 'lestvica_domaci', 'domaca_ekipa', 'id_gostje', 'lestvica_gostje', 'gostujoca_ekipa', 'zadetki_domaci', 'tocke_domaci', 'zadetki_gostje', 'tocke_gostje', 'razlika_ekip', 'visja_na_lestvici', 'nizja_na_lestvici', 'remi'],
-    'obdelani-podatki/seriea.csv')
+
+############### TESTIRANJE ###################
+
+# Uvozimo vse lige
+
+izlusci_podatke_v_slovar(uvozi_datoteko(r'.\html_magisterij\bundes2018.html'), 'bundes19', 'Germany', 19)
+izlusci_podatke_v_slovar(uvozi_datoteko(r'.\html_magisterij\bundes2018.html'), 'bundes18', 'Germany', 18)
+izlusci_podatke_v_slovar(uvozi_datoteko(r'.\html_magisterij\bundes2020.html'), 'bundes20', 'Germany', 20)
+izlusci_podatke_v_slovar(uvozi_datoteko(r'.\html_magisterij\den2019.html'), 'den19', 'Denmark', 19)
+izlusci_podatke_v_slovar(uvozi_datoteko(r'.\html_magisterij\den2018.html'), 'den18', 'Denmark', 18)
+izlusci_podatke_v_slovar(uvozi_datoteko(r'.\html_magisterij\den2020.html'), 'den20', 'Denmark', 20)
+izlusci_podatke_v_slovar(uvozi_datoteko(r'.\html_magisterij\ere2019.html'), 'ere19', 'Netherlands', 19)
+izlusci_podatke_v_slovar(uvozi_datoteko(r'.\html_magisterij\ere2018.html'), 'ere18', 'Netherlands', 18)
+izlusci_podatke_v_slovar(uvozi_datoteko(r'.\html_magisterij\ere2020.html'), 'ere20', 'Netherlands', 20)
+izlusci_podatke_v_slovar(uvozi_datoteko(r'.\html_magisterij\fra2019.html'), 'fra19', 'France', 19)
+izlusci_podatke_v_slovar(uvozi_datoteko(r'.\html_magisterij\fra2018.html'), 'fra18', 'France', 18)
+izlusci_podatke_v_slovar(uvozi_datoteko(r'.\html_magisterij\fra2020.html'), 'fra20', 'France', 20)
+izlusci_podatke_v_slovar(uvozi_datoteko(r'.\html_magisterij\laliga2019.html'), 'laliga19', 'Spain', 19)
+izlusci_podatke_v_slovar(uvozi_datoteko(r'.\html_magisterij\laliga2018.html'), 'laliga18', 'Spain', 18)
+izlusci_podatke_v_slovar(uvozi_datoteko(r'.\html_magisterij\laliga2020.html'), 'laliga20', 'Spain', 20)
+izlusci_podatke_v_slovar(uvozi_datoteko(r'.\html_magisterij\por2019.html'), 'por19', 'Portugal', 19)
+izlusci_podatke_v_slovar(uvozi_datoteko(r'.\html_magisterij\por2018.html'), 'por18', 'Portugal', 18)
+izlusci_podatke_v_slovar(uvozi_datoteko(r'.\html_magisterij\por2020.html'), 'por20', 'Portugal', 20)
+izlusci_podatke_v_slovar(uvozi_datoteko(r'.\html_magisterij\prem2019.html'), 'prem19', 'United Kingdom', 19)
+izlusci_podatke_v_slovar(uvozi_datoteko(r'.\html_magisterij\prem2018.html'), 'prem18', 'United Kingdom', 18)
+izlusci_podatke_v_slovar(uvozi_datoteko(r'.\html_magisterij\prem2020.html'), 'prem20', 'United Kingdom', 20)
+izlusci_podatke_v_slovar(uvozi_datoteko(r'.\html_magisterij\serie2019.html'), 'serie19', 'Italy', 19)
+izlusci_podatke_v_slovar(uvozi_datoteko(r'.\html_magisterij\serie2018.html'), 'serie18', 'Italy', 18)
+izlusci_podatke_v_slovar(uvozi_datoteko(r'.\html_magisterij\serie2020.html'), 'serie20', 'Italy', 20)
+izlusci_podatke_v_slovar(uvozi_datoteko(r'.\html_magisterij\srb2019.html'), 'srb19', 'Serbia', 19)
+izlusci_podatke_v_slovar(uvozi_datoteko(r'.\html_magisterij\srb2018.html'), 'srb18', 'Serbia', 18)
+izlusci_podatke_v_slovar(uvozi_datoteko(r'.\html_magisterij\srb2020.html'), 'srb20', 'Serbia', 20)
+izlusci_podatke_v_slovar(uvozi_datoteko(r'.\html_magisterij\tur2019.html'), 'tur19', 'Turkey', 19)
+izlusci_podatke_v_slovar(uvozi_datoteko(r'.\html_magisterij\tur2018.html'), 'tur18', 'Turkey', 18)
+izlusci_podatke_v_slovar(uvozi_datoteko(r'.\html_magisterij\tur2020.html'), 'tur20', 'Turkey', 20)
+
+                
