@@ -148,7 +148,7 @@ def izlusci_podatke_v_slovar(podatki, datoteka, drzava, sezona):
 # Uvozimo vse lige
 
 izlusci_podatke_v_slovar(uvozi_datoteko(r'.\html_magisterij\bundes2018.html'), 'bundes19', 'Germany', 19)
-izlusci_podatke_v_slovar(uvozi_datoteko(r'.\html_magisterij\bundes2018.html'), 'bundes18', 'Germany', 18)
+izlusci_podatke_v_slovar(uvozi_datoteko(r'.\html_magisterij\bundes2019.html'), 'bundes18', 'Germany', 18)
 izlusci_podatke_v_slovar(uvozi_datoteko(r'.\html_magisterij\bundes2020.html'), 'bundes20', 'Germany', 20)
 izlusci_podatke_v_slovar(uvozi_datoteko(r'.\html_magisterij\den2019.html'), 'den19', 'Denmark', 19)
 izlusci_podatke_v_slovar(uvozi_datoteko(r'.\html_magisterij\den2018.html'), 'den18', 'Denmark', 18)
